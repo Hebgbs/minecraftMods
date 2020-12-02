@@ -1,5 +1,6 @@
 # Immersive Subtitles
 > Presently, I am open to `pack.png` submissions! Feel free to also push changes with modified pack thumbnails to evaluate, or leave a comment with your submission!
+
 This is the alternative repository and primary development portal for Immersive Subtitles, a Minecraft mod to make subtitles _not suck_ usng colours and formatting.  
 
 If you would like to suggest improvements, please file issues with your request. **do not** fork and push changes to default expecting me to implement unless it is to present ways of miniaturizing code in the provided `json` file by removing redundant formatting characters.  
