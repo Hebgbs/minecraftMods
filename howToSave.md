@@ -14,9 +14,9 @@ Following the above advice, download and save to the path where your `resourcepa
   
 ### Unpacked
 There are two methods for this:
-   a. Extract the contents of this archive to a _directory_ within your game profile's `resourcepacks` path as defined above or applicable for your instance of Minecraft.
-   b. Same as A, except this time _clone_ the contents. You can use `-C` with command-line instances of Git to define the clone path, or using GUI tools (such as GitHub for Desktop) define repository path to where your profile's `resourcepacks` directory is.
+   1. Extract the contents of this archive to a _directory_ within your game profile's `resourcepacks` path as defined above or applicable for your instance of Minecraft.
+   2. Same as 1, except this time _clone_ the contents. You can use `-C` with command-line instances of Git to define the clone path, or using GUI tools (such as GitHub for Desktop) define repository path to where your profile's `resourcepacks` directory is.
   
-If you elect for option B and keep your Git repositories in a _separate_ directory, use of symbolic links (should your disk partition formats support it) will allow you to remain organized while being able to use any of my content.  
+If you elect for option 2 and keep your Git repositories in a _separate_ directory, use of symbolic links (should your disk partition formats support it) will allow you to remain organized while being able to use any of my content.  
   
 However it is done, using the pack like this will allow you to update its contents from either desktop GUI or comand line by pulling in new content _as it is released_ so you do not have to download and extract yourself ever again.
