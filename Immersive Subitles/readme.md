@@ -14,7 +14,7 @@ Please visit the [guide to saving my resource packs](https://github.com/Hebgbs/m
 If a developer produced their world-altering / dimensional mod to similar standards as Mojang, they would have included additional subtitles which would display along with Minecraft's standard suite of subs. Applying (alternative) formatting to them would be beneficial for consistiency with the subtities provided here.  
 
 ### Translations  
-TBD. Make an issue if you believe I should give a hoot about your tongue ebough to spend another three hours combing through my changes and creating additional translations. As triggers should be common between languages (I would hope) it shouldn't be too hard to figure out. If you want to save me some effort, make a pull request with your mother tongue receiving the same treatment as this mod and I will consider merging your work here.
+TBD. Make an issue if you believe I should give a hoot about your tongue enough to spend another three hours combing through my changes and creating additional translations. As triggers should be common between languages (I would hope) it shouldn't be too hard to figure out. If you want to save me some effort, make a pull request with your mother tongue receiving the same treatment as this mod and I will consider merging your work here.
 
 ### Other changes  
 `subtitles.block.respawn_anchor.ambient` had its output changed to reflect it is sound emitted from a Respawn Anchor.  
