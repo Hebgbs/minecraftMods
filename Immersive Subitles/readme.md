@@ -1,7 +1,7 @@
 # Immersive Subtitles
 This is the alternative repository and primary development portal for Immersive Subtitles, a Minecraft mod to make subtitles _not suck_ usng colours and formatting.  
 
-If you would like to suggest improvements, please file issues with your request. **do not** fork and push changes to default expecting me to implement unless it is to present ways of miniaturizing how this is presented by removing redundant formatting characters.  
+If you would like to suggest improvements, please file issues with your request. **do not** fork and push changes to default expecting me to implement unless it is to present ways of miniaturizing code in the provided `json` file by removing redundant formatting characters.  
 
 This kit **does not** cover snapshot or third-party mods at the moment, though this will be expected to change. Deliberation on colours and formatting used are welcome, and necessary to improve this modification so subtitles _by appearance_ are more intuitive to understand for sighted individuals with only minor sensory defects who possess a common understanding of qualia for colour. For major sensory defects like colourblindness (any of the three major types), additional third-party mods which address such with shaders / filters may be necessary.  
   
