@@ -2,10 +2,11 @@
 
 ### General
 Most, if not all of my Minecraft content will be supplied in their decompressed form. If being irresponsible by keeping everything in the default location, your `resourcepacks` directory will typically be in two places:  
-|---|---|  
-|_Windows_|`%appdata%\.minecraft`|  
-|_Most else_|`$HOME/.minecraft`|  
-  
+|System|Directory|
+|---|---|
+|_Windows_|`%appdata%\.minecraft`|
+|_Most else_|`$HOME/.minecraft`|
+    
 Otherwise, this content will go into your `resourcepacks` directory within the path defined for "Game Directory" of any desired Minecraft game profile.  
   
 ### Packed
