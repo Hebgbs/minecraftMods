@@ -40,7 +40,7 @@
 	"subtitles.block.brewing_stand.brew":
 		"§7§oBrewing Stand bubbles",
 	"subtitles.block.bubble_column.bubble_pop":
-		"§s1§oBubbles pop",
+		"§1§oBubbles pop",
 	"subtitles.block.bubble_column.upwards_ambient":
 		"§1§oBubbles flow",
 	"subtitles.block.bubble_column.upwards_inside":
@@ -168,11 +168,11 @@
 	"subtitles.entity.armor_stand.fall":
 		"§7§oSomething fell",
 	"subtitles.entity.arrow.hit":
-		"§lArrow hits",
+		"§f§lArrow hits",
 	"subtitles.entity.arrow.hit_player":
 		"§4§lPlayer hit",
 	"subtitles.entity.arrow.shoot":
-		"§lArrow fired",
+		"§f§lArrow fired",
 	"subtitles.entity.bat.ambient":
 		"§8§oBat screeches",
 	"subtitles.entity.bat.death":
@@ -252,9 +252,9 @@
 	"subtitles.entity.creeper.primed":
 		"§c§o§lCreeper hisses",
 	"subtitles.entity.dolphin.ambient":
-		"§1§oDolphin chirps",
+		"§9§oDolphin chirps",
 	"subtitles.entity.dolphin.ambient_water":
-		"§1§oDolphin whistles",
+		"§9§oDolphin whistles",
 	"subtitles.entity.dolphin.attack":
 		"§4§oDolphin attacks",
 	"subtitles.entity.dolphin.death":
@@ -404,19 +404,19 @@
 	"subtitles.entity.generic.burn":
 		"§c§oBurning",
 	"subtitles.entity.generic.death":
-		"§lDying",
+		"§f§lDying",
 	"subtitles.entity.generic.drink":
 		"§2§oSipping",
 	"subtitles.entity.generic.eat":
 		"§2§oEating",
 	"subtitles.entity.generic.explode":
-		"§o§lExplosion",
+		"§f§o§lExplosion",
 	"subtitles.entity.generic.extinguish_fire":
 		"§7§oFire extinguishes",
 	"subtitles.entity.generic.hurt":
-		"§lSomething hurts",
+		"§f§lSomething hurts",
 	"subtitles.entity.generic.small_fall":
-		"§lSomething trips",
+		"§f§lSomething trips",
 	"subtitles.entity.generic.splash":
 		"§1§oSplashing",
 	"subtitles.entity.generic.swim":
@@ -502,7 +502,7 @@
 	"subtitles.entity.iron_golem.attack":
 		"§lIron Golem attacks",
 	"subtitles.entity.iron_golem.damage":
-		"§4§o§lIron Golem breaks",
+		"§f§4§o§lIron Golem breaks",
 	"subtitles.entity.iron_golem.death":
 		"§c§lIron Golem dies",
 	"subtitles.entity.iron_golem.hurt":
@@ -528,7 +528,7 @@
 	"subtitles.entity.leash_knot.place":
 		"§2§oLeash knot tied",
 	"subtitles.entity.lightning_bolt.impact":
-		"§lLightning strikes",
+		"§f§lLightning strikes",
 	"subtitles.entity.lightning_bolt.thunder":
 		"§7§oThunder roars",
 	"subtitles.entity.llama.ambient":
@@ -544,7 +544,7 @@
 	"subtitles.entity.llama.hurt":
 		"§4§oLlama hurts",
 	"subtitles.entity.llama.spit":
-		"§lLlama spits",
+		"§f§lLlama spits",
 	"subtitles.entity.llama.step":
 		"§8§oLlama steps",
 	"subtitles.entity.llama.swag":
@@ -738,19 +738,19 @@
 	"subtitles.entity.pillager.hurt":
 		"§2§oPillager hurts",
 	"subtitles.entity.player.attack.crit":
-		"§o§lCritical attack",
+		"§f§o§lCritical attack",
 	"subtitles.entity.player.attack.knockback":
-		"§o§lKnockback attack",
+		"§f§o§lKnockback attack",
 	"subtitles.entity.player.attack.strong":
-		"§o§lStrong attack",
+		"§f§o§lStrong attack",
 	"subtitles.entity.player.attack.sweep":
-		"§o§lSweeping attack",
+		"§f§o§lSweeping attack",
 	"subtitles.entity.player.attack.weak":
 		"§7§o§lWeak attack",
 	"subtitles.entity.player.burp":
 		"§8§oBurp",
 	"subtitles.entity.player.death":
-		"§c§lPlayer dies",
+		"§c§o§lPlayer dies",
 	"subtitles.entity.player.hurt":
 		"§4§lPlayer hurts",
 	"subtitles.entity.player.hurt_drown":
@@ -770,9 +770,9 @@
 	"subtitles.entity.polar_bear.warning":
 		"§4§oPolar Bear roars",
 	"subtitles.entity.potion.splash":
-		"§lBottle smashes",
+		"§f§lBottle smashes",
 	"subtitles.entity.potion.throw":
-		"§lBottle thrown",
+		"§f§lBottle thrown",
 	"subtitles.entity.puffer_fish.blow_out":
 		"§4§oPufferfish deflates",
 	"subtitles.entity.puffer_fish.blow_up":
@@ -910,7 +910,7 @@
 	"subtitles.entity.strider.retreat":
 		"§4§oStrider retreats",
 	"subtitles.entity.tnt.primed":
-		"§o§lTNT fizzes",
+		"§f§o§lTNT fizzes",
 	"subtitles.entity.tropical_fish.death":
 		"§8§o§lTropical Fish dies",
 	"subtitles.entity.tropical_fish.flop":
@@ -1058,7 +1058,7 @@
 	"subtitles.entity.zoglin.ambient":
 		"§4§oZoglin growls",
 	"subtitles.entity.zoglin.angry":
-		"§4§oZoglin growls angrily",
+		"§c§oZoglin growls angrily",
 	"subtitles.entity.zoglin.attack":
 		"§c§lZoglin attacks",
 	"subtitles.entity.zoglin.death":
@@ -1150,23 +1150,23 @@
 	"subtitles.item.crop.plant":
 		"§8§oCrop planted",
 	"subtitles.item.crossbow.charge":
-		"§o§lCrossbow charges up",
+		"§f§o§lCrossbow charges up",
 	"subtitles.item.crossbow.hit":
-		"§o§lArrow hits",
+		"§f§o§lArrow hits",
 	"subtitles.item.crossbow.load":
-		"§o§lCrossbow loads",
+		"§f§o§lCrossbow loads",
 	"subtitles.item.crossbow.shoot":
-		"§o§lCrossbow fires",
+		"§f§o§lCrossbow fires",
 	"subtitles.item.firecharge.use":
-		"§o§lFireball whooshes",
+		"§f§o§lFireball whooshes",
 	"subtitles.item.flintandsteel.use":
-		"§o§lFlint and Steel click",
+		"§f§o§lFlint and Steel click",
 	"subtitles.item.hoe.till":
 		"§8§oHoe tills",
 	"subtitles.item.honey_bottle.drink":
 		"§2§oGulping",
 	"subtitles.item.lodestone_compass.lock":
-		"§e§oLodestone Compass locks onto Lodestone",
+		"§e§lLodestone Compass locks onto Lodestone",
 	"subtitles.item.nether_wart.plant":
 		"§3§oCrop planted",
 	"subtitles.item.shears.shear":
@@ -1176,17 +1176,17 @@
 	"subtitles.item.shovel.flatten":
 		"§8§oShovel flattens",
 	"subtitles.item.totem.use":
-		"§e§o§lTotem activates",
+		"§b§o§lTotem activates",
 	"subtitles.item.trident.hit":
-		"§lTrident stabs",
+		"§f§lTrident stabs",
 	"subtitles.item.trident.hit_ground":
-		"§lTrident vibrates",
+		"§§flTrident vibrates",
 	"subtitles.item.trident.return":
-		"§e§lTrident returns",
+		"§e§f§lTrident returns",
 	"subtitles.item.trident.riptide":
 		"§e§oTrident zooms",
 	"subtitles.item.trident.throw":
-		"§lTrident clangs",
+		"§f§lTrident clangs",
 	"subtitles.item.trident.thunder":
 		"§e§o§lTrident thunder cracks",
 	"subtitles.particle.soul_escape":
