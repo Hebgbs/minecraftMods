@@ -110,11 +110,11 @@
 	"subtitles.block.grindstone.use":
 		"§7§oGrindstone used",
 	"subtitles.block.honey_block.slide":
-		"§7§oSliding down a honey block",
+		"§8§oSliding down a honey block",
 	"subtitles.block.iron_trapdoor.close":
-		"§8§oTrapdoor closes",
+		"§7§oTrapdoor closes",
 	"subtitles.block.iron_trapdoor.open":
-		"§8§oTrapdoor opens",
+		"§7§oTrapdoor opens",
 	"subtitles.block.lava.ambient":
 		"§4§oLava pops",
 	"subtitles.block.lava.extinguish":
@@ -144,7 +144,7 @@
 	"subtitles.block.respawn_anchor.deplete":
 		"§4§oRespawn Anchor depletes",
 	"subtitles.block.respawn_anchor.set_spawn":
-		"§c§lRespawn Anchor sets spawn",
+		"§a§lRespawn Anchor sets spawn",
 	"subtitles.block.shulker_box.close":
 		"§4§oShulker closes",
 	"subtitles.block.shulker_box.open":
@@ -176,7 +176,7 @@
 	"subtitles.entity.bat.ambient":
 		"§8§oBat screeches",
 	"subtitles.entity.bat.death":
-		"§8§o§eBat dies",
+		"§8§o§lBat dies",
 	"subtitles.entity.bat.hurt":
 		"§8§oBat hurts",
 	"subtitles.entity.bat.takeoff":
@@ -188,7 +188,7 @@
 	"subtitles.entity.bee.hurt":
 		"§4§oBee hurts",
 	"subtitles.entity.bee.loop":
-		"§8§oBee buzzes",
+		"§7§oBee buzzes",
 	"subtitles.entity.bee.loop_aggressive":
 		"§4§oBee buzzes angrily",
 	"subtitles.entity.bee.pollinate":
@@ -226,7 +226,7 @@
 	"subtitles.entity.chicken.ambient":
 		"§8§oChicken clucks",
 	"subtitles.entity.chicken.death":
-		"§a§lChieken dies",
+		"§a§lChicken dies",
 	"subtitles.entity.chicken.egg":
 		"§7§oChicken plops",
 	"subtitles.entity.chicken.hurt":
@@ -242,7 +242,7 @@
 	"subtitles.entity.cow.death":
 		"§a§lCow dies",
 	"subtitles.entity.cow.hurt":
-		"§8§oCow hurts",
+		"§2§oCow hurts",
 	"subtitles.entity.cow.milk":
 		"§2§oCow gets milked",
 	"subtitles.entity.creeper.death":
@@ -252,9 +252,9 @@
 	"subtitles.entity.creeper.primed":
 		"§c§o§lCreeper hisses",
 	"subtitles.entity.dolphin.ambient":
-		"§1§oDolphin chirps",
+		"§9§oDolphin chirps",
 	"subtitles.entity.dolphin.ambient_water":
-		"§1§oDolphin whistles",
+		"§9§oDolphin whistles",
 	"subtitles.entity.dolphin.attack":
 		"§4§oDolphin attacks",
 	"subtitles.entity.dolphin.death":
@@ -272,7 +272,7 @@
 	"subtitles.entity.dolphin.swim":
 		"§1§oDolphin swims",
 	"subtitles.entity.donkey.ambient":
-		"§7§oDonkey hee\-haws",
+		"§7§oDonkey hee-haws",
 	"subtitles.entity.donkey.angry":
 		"§4§oDonkey neighs",
 	"subtitles.entity.donkey.chest":
@@ -288,7 +288,7 @@
 	"subtitles.entity.drowned.ambient_water":
 		"§4§oDrowned gurgles",
 	"subtitles.entity.drowned.death":
-		"§2§lDrowned dies",
+		"§a§lDrowned dies",
 	"subtitles.entity.drowned.hurt":
 		"§2§oDrowned hurts",
 	"subtitles.entity.drowned.shoot":
@@ -322,7 +322,7 @@
 	"subtitles.entity.ender_dragon.hurt":
 		"§2§oDragon hurts",
 	"subtitles.entity.ender_dragon.shoot":
-		"§d§o§lDragon shoots",
+		"§d§lDragon shoots",
 	"subtitles.entity.ender_eye.death":
 		"§7§oEye of Ender falls",
 	"subtitles.entity.ender_eye.launch":
@@ -348,7 +348,7 @@
 	"subtitles.entity.evoker.ambient":
 		"§4§oEvoker murmurs",
 	"subtitles.entity.evoker.cast_spell":
-		"§c§o§lEvoker casts spell",
+		"§c§lEvoker casts spell",
 	"subtitles.entity.evoker.celebrate":
 		"§4§oEvoker cheers",
 	"subtitles.entity.evoker.death":
@@ -360,7 +360,7 @@
 	"subtitles.entity.evoker.prepare_summon":
 		"§4§oEvoker prepares summoning",
 	"subtitles.entity.evoker.prepare_wololo":
-		"§4§oEvoker prepares charming",
+		"§4§oEvoker prepares §5§ocharming",
 	"subtitles.entity.evoker_fangs.attack":
 		"§c§lFangs snap",
 	"subtitles.entity.experience_orb.pickup":
@@ -384,7 +384,7 @@
 	"subtitles.entity.fox.bite":
 		"§4§lFox bites",
 	"subtitles.entity.fox.death":
-		"§c§o§lFox dies",
+		"§c§lFox dies",
 	"subtitles.entity.fox.eat":
 		"§2§oFox eats",
 	"subtitles.entity.fox.hurt":
@@ -410,13 +410,13 @@
 	"subtitles.entity.generic.eat":
 		"§2§oEating",
 	"subtitles.entity.generic.explode":
-		"§f§lExplosion",
+		"§f§o§lExplosion",
 	"subtitles.entity.generic.extinguish_fire":
 		"§7§oFire extinguishes",
 	"subtitles.entity.generic.hurt":
-		"§f§oSomething hurts",
+		"§f§lSomething hurts",
 	"subtitles.entity.generic.small_fall":
-		"§f§oSomething trips",
+		"§f§lSomething trips",
 	"subtitles.entity.generic.splash":
 		"§1§oSplashing",
 	"subtitles.entity.generic.swim":
@@ -466,7 +466,7 @@
 	"subtitles.entity.horse.breathe":
 		"§8§oHorse breathes",
 	"subtitles.entity.horse.death":
-		"§c§o§lHorse dies",
+		"§c§lHorse dies",
 	"subtitles.entity.horse.eat":
 		"§2§oHorse eats",
 	"subtitles.entity.horse.gallop":
@@ -480,7 +480,7 @@
 	"subtitles.entity.husk.ambient":
 		"§4§oHusk groans",
 	"subtitles.entity.husk.converted_to_zombie":
-		"§4§oHusk §a§o§lconverts to §4§oZombie",
+		"§4§oHusk §2§o§lconverts to §4§oZombie",
 	"subtitles.entity.husk.death":
 		"§a§lHusk dies",
 	"subtitles.entity.husk.hurt":
@@ -500,9 +500,9 @@
 	"subtitles.entity.illusioner.prepare_mirror":
 		"§4§oIllusioner prepares mirror image",
 	"subtitles.entity.iron_golem.attack":
-		"§f§lIron Golem attacks",
+		"§lIron Golem attacks",
 	"subtitles.entity.iron_golem.damage":
-		"§4§o§lIron Golem breaks",
+		"§f§4§o§lIron Golem breaks",
 	"subtitles.entity.iron_golem.death":
 		"§c§lIron Golem dies",
 	"subtitles.entity.iron_golem.hurt":
@@ -564,9 +564,9 @@
 	"subtitles.entity.mooshroom.milk":
 		"§2§oMooshroom gets milked",
 	"subtitles.entity.mooshroom.suspicious_milk":
-		"§2§oMooshroom gets milked suspiciously",
+		"§2§oMooshroom gets milked §2§o§nsuspiciously",
 	"subtitles.entity.mule.ambient":
-		"§7§oMule hee\-haws",
+		"§7§oMule hee-haws",
 	"subtitles.entity.mule.angry":
 		"§4§oMule neighs",
 	"subtitles.entity.mule.chest":
@@ -590,7 +590,7 @@
 	"subtitles.entity.panda.cant_breed":
 		"§4§oPanda bleats",
 	"subtitles.entity.panda.death":
-		"§c§o§lPanda dies",
+		"§c§lPanda dies",
 	"subtitles.entity.panda.eat":
 		"§2§oPanda eats",
 	"subtitles.entity.panda.hurt":
@@ -610,7 +610,7 @@
 	"subtitles.entity.parrot.eats":
 		"§2§oParrot eats",
 	"subtitles.entity.parrot.fly":
-		"§7§oParrot §4§oflutters",
+		"§7§oParrot flutters",
 	"subtitles.entity.parrot.hurts":
 		"§4§oParrot hurts",
 	"subtitles.entity.parrot.imitate.blaze":
@@ -622,7 +622,7 @@
 	"subtitles.entity.parrot.imitate.elder_guardian":
 		"§7§oParrot §4§oflaps",
 	"subtitles.entity.parrot.imitate.ender_dragon":
-		"§7§oParrot §4§oroars",
+		"§7§oParrot §5§oroars",
 	"subtitles.entity.parrot.imitate.endermite":
 		"§7§oParrot §4§oscuttles",
 	"subtitles.entity.parrot.imitate.evoker":
@@ -632,7 +632,7 @@
 	"subtitles.entity.parrot.imitate.guardian":
 		"§7§oParrot §4§omoans",
 	"subtitles.entity.parrot.imitate.hoglin":
-		"§7§ooParrot growls",
+		"§7§oParrot §4§ogrowls",
 	"subtitles.entity.parrot.imitate.husk":
 		"§7§oParrot §4§ogroans",
 	"subtitles.entity.parrot.imitate.illusioner":
@@ -644,7 +644,7 @@
 	"subtitles.entity.parrot.imitate.piglin":
 		"§7§oParrot §4§osnorts",
 	"subtitles.entity.parrot.imitate.piglin_brute":
-		"§7§oParrot §4§osnorts §4§o§nmightily",
+		"§7§oParrot §4§osnorts §4§o§lmightily",
 	"subtitles.entity.parrot.imitate.pillager":
 		"§7§oParrot §4§omurmurs",
 	"subtitles.entity.parrot.imitate.ravager":
@@ -676,7 +676,7 @@
 	"subtitles.entity.parrot.imitate.zombie":
 		"§7§oParrot §4§ogroans",
 	"subtitles.entity.parrot.imitate.zombie_villager":
-		"§7§oParrot §4§ogroans",
+		"§7§oParrot §4§o§lgroans",
 	"subtitles.entity.phantom.ambient":
 		"§4§oPhantom screeches",
 	"subtitles.entity.phantom.bite":
@@ -706,7 +706,7 @@
 	"subtitles.entity.piglin.celebrate":
 		"§2§oPiglin celebrates",
 	"subtitles.entity.piglin.converted_to_zombified":
-		"§4§oPiglin §c§o§lconverts to §4§oZombified Piglin",
+		"§4§lPiglin §c§o§lconverts to §4§oZombified Piglin",
 	"subtitles.entity.piglin.death":
 		"§a§lPiglin dies",
 	"subtitles.entity.piglin.hurt":
@@ -720,15 +720,15 @@
 	"subtitles.entity.piglin_brute.ambient":
 		"§4§oPiglin Brute snorts",
 	"subtitles.entity.piglin_brute.angry":
-		"§c§oPiglin Brute snorts angrily",
+		"§4§oPiglin Brute snorts angrily",
 	"subtitles.entity.piglin_brute.death":
-		"§2§lPiglin Brute dies",
+		"§a§lPiglin Brute dies",
 	"subtitles.entity.piglin_brute.hurt":
 		"§2§oPiglin Brute hurts",
 	"subtitles.entity.piglin_brute.step":
 		"§4§oPiglin Brute steps",
 	"subtitles.entity.piglin_brute.converted_to_zombified":
-		"§4§oPiglin Brute §a§o§lconverts to §4§oZombified Piglin",
+		"§4§oPiglin Brute §2§o§lconverts to §4§oZombified Piglin",
 	"subtitles.entity.pillager.ambient":
 		"§4§oPillager murmurs",
 	"subtitles.entity.pillager.celebrate":
@@ -750,7 +750,7 @@
 	"subtitles.entity.player.burp":
 		"§8§oBurp",
 	"subtitles.entity.player.death":
-		"§c§lPlayer dies",
+		"§c§o§lPlayer dies",
 	"subtitles.entity.player.hurt":
 		"§4§lPlayer hurts",
 	"subtitles.entity.player.hurt_drown":
@@ -792,7 +792,7 @@
 	"subtitles.entity.rabbit.death":
 		"§a§lRabbit dies",
 	"subtitles.entity.rabbit.hurt":
-		"§a§oRabbit hurts",
+		"§2§oRabbit hurts",
 	"subtitles.entity.rabbit.jump":
 		"§8§oRabbit hops",
 	"subtitles.entity.ravager.ambient":
@@ -834,7 +834,7 @@
 	"subtitles.entity.shulker.open":
 		"§4§oShulker opens",
 	"subtitles.entity.shulker.shoot":
-		"§4§oShulker shoots",
+		"§4§lShulker shoots",
 	"subtitles.entity.shulker.teleport":
 		"§5§lShulker teleports",
 	"subtitles.entity.shulker_bullet.hit":
@@ -862,7 +862,7 @@
 	"subtitles.entity.skeleton_horse.hurt":
 		"§4§oSkeleton Horse hurts",
 	"subtitles.entity.skeleton_horse.swim":
-		"§9§oSkeleton Horse swims",
+		"§1§oSkeleton Horse swims",
 	"subtitles.entity.slime.attack":
 		"§4§lSlime attacks",
 	"subtitles.entity.slime.death":
@@ -872,7 +872,7 @@
 	"subtitles.entity.slime.squish":
 		"§4§oSlime squishes",
 	"subtitles.entity.snow_golem.death":
-		"§c§o§lSnow Golem dies",
+		"§c§lSnow Golem dies",
 	"subtitles.entity.snow_golem.hurt":
 		"§4§oSnow Golem hurts",
 	"subtitles.entity.snowball.throw":
@@ -944,7 +944,7 @@
 	"subtitles.entity.vex.ambient":
 		"§4§oVex vexes",
 	"subtitles.entity.vex.charge":
-		"§c§o§lVex shrieks",
+		"§c§lVex shrieks",
 	"subtitles.entity.vex.death":
 		"§a§lVex dies",
 	"subtitles.entity.vex.hurt":
@@ -1030,13 +1030,13 @@
 	"subtitles.entity.witch.throw":
 		"§c§lWitch throws",
 	"subtitles.entity.wither.ambient":
-		"§4§0§lWither angers",
+		"§4§o§lWither angers",
 	"subtitles.entity.wither.death":
 		"§b§lWither dies",
 	"subtitles.entity.wither.hurt":
 		"§3§oWither hurts",
 	"subtitles.entity.wither.shoot":
-		"§c§lWither attacks",
+		"§4§lWither attacks",
 	"subtitles.entity.wither.spawn":
 		"§c§o§lWither released",
 	"subtitles.entity.wither_skeleton.ambient":
@@ -1128,7 +1128,7 @@
 	"subtitles.item.armor.equip_turtle":
 		"§7§o§lTurtle Shell thunks",
 	"subtitles.item.axe.strip":
-		"§7§oAxe scrapes",
+		"§7o§Axe scrapes",
 	"subtitles.item.berries.pick":
 		"§2§oBerries pop",
 	"subtitles.item.book.page_turn":
@@ -1146,21 +1146,21 @@
 	"subtitles.item.bucket.fill_fish":
 		"§7§oFish captured",
 	"subtitles.item.chorus_fruit.teleport":
-		"§d§lPlayer teleports",
+		"§d§oPlayer teleports",
 	"subtitles.item.crop.plant":
 		"§8§oCrop planted",
 	"subtitles.item.crossbow.charge":
-		"§f§lCrossbow charges up",
+		"§f§o§lCrossbow charges up",
 	"subtitles.item.crossbow.hit":
-		"§f§lArrow hits",
+		"§f§o§lArrow hits",
 	"subtitles.item.crossbow.load":
-		"§f§lCrossbow loads",
+		"§f§o§lCrossbow loads",
 	"subtitles.item.crossbow.shoot":
-		"§f§lCrossbow fires",
+		"§f§o§lCrossbow fires",
 	"subtitles.item.firecharge.use":
-		"§f§lFireball whooshes",
+		"§f§o§lFireball whooshes",
 	"subtitles.item.flintandsteel.use":
-		"§f§lFlint and Steel click",
+		"§f§o§lFlint and Steel click",
 	"subtitles.item.hoe.till":
 		"§8§oHoe tills",
 	"subtitles.item.honey_bottle.drink":
@@ -1170,33 +1170,33 @@
 	"subtitles.item.nether_wart.plant":
 		"§3§oCrop planted",
 	"subtitles.item.shears.shear":
-		"§8§oShears click",
+		"§§oShears click",
 	"subtitles.item.shield.block":
 		"§7§o§lShield blocks",
 	"subtitles.item.shovel.flatten":
-		"§8o§Shovel flattens",
+		"§8§oShovel flattens",
 	"subtitles.item.totem.use":
 		"§b§o§lTotem activates",
 	"subtitles.item.trident.hit":
-		"§f§oTrident stabs",
+		"§f§lTrident stabs",
 	"subtitles.item.trident.hit_ground":
-		"§f§oTrident vibrates",
+		"§§flTrident vibrates",
 	"subtitles.item.trident.return":
-		"§e§lTrident returns",
+		"§e§f§lTrident returns",
 	"subtitles.item.trident.riptide":
 		"§e§oTrident zooms",
 	"subtitles.item.trident.throw":
-		"§f§oTrident clangs",
+		"§f§lTrident clangs",
 	"subtitles.item.trident.thunder":
 		"§e§o§lTrident thunder cracks",
 	"subtitles.particle.soul_escape":
 		"§3§oSoul escapes",
 	"subtitles.ui.cartography_table.take_result":
-		"§e§oMap drawn",
+		"§e§lMap drawn",
 	"subtitles.ui.loom.take_result":
 		"§7§oLoom used",
 	"subtitles.ui.stonecutter.take_result":
 		"§7§oStonecutter used",
 	"subtitles.weather.rain":
-		"§1§oRain falls",
+		"§1§oRain falls"
 }
