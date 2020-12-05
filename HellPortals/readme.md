@@ -8,6 +8,7 @@ The following is available for everyone to download and add to their game profil
 |Default|16x|The classic Minecraft texture pack we all know and love|
 |[Quadral](https://www.planetminecraft.com/texture-pack/ignafs-quadral-resourcepack/)|16x|Winner of Planet Minecraft's Simplepack Showdown 2, with textures which are simple, flat and vibrant.|
 |[FamousBros Faithful Venom](https://www.planetminecraft.com/texture-pack/famousbros-faithful-venom/)|32x|Fans of AntVenom's Faithful pack forked by infamousmusicify can use this.|
+|[Hafen](https://www.planetminecraft.com/texture-pack/hafen-4052511/)|16x|Nongfu's simplified cute-looking cartoon-style texture pack. Now with Hell.|
 
 # Installation
 [View this guide](https://github.com/Hebgbs/minecraftMods/blob/master/howToSave.md) for more information.
