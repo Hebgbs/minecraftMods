@@ -1,1202 +1,1198 @@
-{
-	"options.showSubtitles":
-		"§4S§ch§6o§ew§2 §aS§bu§3b§1t§9i§dt§4l§ce§6s",
-	"subtitles.ambient.cave":
-		"§8§oEerie noise",
+  "subtitles.ambient.cave":
+		"§8§oSpooky sound",
 	"subtitles.block.anvil.destroy":
-		"§c§oAnvil destroyed",
+		"§c§oAnvehl go bye",
 	"subtitles.block.anvil.land":
-		"§7§oAnvil landed",
+		"§7§oAnvehl landed",
 	"subtitles.block.anvil.use":
-		"§7§oAnvil used",
+		"§7§oAnvehl usd",
 	"subtitles.block.barrel.close":
-		"§7§oBarrel closes",
+		"§7§oFish box closez",
 	"subtitles.block.barrel.open":
-		"§7§oBarrel opens",
+		"§7§oFish box opnz",
 	"subtitles.block.beacon.activate":
-		"§b§o§lBeacon activates",
+		"§b§o§lBacon startz purrrng",
 	"subtitles.block.beacon.ambient":
-		"§3§oBeacon hums",
+		"§3§oBacon purrzzz",
 	"subtitles.block.beacon.deactivate":
-		"§c§o§lBeacon deactivates",
+		"§c§o§lBacon purzzzz no more",
 	"subtitles.block.beacon.power_select":
-		"§3§oBeacon power selected",
+		"§3§oBacon soopa powurzzz",
 	"subtitles.block.beehive.drip":
-		"§6§oHoney drips",
+		"§6§ohony plops from bloc",
 	"subtitles.block.beehive.enter":
-		"§7§oBee enters hive",
+		"§7§oB aboard hive",
 	"subtitles.block.beehive.exit":
-		"§7§oBee leaves hive",
+		"§7§oBEEZ GONE",
 	"subtitles.block.beehive.shear":
-		"§7§oShears scrape",
+		"§7§osherz crunch surfase",
 	"subtitles.block.beehive.work":
-		"§7§oBees work",
+		"§7§oB mop yer deck",
 	"subtitles.block.bell.resonate":
-		"§e§oBell resonates",
+		"§e§oBelly resonates",
 	"subtitles.block.bell.use":
-		"§c§lBell rings",
+		"§c§lBelly rings",
 	"subtitles.block.blastfurnace.fire_crackle":
-		"§7§oBlast Furnace crackles",
+		"§7§oVeri hot box cracklz",
 	"subtitles.block.brewing_stand.brew":
-		"§7§oBrewing Stand bubbles",
+		"§7§oBubbleh bubblehz",
 	"subtitles.block.bubble_column.bubble_pop":
-		"§1§oBubbles pop",
+		"§1§oBublz pop",
 	"subtitles.block.bubble_column.upwards_ambient":
-		"§1§oBubbles flow",
+		"§1§oBublz flw",
 	"subtitles.block.bubble_column.upwards_inside":
-		"§9§oBubbles woosh",
+		"§9§oPOP POP Shwizoom",
 	"subtitles.block.bubble_column.whirlpool_ambient":
-		"§1§oBubbles whirl",
+		"§1§oBublz wirly",
 	"subtitles.block.bubble_column.whirlpool_inside":
-		"§9§oBubbles zoom",
+		"§9§oBublz ZOom",
 	"subtitles.block.button.click":
-		"§7§oButton clicks",
+		"§7§oBttn clicz",
 	"subtitles.block.campfire.crackle":
-		"§7§oCampfire crackles",
+		"§7§oCampfireh cracklez",
 	"subtitles.block.chest.close":
-		"§7§oChest closes",
+		"§7§oCat Box closez",
 	"subtitles.block.chest.locked":
-		"§7§lChest locked",
+		"§7§lno acces noob",
 	"subtitles.block.chest.open":
-		"§7§oChest opens",
+		"§7§oCat Box opnz",
 	"subtitles.block.chorus_flower.death":
-		"§5§oChorus Flower §4§owithers",
+		"§5§oPurply-Whity Thing withrz",
 	"subtitles.block.chorus_flower.grow":
-		"§5§oChorus Flower §2§ogrows",
+		"§5§oPurply-Whity Thing growz",
 	"subtitles.block.comparator.click":
-		"§7§oComparator clicks",
+		"§7§oRedstuff thingy clicz",
 	"subtitles.block.composter.empty":
-		"§2§oComposter emptied",
+		"§2§otaekd out compostr stuffs",
 	"subtitles.block.composter.fill":
-		"§7§oComposter filled",
+		"§7§ostuffd compostr",
 	"subtitles.block.composter.ready":
-		"§8§oComposter composts",
+		"§8§ocompostr maeking new stuffs",
 	"subtitles.block.conduit.activate":
-		"§b§oConduit activates",
+		"§b§oStrange box startz purrrrring",
 	"subtitles.block.conduit.ambient":
-		"§3§oConduit pulses",
+		"§3§oStrange box ba-boomzzz",
 	"subtitles.block.conduit.attack.target":
-		"§2§lConduit attacks",
+		"§2§lStrange box scratchs",
 	"subtitles.block.conduit.deactivate":
-		"§c§oConduit deactivates",
+		"§c§oStrange box stopz purrng",
 	"subtitles.block.dispenser.dispense":
-		"§7§oDispensed item",
+		"§7§oDizpnzd itum",
 	"subtitles.block.dispenser.fail":
-		"§4§oDispenser failed",
+		"§4§oDizpnzur faild",
 	"subtitles.block.door.toggle":
-		"§7§oDoor creaks",
+		"§7§oDor creegz",
 	"subtitles.block.enchantment_table.use":
-		"§e§oEnchanting Table used",
+		"§e§oKwel Tabel usd",
 	"subtitles.block.end_portal.spawn":
-		"§d§o§lEnd Portal opens",
+		"§d§o§lFinish portel opnz",
 	"subtitles.block.end_portal_frame.fill":
-		"§5§oEye of Ender attaches",
+		"§5§oTeh evil eye klingz",
 	"subtitles.block.fence_gate.toggle":
-		"§7§oFence Gate creaks",
+		"§7§oFenc Gaet creegz",
 	"subtitles.block.fire.ambient":
-		"§7§oFire crackles",
+		"§7§oFier cracklz",
 	"subtitles.block.fire.extinguish":
-		"§7§oFire extinguished",
+		"§7§oFier ekztinquishd",
 	"subtitles.block.furnace.fire_crackle":
-		"§7§oFurnace crackles",
+		"§7§oHot box cracklz",
 	"subtitles.block.generic.break":
-		"§7§oBlock broken",
+		"§7§oBlok brokn",
 	"subtitles.block.generic.footsteps":
-		"§8§oFootsteps",
+		"§8§oFutstapz",
 	"subtitles.block.generic.hit":
-		"§7§oBlock breaking",
+		"§7§oBlok brkin",
 	"subtitles.block.generic.place":
-		"§8§oBlock placed",
+		"§8§oBlok plazd",
 	"subtitles.block.grindstone.use":
-		"§7§oGrindstone used",
+		"§7§oRemovezstone usd",
 	"subtitles.block.honey_block.slide":
-		"§7§oSliding down a honey block",
+		"§7§oSlidin in da honi",
 	"subtitles.block.iron_trapdoor.close":
-		"§8§oTrapdoor closes",
+		"§8§oTrappy Irun Kitty Dor closez",
 	"subtitles.block.iron_trapdoor.open":
-		"§8§oTrapdoor opens",
+		"§8§oTrappy Irun Kitty Dor opnz",
 	"subtitles.block.lava.ambient":
-		"§4§oLava pops",
+		"§4§ohot sauce pubz",
 	"subtitles.block.lava.extinguish":
-		"§2§oLava hisses",
+		"§2§oHot sauce makes snaek sound",
 	"subtitles.block.lever.click":
-		"§7§oLever clicks",
+		"§7§oFlipurr clicz",
 	"subtitles.block.note_block.note":
-		"§8§oNote Block plays",
+		"§8§oNowht blohk plaiz",
 	"subtitles.block.piston.move":
-		"§7§oPiston moves",
+		"§7§oPushur muvez",
 	"subtitles.block.portal.ambient":
-		"§5§oPortal whooshes",
+		"§5§oPortl annoyz",
 	"subtitles.block.portal.travel":
-		"§5§oPortal noise fades",
+		"§5§oPurrtl noiz iz smol",
 	"subtitles.block.portal.trigger":
-		"§d§oPortal noise intensifies",
+		"§d§o[portl noiz intensifiez]",
 	"subtitles.block.pressure_plate.click":
-		"§7§oPressure Plate clicks",
+		"§7§oPrseure Pleitz clicz",
 	"subtitles.block.pumpkin.carve":
-		"§8§oShears carve",
+		"§8§oSkizzors grave",
 	"subtitles.block.redstone_torch.burnout":
-		"§4§oTorch fizzes",
+		"§4§oBurny stick fizzs",
 	"subtitles.block.respawn_anchor.ambient":
-		"§5§oRespawn Anchor whooshes",
+		"§5§orepaw annoyz",
 	"subtitles.block.respawn_anchor.charge":
-		"§2§oRespawn Anchor is charged",
+		"§2§orespoon stuffzz lodded",
 	"subtitles.block.respawn_anchor.deplete":
-		"§4§oRespawn Anchor depletes",
+		"§4§orezpaw ankoor out o juicz",
 	"subtitles.block.respawn_anchor.set_spawn":
-		"§c§lRespawn Anchor sets spawn",
+		"§c§lreezpaw fing set spown",
 	"subtitles.block.shulker_box.close":
-		"§4§oShulker closes",
+		"§4§oShulker closez",
 	"subtitles.block.shulker_box.open":
-		"§4§oShulker opens",
+		"§4§oShulker opnz",
 	"subtitles.block.smithing_table.use":
-		"§7§oSmithing Table used",
+		"§7§oSmissing Table usd",
 	"subtitles.block.smoker.smoke":
-		"§7§oSmoker smokes",
+		"§7§oZa Smoker smoks",
 	"subtitles.block.trapdoor.toggle":
-		"§7§oTrapdoor creaks",
+		"§7§oSecret wuud dor creegz",
 	"subtitles.block.tripwire.attach":
-		"§2§oTripwire attaches",
+		"§2§otrap criatud",
 	"subtitles.block.tripwire.click":
-		"§7§oTripwire clicks",
+		"§7§oString clicz",
 	"subtitles.block.tripwire.detach":
-		"§4§oTripwire detaches",
+		"§4§otrap destroid",
 	"subtitles.block.water.ambient":
-		"§1§oWater flows",
+		"§1§oWatr flohz",
 	"subtitles.enchant.thorns.hit":
-		"§c§oThorns prick",
+		"§c§oSpikz spike",
 	"subtitles.entity.armor_stand.fall":
-		"§7§oSomething fell",
+		"§7§oSumthign fell",
 	"subtitles.entity.arrow.hit":
-		"§f§lArrow hits",
+		"§f§lErrow hits",
 	"subtitles.entity.arrow.hit_player":
-		"§4§lPlayer hit",
+		"§4§lKat hit",
 	"subtitles.entity.arrow.shoot":
-		"§f§lArrow fired",
+		"§f§lShutz feird",
 	"subtitles.entity.bat.ambient":
-		"§8§oBat screeches",
+		"§8§oFlyig rat criez",
 	"subtitles.entity.bat.death":
-		"§8§o§eBat dies",
+		"§8§o§eBatman ded",
 	"subtitles.entity.bat.hurt":
-		"§8§oBat hurts",
+		"§8§oBatman hurz",
 	"subtitles.entity.bat.takeoff":
-		"§8§oBat takes off",
+		"§8§oBatman flize awey",
 	"subtitles.entity.bee.ambient":
-		"§8§oBee buzzes",
+		"§8§oBEEZ MEIKS NOIZ!!",
 	"subtitles.entity.bee.death":
-		"§c§lBee dies",
+		"§c§lB ded",
 	"subtitles.entity.bee.hurt":
-		"§4§oBee hurts",
+		"§4§oBEEZ OUCH",
 	"subtitles.entity.bee.loop":
-		"§8§oBee buzzes",
+		"§8§oBEEZ MEIKS NOIZ!!",
 	"subtitles.entity.bee.loop_aggressive":
-		"§4§oBee buzzes angrily",
+		"§4§oBEEZ MAD!!",
 	"subtitles.entity.bee.pollinate":
-		"§2§oBee buzzes happily",
+		"§2§oBEEZ HAPPYY!!!!",
 	"subtitles.entity.bee.sting":
-		"§4§lBee stings",
+		"§4§lB attac",
 	"subtitles.entity.blaze.ambient":
-		"§4§oBlaze breathes",
+		"§4§oBlayz breehtz",
 	"subtitles.entity.blaze.burn":
-		"§4§oBlaze crackles",
+		"§4§oFierman craklez",
 	"subtitles.entity.blaze.death":
-		"§a§lBlaze dies",
+		"§a§lBlayz ded",
 	"subtitles.entity.blaze.hurt":
-		"§2§oBlaze hurts",
+		"§2§oBlayz hurz",
 	"subtitles.entity.blaze.shoot":
-		"§4§oBlaze shoots",
+		"§4§oBlayz shooz",
 	"subtitles.entity.boat.paddle_land":
-		"§8§oRowing",
+		"§8§oWatr car usd in land",
 	"subtitles.entity.boat.paddle_water":
-		"§1§oRowing",
+		"§1§oWatr car splashez",
 	"subtitles.entity.cat.ambient":
-		"§7§oCat meows",
+		"§7§oKitteh speekz",
 	"subtitles.entity.cat.beg_for_food":
-		"§7§oCat begs",
+		"§7§oKAT WANTZ",
 	"subtitles.entity.cat.death":
-		"§c§lCat dies",
+		"§c§lKitteh ded",
 	"subtitles.entity.cat.eat":
-		"§2§oCat eats",
+		"§2§oKitty cat noms",
 	"subtitles.entity.cat.hiss":
-		"§4§oCat hisses",
+		"§4§oKitty cat hizzs",
 	"subtitles.entity.cat.hurt":
-		"§4§oCat hurts",
+		"§4§oKitteh hurz",
 	"subtitles.entity.cat.purr":
-		"§a§oCat purrs",
+		"§a§oGime morrrrr",
 	"subtitles.entity.chicken.ambient":
-		"§8§oChicken clucks",
+		"§8§oBawk Bawk!",
 	"subtitles.entity.chicken.death":
-		"§a§lChieken dies",
+		"§a§lBawk Bawk ded",
 	"subtitles.entity.chicken.egg":
-		"§7§oChicken plops",
+		"§7§oBawk Bawk plubz",
 	"subtitles.entity.chicken.hurt":
-		"§2§oChicken hurts",
+		"§2§oBawk Bawk hurz",
 	"subtitles.entity.cod.death":
-		"§a§lCod dies",
+		"§a§lCot ded",
 	"subtitles.entity.cod.flop":
-		"§8§oCod flops",
+		"§8§oCot flopz",
 	"subtitles.entity.cod.hurt":
-		"§8§oCod hurts",
+		"§8§oCot hurtz",
 	"subtitles.entity.cow.ambient":
-		"§8§oCow moos",
+		"§8§oMilk-Maeker mooz",
 	"subtitles.entity.cow.death":
-		"§a§lCow dies",
+		"§a§lMilk-Maeker ded",
 	"subtitles.entity.cow.hurt":
-		"§8§oCow hurts",
+		"§8§oMilk-Maeker hurz",
 	"subtitles.entity.cow.milk":
-		"§2§oCow gets milked",
+		"§2§oMilk-Maeker makez milk",
 	"subtitles.entity.creeper.death":
-		"§a§lCreeper dies",
+		"§a§lCreeper ded",
 	"subtitles.entity.creeper.hurt":
-		"§2§oCreeper hurts",
+		"§2§oCreeper hurz",
 	"subtitles.entity.creeper.primed":
-		"§c§o§lCreeper hisses",
+		"§c§o§lCreeper hizzs",
 	"subtitles.entity.dolphin.ambient":
-		"§1§oDolphin chirps",
+		"§1§odoolfin cherpz",
 	"subtitles.entity.dolphin.ambient_water":
-		"§1§oDolphin whistles",
+		"§1§odoolfin wislz",
 	"subtitles.entity.dolphin.attack":
-		"§4§oDolphin attacks",
+		"§4§odoolfin attaks",
 	"subtitles.entity.dolphin.death":
-		"§c§lDolphin dies",
+		"§c§ldoolfin ded",
 	"subtitles.entity.dolphin.eat":
-		"§2§oDolphin eats",
+		"§2§odoolfin eatz",
 	"subtitles.entity.dolphin.hurt":
-		"§4§oDolphin hurts",
+		"§4§odoolfin hurtz",
 	"subtitles.entity.dolphin.jump":
-		"§1§oDolphin jumps",
+		"§1§odoolfin jumpz",
 	"subtitles.entity.dolphin.play":
-		"§2§oDolphin plays",
+		"§2§odoolfin plaez",
 	"subtitles.entity.dolphin.splash":
-		"§1§oDolphin splashes",
+		"§1§odoolfin splashz",
 	"subtitles.entity.dolphin.swim":
-		"§1§oDolphin swims",
+		"§1§odoolfin swimz",
 	"subtitles.entity.donkey.ambient":
-		"§7§oDonkey hee\-haws",
+		"§7§oDunky he-hawz",
 	"subtitles.entity.donkey.angry":
-		"§4§oDonkey neighs",
+		"§4§oDunky neiz",
 	"subtitles.entity.donkey.chest":
-		"§2§lDonkey Chest equips",
+		"§2§lDunky box soundz",
 	"subtitles.entity.donkey.death":
-		"§c§lDonkey dies",
+		"§c§lDunky ded",
 	"subtitles.entity.donkey.eat":
-		"§2§oDonkey eats",
+		"§2§oDonkey goes nom nom",
 	"subtitles.entity.donkey.hurt":
-		"§4§oDonkey hurts",
+		"§4§oDunky hurz",
 	"subtitles.entity.drowned.ambient":
-		"§4§oDrowned gargles",
+		"§4§owatuur thing groans underwater",
 	"subtitles.entity.drowned.ambient_water":
-		"§4§oDrowned gurgles",
+		"§4§owatuur thing groans underwater",
 	"subtitles.entity.drowned.death":
-		"§2§lDrowned dies",
+		"§2§lwatuur thing ded",
 	"subtitles.entity.drowned.hurt":
-		"§2§oDrowned hurts",
+		"§2§owatuur thing huurtz",
 	"subtitles.entity.drowned.shoot":
-		"§4§o§lDrowned throws Trident",
+		"§4§o§lwatuur thing launches fork",
 	"subtitles.entity.drowned.step":
-		"§4§oDrowned steps",
+		"§4§owatuur thing walk",
 	"subtitles.entity.drowned.swim":
-		"§4§oDrowned swims",
+		"§4§owatuur thing bobs up and down",
 	"subtitles.entity.egg.throw":
-		"§7§lEgg flies",
+		"§7§lEg fliez",
 	"subtitles.entity.elder_guardian.ambient":
-		"§4§oElder Guardian moans",
+		"§4§obig lazur shark monz",
 	"subtitles.entity.elder_guardian.ambient_land":
-		"§4§oElder Guardian flaps",
+		"§4§obig lazur shark flapz",
 	"subtitles.entity.elder_guardian.curse":
-		"§c§o§lElder Guardian curses",
+		"§c§o§lbig lazur shark cursz",
 	"subtitles.entity.elder_guardian.death":
-		"§a§lElder Guardian dies",
+		"§a§lbig lazur shark gets rekt",
 	"subtitles.entity.elder_guardian.flop":
-		"§2§oElder Guardian flops",
+		"§2§obig lazur shark flopz",
 	"subtitles.entity.elder_guardian.hurt":
-		"§2§oElder Guardian hurts",
+		"§2§obig lazur shark hurz",
 	"subtitles.entity.ender_dragon.ambient":
-		"§5§oDragon roars",
+		"§5§oDwagon roarz",
 	"subtitles.entity.ender_dragon.death":
-		"§b§o§lDragon dies",
+		"§b§o§lDwagon ded",
 	"subtitles.entity.ender_dragon.flap":
-		"§d§lDragon flaps",
+		"§d§lDwagon flapz",
 	"subtitles.entity.ender_dragon.growl":
-		"§5§oDragon growls",
+		"§5§oDwagon gwaulz",
 	"subtitles.entity.ender_dragon.hurt":
-		"§2§oDragon hurts",
+		"§2§oDwagon hurz",
 	"subtitles.entity.ender_dragon.shoot":
-		"§d§o§lDragon shoots",
+		"§d§o§lDwagon shooz",
 	"subtitles.entity.ender_eye.death":
-		"§7§oEye of Ender falls",
+		"§7§oteh evil eye fallz",
 	"subtitles.entity.ender_eye.launch":
-		"§7§lEye of Ender shoots",
+		"§7§lTeh evil eye shooz",
 	"subtitles.entity.ender_pearl.throw":
-		"§7§oEnder Pearl flies",
+		"§7§oMagic ball fliez",
 	"subtitles.entity.enderman.ambient":
-		"§5§oEnderman vwoops",
+		"§5§oEnderman scarz",
 	"subtitles.entity.enderman.death":
-		"§a§lEnderman dies",
+		"§a§lEnderman ded",
 	"subtitles.entity.enderman.hurt":
-		"§2§oEnderman hurts",
+		"§2§oEnderman hurz",
 	"subtitles.entity.enderman.stare":
-		"§4§oEnderman cries out",
+		"§4§oEnderman makez sum skary noisez",
 	"subtitles.entity.enderman.teleport":
-		"§5§lEnderman teleports",
+		"§5§lEnderman warpz",
 	"subtitles.entity.endermite.ambient":
-		"§4§oEndermite scuttles",
+		"§4§oEndermite skutlz",
 	"subtitles.entity.endermite.death":
-		"§a§lEndermite dies",
+		"§a§lEndermite ded",
 	"subtitles.entity.endermite.hurt":
-		"§2§oEndermite hurts",
+		"§2§oEndermite hurz",
 	"subtitles.entity.evoker.ambient":
-		"§4§oEvoker murmurs",
+		"§4§oghust makr guy speeks",
 	"subtitles.entity.evoker.cast_spell":
-		"§c§o§lEvoker casts spell",
+		"§c§o§lghust makr guy duz magic",
 	"subtitles.entity.evoker.celebrate":
-		"§4§oEvoker cheers",
+		"§4§oWizrd cheerz",
 	"subtitles.entity.evoker.death":
-		"§a§lEvoker dies",
+		"§a§lghust makr guy gets rekt",
 	"subtitles.entity.evoker.hurt":
-		"§2§oEvoker hurts",
+		"§2§oghust makr guy hurz",
 	"subtitles.entity.evoker.prepare_attack":
-		"§4§oEvoker prepares attack",
+		"§4§oGhost makr guy preparz atak",
 	"subtitles.entity.evoker.prepare_summon":
-		"§4§oEvoker prepares summoning",
+		"§4§oGhust makr guy preparez makin ghosts",
 	"subtitles.entity.evoker.prepare_wololo":
-		"§4§oEvoker prepares charming",
+		"§4§oGhust makr guy getz da magic redy",
 	"subtitles.entity.evoker_fangs.attack":
-		"§c§lFangs snap",
+		"§c§lBear trapz bite",
 	"subtitles.entity.experience_orb.pickup":
-		"§2§oExperience gained",
+		"§2§oExperienz geind",
 	"subtitles.entity.firework_rocket.blast":
-		"§7§oFirework blasts",
+		"§7§oFierwurk blastz",
 	"subtitles.entity.firework_rocket.launch":
-		"§8§oFirework launches",
+		"§8§oFierwurk launshz",
 	"subtitles.entity.firework_rocket.twinkle":
-		"§e§oFirework twinkles",
+		"§e§oFierwurk twinklz",
 	"subtitles.entity.fishing_bobber.retrieve":
-		"§8§oBobber retrieved",
+		"§8§oWatuur toy cam bacc",
 	"subtitles.entity.fishing_bobber.splash":
-		"§7§lCaught something",
+		"§7§lfeesh?",
 	"subtitles.entity.fishing_bobber.throw":
-		"§8§oBobber thrown",
+		"§8§oflye fliez",
 	"subtitles.entity.fox.aggro":
-		"§4§oFox angers",
+		"§4§oFuxe veri angri",
 	"subtitles.entity.fox.ambient":
-		"§8§oFox squeaks",
+		"§8§oFuxe skveks",
 	"subtitles.entity.fox.bite":
-		"§4§lFox bites",
+		"§4§lFuxe bites!",
 	"subtitles.entity.fox.death":
-		"§c§o§lFox dies",
+		"§c§o§lFuxe ded",
 	"subtitles.entity.fox.eat":
-		"§2§oFox eats",
+		"§2§oFuxe omnomnom's",
 	"subtitles.entity.fox.hurt":
-		"§4§oFox hurts",
+		"§4§oFuxe hurtz",
 	"subtitles.entity.fox.screech":
-		"§7§oFox screeches",
+		"§7§oFuxe criez LOUD",
 	"subtitles.entity.fox.sleep":
-		"§8§oFox snores",
+		"§8§oFuxe zzz",
 	"subtitles.entity.fox.sniff":
-		"§8§oFox sniffs",
+		"§8§oFuxe smel",
 	"subtitles.entity.fox.spit":
-		"§2§oFox spits",
+		"§2§oFuxe spits",
 	"subtitles.entity.fox.teleport":
-		"§5§lFox teleports",
+		"§5§lFox becomz endrman",
 	"subtitles.entity.generic.big_fall":
-		"§7§oSomething fell",
+		"§7§oSumthign fell",
 	"subtitles.entity.generic.burn":
-		"§c§oBurning",
+		"§c§ofier!",
 	"subtitles.entity.generic.death":
-		"§f§lDying",
+		"§f§lRIP KAT",
 	"subtitles.entity.generic.drink":
-		"§2§oSipping",
+		"§2§oSippin",
 	"subtitles.entity.generic.eat":
-		"§2§oEating",
+		"§2§oNOM NOM NOM",
 	"subtitles.entity.generic.explode":
-		"§f§lExplosion",
+		"§f§lBOOM",
 	"subtitles.entity.generic.extinguish_fire":
-		"§7§oFire extinguishes",
+		"§7§ou r no longer hot",
 	"subtitles.entity.generic.hurt":
-		"§f§oSomething hurts",
+		"§f§oSumthign hurz",
 	"subtitles.entity.generic.small_fall":
-		"§f§oSomething trips",
+		"§f§osmthinn tripz!!",
 	"subtitles.entity.generic.splash":
-		"§1§oSplashing",
+		"§1§oSpleshin",
 	"subtitles.entity.generic.swim":
-		"§1§oSwimming",
+		"§1§oSwimmin",
 	"subtitles.entity.ghast.ambient":
-		"§4§oGhast cries",
+		"§4§oGhast criez",
 	"subtitles.entity.ghast.death":
-		"§a§lGhast dies",
+		"§a§lGhast ded",
 	"subtitles.entity.ghast.hurt":
-		"§2§oGhast hurts",
+		"§2§oGhast hurz",
 	"subtitles.entity.ghast.shoot":
-		"§4§oGhast shoots",
+		"§4§oGhast shooz",
 	"subtitles.entity.guardian.ambient":
-		"§4§oGuardian moans",
+		"§4§oShark-thingy monz",
 	"subtitles.entity.guardian.ambient_land":
-		"§4§oGuardian flaps",
+		"§4§oShark-thingy flapz",
 	"subtitles.entity.guardian.attack":
-		"§c§lGuardian shoots",
+		"§c§lShark-thingy shooz",
 	"subtitles.entity.guardian.death":
-		"§a§lGuardian dies",
+		"§a§lShark-thingy ded",
 	"subtitles.entity.guardian.flop":
-		"§2§oGuardian flops",
+		"§2§oShark-thingy flopz",
 	"subtitles.entity.guardian.hurt":
-		"§2§oGuardian hurts",
+		"§2§oShark-thingy hurz",
 	"subtitles.entity.hoglin.ambient":
-		"§4§oHoglin growls",
+		"§4§oBig Pog grwls",
 	"subtitles.entity.hoglin.angry":
-		"§c§oHoglin growls angrily",
+		"§c§oBig Pog grwlz wit disapprevel",
 	"subtitles.entity.hoglin.attack":
-		"§c§lHoglin attacks",
+		"§c§lBig Pog attaks",
 	"subtitles.entity.hoglin.converted_to_zombified":
-		"§4§oHoglin §c§o§lconverts to §4§oZoglin",
+		"§4§obad pig §c§o§levolves to §4§oded hog",
 	"subtitles.entity.hoglin.death":
-		"§a§lHoglin dies",
+		"§a§lF fur Big Pog",
 	"subtitles.entity.hoglin.hurt":
-		"§2§oHoglin hurts",
+		"§2§oBig Pog waz hurt",
 	"subtitles.entity.hoglin.retreat":
-		"§2§oHoglin retreats",
+		"§2§oBig Pog dosnt want figt",
 	"subtitles.entity.hoglin.step":
-		"§4§oHoglin steps",
+		"§4§oBig Pog WALKZ",
 	"subtitles.entity.horse.ambient":
-		"§7§oHorse neighs",
+		"§7§oHoers naiz",
 	"subtitles.entity.horse.angry":
-		"§4§oHorse neighs",
+		"§4§oHorse angreh",
 	"subtitles.entity.horse.armor":
-		"§2§lHorse armor equips",
+		"§2§lHors gets protecshuun",
 	"subtitles.entity.horse.breathe":
-		"§8§oHorse breathes",
+		"§8§oHors breathz",
 	"subtitles.entity.horse.death":
-		"§c§o§lHorse dies",
+		"§c§o§lHoers ded",
 	"subtitles.entity.horse.eat":
-		"§2§oHorse eats",
+		"§2§oHoers eetz",
 	"subtitles.entity.horse.gallop":
-		"§7§oHorse gallops",
+		"§7§oHoers galopz",
 	"subtitles.entity.horse.hurt":
-		"§4§oHorse hurts",
+		"§4§oHoers hurz",
 	"subtitles.entity.horse.jump":
-		"§7§oHorse jumps",
+		"§7§oHoers jumpz",
 	"subtitles.entity.horse.saddle":
-		"§2§lSaddle equips",
+		"§2§lsaddel eqeeps",
 	"subtitles.entity.husk.ambient":
-		"§4§oHusk groans",
+		"§4§oWarm hooman groonz",
 	"subtitles.entity.husk.converted_to_zombie":
-		"§4§oHusk §a§o§lconverts to §4§oZombie",
+		"§4§oMummy ting §a§o§lturns into zombze",
 	"subtitles.entity.husk.death":
-		"§a§lHusk dies",
+		"§a§lWarm hooman ded",
 	"subtitles.entity.husk.hurt":
-		"§2§oHusk hurts",
+		"§2§oWarm hooman hurz",
 	"subtitles.entity.illusioner.ambient":
-		"§4§oIllusioner murmurs",
+		"§4§oWiizardur moomoorz",
 	"subtitles.entity.illusioner.cast_spell":
-		"§c§lIllusioner casts spell",
+		"§c§lWiizardur duz magic",
 	"subtitles.entity.illusioner.death":
-		"§a§lIllusioner dies",
+		"§a§lWiizardur becomes dieded",
 	"subtitles.entity.illusioner.hurt":
-		"§2§oIllusioner hurts",
+		"§2§oWiizardur ouches",
 	"subtitles.entity.illusioner.mirror_move":
-		"§4§oIllusioner displaces",
+		"§4§oWiizardur maeks clonz",
 	"subtitles.entity.illusioner.prepare_blindness":
-		"§4§oIllusioner prepares blindness",
+		"§4§oWiizardur will make u no see",
 	"subtitles.entity.illusioner.prepare_mirror":
-		"§4§oIllusioner prepares mirror image",
+		"§4§oIlluzionr preparez miror imaig",
 	"subtitles.entity.iron_golem.attack":
-		"§f§lIron Golem attacks",
+		"§f§lBig irun guy attakz",
 	"subtitles.entity.iron_golem.damage":
-		"§4§o§lIron Golem breaks",
+		"§4§o§lStel Guy brek",
 	"subtitles.entity.iron_golem.death":
-		"§c§lIron Golem dies",
+		"§c§lStrange Irun Hooman ded",
 	"subtitles.entity.iron_golem.hurt":
-		"§4§oIron Golem hurts",
+		"§4§oBig irun guy hurz",
 	"subtitles.entity.iron_golem.repair":
-		"§a§oIron Golem repaired",
+		"§a§oStel Guy fixd",
 	"subtitles.entity.item.break":
-		"§c§lItem breaks",
+		"§c§lItum breakz",
 	"subtitles.entity.item.pickup":
-		"§7§oItem plops",
+		"§7§oItum plubz",
 	"subtitles.entity.item_frame.add_item":
-		"§8§oItem Frame fills",
+		"§8§oFraem filz",
 	"subtitles.entity.item_frame.break":
-		"§7§oItem Frame breaks",
+		"§7§oFraem breakz",
 	"subtitles.entity.item_frame.place":
-		"§8§oItem Frame placed",
+		"§8§oFraem plazd",
 	"subtitles.entity.item_frame.remove_item":
-		"§7§oItem Frame empties",
+		"§7§oFraem emtyz",
 	"subtitles.entity.item_frame.rotate_item":
-		"§8§oItem Frame clicks",
+		"§8§oFraem clicz",
 	"subtitles.entity.leash_knot.break":
-		"§4§oLeash knot breaks",
+		"§4§oLeesh not breakz",
 	"subtitles.entity.leash_knot.place":
-		"§2§oLeash knot tied",
+		"§2§oLeesh not teid",
 	"subtitles.entity.lightning_bolt.impact":
-		"§f§lLightning strikes",
+		"§f§lLitin strikz",
 	"subtitles.entity.lightning_bolt.thunder":
-		"§7§oThunder roars",
+		"§7§oO noez thundr",
 	"subtitles.entity.llama.ambient":
-		"§7§oLlama bleats",
+		"§7§oCamel sheep bleetz",
 	"subtitles.entity.llama.angry":
-		"§4§oLlama bleats angrily",
+		"§4§ospitty boi blitz rajmod!!!",
 	"subtitles.entity.llama.chest":
-		"§2§lLlama Chest equips",
+		"§2§lCamel sheep box soundz",
 	"subtitles.entity.llama.death":
-		"§c§lLlama dies",
+		"§c§lCamel sheep gets rekt",
 	"subtitles.entity.llama.eat":
-		"§2§oLlama eats",
+		"§2§oCamel sheep eetz",
 	"subtitles.entity.llama.hurt":
-		"§4§oLlama hurts",
+		"§4§oCamel sheep hurz",
 	"subtitles.entity.llama.spit":
-		"§f§lLlama spits",
+		"§f§lCamel sheep spitz",
 	"subtitles.entity.llama.step":
-		"§8§oLlama steps",
+		"§8§oCamel sheep walkze",
 	"subtitles.entity.llama.swag":
-		"§2§lLlama is decorated",
+		"§2§lCamel sheep getz embellishd",
 	"subtitles.entity.magma_cube.death":
-		"§a§lMagma Cube dies",
+		"§a§lFier sliem ded",
 	"subtitles.entity.magma_cube.hurt":
-		"§2§oMagma Cube hurts",
+		"§2§oFier sliem hurz",
 	"subtitles.entity.magma_cube.squish":
-		"§4§oMagma Cube squishes",
+		"§4§oeww magmy squishy",
 	"subtitles.entity.minecart.riding":
-		"§7§oMinecart rolls",
+		"§7§oMinecat ROFLz",
 	"subtitles.entity.mooshroom.convert":
-		"§7§lMooshroom transforms",
+		"§7§lMooshroom transfomz",
 	"subtitles.entity.mooshroom.eat":
-		"§2§oMooshroom eats",
+		"§2§oMooshroom eatz",
 	"subtitles.entity.mooshroom.milk":
-		"§2§oMooshroom gets milked",
+		"§2§oMooshroom makez milk",
 	"subtitles.entity.mooshroom.suspicious_milk":
-		"§2§oMooshroom gets milked suspiciously",
+		"§2§oMooshroom makez milk §2§o§nwerdly",
 	"subtitles.entity.mule.ambient":
-		"§7§oMule hee\-haws",
+		"§7§oMual he-hawz",
 	"subtitles.entity.mule.angry":
-		"§4§oMule neighs",
+		"§4§oMewl maek mewl soundz",
 	"subtitles.entity.mule.chest":
-		"§2§lMule Chest equips",
+		"§2§lMual box soundz",
 	"subtitles.entity.mule.death":
-		"§c§lMule dies",
+		"§c§lMual ded",
 	"subtitles.entity.mule.eat":
-		"§2§oMule eats",
+		"§2§oMewl go nom nom",
 	"subtitles.entity.mule.hurt":
-		"§4§oMule hurts",
+		"§4§oMual hurz",
 	"subtitles.entity.painting.break":
-		"§8§oPainting breaks",
+		"§8§oArt on a paper breakz",
 	"subtitles.entity.painting.place":
-		"§8§oPainting placed",
+		"§8§oArt on a paper plazd",
 	"subtitles.entity.panda.aggressive_ambient":
-		"§4§oPanda huffs",
+		"§4§oGreen Stick Eatar huffs",
 	"subtitles.entity.panda.ambient":
-		"§7§oPanda pants",
+		"§7§oGreen Stick Eatar panz",
 	"subtitles.entity.panda.bite":
-		"§4§lPanda bites",
+		"§4§lGreen Stick Eatar bitez",
 	"subtitles.entity.panda.cant_breed":
-		"§4§oPanda bleats",
+		"§4§oGreen Stick Eatar bleatz",
 	"subtitles.entity.panda.death":
-		"§c§o§lPanda dies",
+		"§c§o§lGreen Stick Eatar ded",
 	"subtitles.entity.panda.eat":
-		"§2§oPanda eats",
+		"§2§oGreen Stick Eatar eatin",
 	"subtitles.entity.panda.hurt":
-		"§4§oPanda hurts",
+		"§4§oGreen Stick Eatar hurtz",
 	"subtitles.entity.panda.pre_sneeze":
-		"§8§oPanda's nose tickles",
+		"§8§oGreen Stick Eatars nose is ticklin'",
 	"subtitles.entity.panda.sneeze":
-		"§7§oPanda sneezes",
+		"§7§oGreen Stick Eatar goes ''ACHOO!''",
 	"subtitles.entity.panda.step":
-		"§8§oPanda steps",
+		"§8§oGreen Stick Eatar stepz",
 	"subtitles.entity.panda.worried_ambient":
-		"§8§oPanda whimpers",
+		"§8§oGreen Stick Eatar whimpars",
 	"subtitles.entity.parrot.ambient":
-		"§7§oParrot talks",
+		"§7§oRainbow Bird speeks",
 	"subtitles.entity.parrot.death":
-		"§c§lParrot dies",
+		"§c§lRainbow Bird ded",
 	"subtitles.entity.parrot.eats":
-		"§2§oParrot eats",
+		"§2§oRainbow Bird eeting",
 	"subtitles.entity.parrot.fly":
-		"§7§oParrot §4§oflutters",
+		"§7§orenbo berd flapz",
 	"subtitles.entity.parrot.hurts":
-		"§4§oParrot hurts",
+		"§4§oRainbow Bird hurz",
 	"subtitles.entity.parrot.imitate.blaze":
-		"§7§oParrot §4§obreathes",
+		"§7§oPurrot §4§obreethz",
 	"subtitles.entity.parrot.imitate.creeper":
-		"§7§oParrot §4§ohisses",
+		"§7§oRainbow Bird §4§ohiss",
 	"subtitles.entity.parrot.imitate.drowned":
-		"§7§oParrot §4§ogurgles",
+		"§7§opurot §4§ogurglze",
 	"subtitles.entity.parrot.imitate.elder_guardian":
-		"§7§oParrot §4§oflaps",
+		"§7§oRainbow Bird §4§oflappin",
 	"subtitles.entity.parrot.imitate.ender_dragon":
-		"§7§oParrot §4§oroars",
+		"§7§oRainbow Bird §5§oroooring",
 	"subtitles.entity.parrot.imitate.endermite":
-		"§7§oParrot §4§oscuttles",
+		"§7§oPurrot §4§oskutlz",
 	"subtitles.entity.parrot.imitate.evoker":
-		"§7§oParrot §4§omurmurs",
+		"§7§oPurrot §4§omoomoorz",
 	"subtitles.entity.parrot.imitate.ghast":
-		"§7§oParrot §4§ocries",
+		"§7§oRainbow Bird §4§okraing",
 	"subtitles.entity.parrot.imitate.guardian":
-		"§7§oParrot §4§omoans",
+		"§7§oPatriot §4§omoans",
 	"subtitles.entity.parrot.imitate.hoglin":
-		"§7§ooParrot growls",
+		"§7§ooParrot §4§oanmgry soundz",
 	"subtitles.entity.parrot.imitate.husk":
-		"§7§oParrot §4§ogroans",
+		"§7§oRainbow Bird §4§ogroonz",
 	"subtitles.entity.parrot.imitate.illusioner":
-		"§7§oParrot §4§omurmurs",
+		"§7§oPurrot §4§omoomoorz",
 	"subtitles.entity.parrot.imitate.magma_cube":
-		"§7§oParrot §4§osquishes",
+		"§7§oPurrot §4§osquishy",
 	"subtitles.entity.parrot.imitate.phantom":
-		"§7§oParrot §4§oscreeches",
+		"§7§oRainbow Bird §4§oScreechz",
 	"subtitles.entity.parrot.imitate.piglin":
-		"§7§oParrot §4§osnorts",
+		"§7§oParrot §4§onoze",
 	"subtitles.entity.parrot.imitate.piglin_brute":
-		"§7§oParrot §4§osnorts §4§o§nmightily",
+		"§7§oParrat §4§osnors §4§o§nmightehleh",
 	"subtitles.entity.parrot.imitate.pillager":
-		"§7§oParrot §4§omurmurs",
+		"§7§oPurrot §4§omoomoorz",
 	"subtitles.entity.parrot.imitate.ravager":
-		"§7§oParrot §4§ogrunts",
+		"§7§opurot §4§odoin' nut nut loudly",
 	"subtitles.entity.parrot.imitate.shulker":
-		"§7§oParrot §4§olurks",
+		"§7§oRainbow Bird §4§olurkz",
 	"subtitles.entity.parrot.imitate.silverfish":
-		"§7§oParrot §4§ohisses",
+		"§7§oRainbow Bird §4§ohiss",
 	"subtitles.entity.parrot.imitate.skeleton":
-		"§7§oParrot §4§orattles",
+		"§7§oRainbow Bird §4§ob spo0ky",
 	"subtitles.entity.parrot.imitate.slime":
-		"§7§oParrot §4§osquishes",
+		"§7§oRainbow Bird §4§osquishehs",
 	"subtitles.entity.parrot.imitate.spider":
-		"§7§oParrot §4§ohisses",
+		"§7§oRainbow Bird §4§ohiss",
 	"subtitles.entity.parrot.imitate.stray":
-		"§7§oParrot §4§orattles",
+		"§7§oRainbow Bird §4§ob spo0ky",
 	"subtitles.entity.parrot.imitate.vex":
-		"§7§oParrot §4§ovexes",
+		"§7§opurrot §4§onut hapy",
 	"subtitles.entity.parrot.imitate.vindicator":
-		"§7§oParrot §4§omutters",
+		"§7§opurot §4§ois charging atackzz",
 	"subtitles.entity.parrot.imitate.witch":
-		"§7§oParrot §4§ogiggles",
+		"§7§opurot §4§oiz laufing",
 	"subtitles.entity.parrot.imitate.wither":
-		"§7§oParrot §4§oangers",
+		"§7§oPurrot §4§ob angreh",
 	"subtitles.entity.parrot.imitate.wither_skeleton":
-		"§7§oParrot §4§orattles",
+		"§7§oRainbow Bird §4§ob spo0ky",
 	"subtitles.entity.parrot.imitate.zoglin":
-		"§7§oParrot §4§ogrowls",
+		"§7§oParrot §4§oanmgry soundz",
 	"subtitles.entity.parrot.imitate.zombie":
-		"§7§oParrot §4§ogroans",
+		"§7§oRainbow Bird §4§ogroonz",
 	"subtitles.entity.parrot.imitate.zombie_villager":
-		"§7§oParrot §4§ogroans",
+		"§7§oRainbow Bird §4§ogroonz",
 	"subtitles.entity.phantom.ambient":
-		"§4§oPhantom screeches",
+		"§4§ocreepy flyin ting screechz",
 	"subtitles.entity.phantom.bite":
-		"§4§lPhantom bites",
+		"§4§lcreepy flyin ting bitez",
 	"subtitles.entity.phantom.death":
-		"§a§lPhantom dies",
+		"§a§lcreepy flyin ting ded",
 	"subtitles.entity.phantom.flap":
-		"§4§oPhantom flaps",
+		"§4§ocreepy flyin ting flapz",
 	"subtitles.entity.phantom.hurt":
-		"§2§oPhantom hurts",
+		"§2§ocreepy flyin ting hurtz",
 	"subtitles.entity.phantom.swoop":
-		"§4§oPhantom swoops",
+		"§4§oFart0m swoops",
 	"subtitles.entity.pig.ambient":
-		"§8§oPig oinks",
+		"§8§oOinkey oinkz",
 	"subtitles.entity.pig.death":
-		"§a§lPig dies",
+		"§a§lOinkey ded",
 	"subtitles.entity.pig.hurt":
-		"§2§oPig hurts",
+		"§2§oOinkey hurz",
 	"subtitles.entity.pig.saddle":
-		"§2§lSaddle equips",
+		"§2§lSaddle eqeeeps",
 	"subtitles.entity.piglin.admiring_item":
-		"§2§oPiglin admires item",
+		"§2§oClevr pic likz da STUFF",
 	"subtitles.entity.piglin.ambient":
-		"§8§oPiglin snorts",
+		"§8§oPiggen doez da werd pig thing",
 	"subtitles.entity.piglin.angry":
-		"§4§oPiglin snorts angrily",
+		"§4§oPiggen doez da wird pig noiz wit passion",
 	"subtitles.entity.piglin.celebrate":
-		"§2§oPiglin celebrates",
+		"§2§oPiggen is happeh",
 	"subtitles.entity.piglin.converted_to_zombified":
-		"§4§oPiglin §c§o§lconverts to §4§oZombified Piglin",
+		"§4§oPiggen §c§o§lis §4§ogren",
 	"subtitles.entity.piglin.death":
-		"§a§lPiglin dies",
+		"§a§lPiggen is ded f in chat",
 	"subtitles.entity.piglin.hurt":
-		"§2§oPiglin hurts",
+		"§2§oPiggen waz hurt",
 	"subtitles.entity.piglin.jealous":
-		"§7§oPiglin snorts enviously",
+		"§7§oPiggen snoirz wit passion",
 	"subtitles.entity.piglin.retreat":
-		"§2§oPiglin retreats",
+		"§2§oPiggen dosnt want figt",
 	"subtitles.entity.piglin.step":
-		"§8§oPiglin steps",
+		"§8§oPiggen WALKZ",
 	"subtitles.entity.piglin_brute.ambient":
-		"§4§oPiglin Brute snorts",
+		"§4§oPiklin Brut snorts",
 	"subtitles.entity.piglin_brute.angry":
-		"§c§oPiglin Brute snorts angrily",
-	"subtitles.entity.piglin_brute.death":
-		"§2§lPiglin Brute dies",
-	"subtitles.entity.piglin_brute.hurt":
-		"§2§oPiglin Brute hurts",
-	"subtitles.entity.piglin_brute.step":
-		"§4§oPiglin Brute steps",
+		"§c§oPiggen doez da wird pig noiz wit passion",
 	"subtitles.entity.piglin_brute.converted_to_zombified":
-		"§4§oPiglin Brute §a§o§lconverts to §4§oZombified Piglin",
+		"§4§lPiklin Brut §a§o§lis convarted §4§oto gren",
+	"subtitles.entity.piglin_brute.death":
+		"§2§oPiklin Brut daiz",
+	"subtitles.entity.piglin_brute.hurt":
+		"§4§oPiklin Brut hurets",
+	"subtitles.entity.piglin_brute.step":
+		"§4§oPiklin Brut stepz",
 	"subtitles.entity.pillager.ambient":
-		"§4§oPillager murmurs",
+		"§4§oPilagur mumblz",
 	"subtitles.entity.pillager.celebrate":
-		"§4§oPillager cheers",
+		"§4§oPilagur cheerz",
 	"subtitles.entity.pillager.death":
-		"§a§lPillager dies",
+		"§a§lPilagur gets rekt",
 	"subtitles.entity.pillager.hurt":
-		"§2§oPillager hurts",
+		"§2§oPilagur hurz",
 	"subtitles.entity.player.attack.crit":
-		"§f§o§lCritical attack",
+		"§f§o§lA critical scratch!",
 	"subtitles.entity.player.attack.knockback":
-		"§f§o§lKnockback attack",
+		"§f§o§lNockback scratch",
 	"subtitles.entity.player.attack.strong":
-		"§f§o§lStrong attack",
+		"§f§o§lPowah scratch",
 	"subtitles.entity.player.attack.sweep":
-		"§f§o§lSweeping attack",
+		"§f§o§lSweepeh scratch",
 	"subtitles.entity.player.attack.weak":
-		"§7§o§lWeak attack",
+		"§7§o§lweek scratch",
 	"subtitles.entity.player.burp":
-		"§8§oBurp",
+		"§8§oBoorp",
 	"subtitles.entity.player.death":
-		"§c§lPlayer dies",
+		"§c§lKat ded",
 	"subtitles.entity.player.hurt":
-		"§4§lPlayer hurts",
+		"§4§lKat hurz",
 	"subtitles.entity.player.hurt_drown":
-		"§4§lPlayer drowning",
+		"§4§lkitteh cant swim!",
 	"subtitles.entity.player.hurt_on_fire":
-		"§4§lPlayer burns",
+		"§4§lYoo fierz",
 	"subtitles.entity.player.levelup":
-		"§a§lPlayer dings",
+		"§a§lKat dingz",
 	"subtitles.entity.polar_bear.ambient":
-		"§7§oPolar Bear groans",
+		"§7§oWite beer groons",
 	"subtitles.entity.polar_bear.ambient_baby":
-		"§7§oPolar Bear hums",
+		"§7§oWite Beer humz",
 	"subtitles.entity.polar_bear.death":
-		"§c§lPolar Bear dies",
+		"§c§lWite Beer ded",
 	"subtitles.entity.polar_bear.hurt":
-		"§4§oPolar Bear hurts",
+		"§4§oWite beer hurz",
 	"subtitles.entity.polar_bear.warning":
-		"§4§oPolar Bear roars",
+		"§4§oWite beer roarz",
 	"subtitles.entity.potion.splash":
-		"§f§lBottle smashes",
+		"§f§lButtl smeshs",
 	"subtitles.entity.potion.throw":
-		"§f§lBottle thrown",
+		"§f§lButtl thraun",
 	"subtitles.entity.puffer_fish.blow_out":
-		"§4§oPufferfish deflates",
+		"§4§opufferfish deflatez",
 	"subtitles.entity.puffer_fish.blow_up":
-		"§4§oPufferfish inflates",
+		"§4§opufferfish inflatez",
 	"subtitles.entity.puffer_fish.death":
-		"§a§lPufferfish dies",
+		"§a§lpufferfish diez",
 	"subtitles.entity.puffer_fish.flop":
 		"§2§oPufferfish flops",
 	"subtitles.entity.puffer_fish.hurt":
-		"§2§oPufferfish hurts",
+		"§2§opufferfish hurts",
 	"subtitles.entity.puffer_fish.sting":
-		"§4§lPufferfish stings",
+		"§4§lpufferfish stings",
 	"subtitles.entity.rabbit.ambient":
-		"§8§oRabbit squeaks",
+		"§8§oJumpin Foodz skweekz",
 	"subtitles.entity.rabbit.attack":
-		"§c§lRabbit attacks",
+		"§c§lJumpin Foodz atakz",
 	"subtitles.entity.rabbit.death":
-		"§a§lRabbit dies",
+		"§a§lJumpin Foodz ded",
 	"subtitles.entity.rabbit.hurt":
-		"§a§oRabbit hurts",
+		"§a§oJumpin Foodz hurz",
 	"subtitles.entity.rabbit.jump":
-		"§8§oRabbit hops",
+		"§8§oJumpin Foodz jumpz",
 	"subtitles.entity.ravager.ambient":
-		"§4§oRavager grunts",
+		"§4§oRivagur sayz grrrr",
 	"subtitles.entity.ravager.attack":
-		"§c§lRavager bites",
+		"§c§lRivagur noms",
 	"subtitles.entity.ravager.celebrate":
-		"§4§oRavager cheers",
+		"§4§oRivagur cheerz",
 	"subtitles.entity.ravager.death":
-		"§a§lRavager dies",
+		"§a§lRivagur be ded",
 	"subtitles.entity.ravager.hurt":
-		"§2§oRavager hurts",
+		"§2§oRivagur owwie",
 	"subtitles.entity.ravager.roar":
-		"§4§oRavager roars",
+		"§4§oRivagur iz LOUD",
 	"subtitles.entity.ravager.step":
-		"§4§oRavager steps",
+		"§4§oRivagur hooves",
 	"subtitles.entity.ravager.stunned":
-		"§2§oRavager stunned",
+		"§2§oRivagur slep",
 	"subtitles.entity.salmon.death":
-		"§a§lSalmon dies",
+		"§a§lsalmon diez",
 	"subtitles.entity.salmon.flop":
-		"§8§oSalmon flops",
+		"§8§osalmon flops",
 	"subtitles.entity.salmon.hurt":
-		"§8§oSalmon hurts",
+		"§8§osalmon hurts",
 	"subtitles.entity.sheep.ambient":
-		"§8§oSheep baahs",
+		"§8§oBaa Baa baahz",
 	"subtitles.entity.sheep.death":
-		"§a§lSheep dies",
+		"§a§lBaa Baa ded",
 	"subtitles.entity.sheep.hurt":
-		"§2§oSheep hurts",
+		"§2§oBaa Baa hurz",
 	"subtitles.entity.shulker.ambient":
-		"§4§oShulker lurks",
+		"§4§oShulker lurkz",
 	"subtitles.entity.shulker.close":
-		"§4§oShulker closes",
+		"§4§oShell Bux clusez",
 	"subtitles.entity.shulker.death":
-		"§a§lShulker dies",
+		"§a§lShulker diez",
 	"subtitles.entity.shulker.hurt":
-		"§2§oShulker hurts",
+		"§2§oShulker hurz",
 	"subtitles.entity.shulker.open":
-		"§4§oShulker opens",
+		"§4§oShell Bux opanz",
 	"subtitles.entity.shulker.shoot":
-		"§4§oShulker shoots",
+		"§4§oShulker shooz",
 	"subtitles.entity.shulker.teleport":
-		"§5§lShulker teleports",
+		"§5§lShulker wrapz",
 	"subtitles.entity.shulker_bullet.hit":
-		"§2§oShulker bullet explodes",
+		"§2§oShulker ball makz boom",
 	"subtitles.entity.shulker_bullet.hurt":
-		"§4§oShulker bullet breaks",
+		"§4§oShulker ball breakz",
 	"subtitles.entity.silverfish.ambient":
-		"§4§oSilverfish hisses",
+		"§4§oGrae fish hizzs",
 	"subtitles.entity.silverfish.death":
-		"§a§lSilverfish dies",
+		"§a§lGrae fish ded",
 	"subtitles.entity.silverfish.hurt":
-		"§2§oSilverfish hurts",
+		"§2§oGrae fish hurz",
 	"subtitles.entity.skeleton.ambient":
-		"§4§oSkeleton rattles",
+		"§4§oooooo im spoooooooky",
 	"subtitles.entity.skeleton.death":
-		"§a§lSkeleton dies",
+		"§a§lSpooke scury Skeletun ded",
 	"subtitles.entity.skeleton.hurt":
-		"§2§oSkeleton hurts",
+		"§2§oSpooke scury Skeletun hurz",
 	"subtitles.entity.skeleton.shoot":
-		"§4§lSkeleton shoots",
+		"§4§lSpooke scury Skeletun shooz",
 	"subtitles.entity.skeleton_horse.ambient":
-		"§7§oSkeleton Horse cries",
+		"§7§oSkeletun hoers criez",
 	"subtitles.entity.skeleton_horse.death":
-		"§c§lSkeleton Horse dies",
+		"§c§lSkeletun hoers ded",
 	"subtitles.entity.skeleton_horse.hurt":
-		"§4§oSkeleton Horse hurts",
+		"§4§oSkeletun hoers hurz",
 	"subtitles.entity.skeleton_horse.swim":
-		"§9§oSkeleton Horse swims",
+		"§9§oboni boi horz swizm in h0t sauc!",
 	"subtitles.entity.slime.attack":
-		"§4§lSlime attacks",
+		"§4§lSliem atakz",
 	"subtitles.entity.slime.death":
-		"§a§lSlime dies",
+		"§a§lSliem ded",
 	"subtitles.entity.slime.hurt":
-		"§2§oSlime hurts",
+		"§2§oSliem hurz",
 	"subtitles.entity.slime.squish":
-		"§4§oSlime squishes",
+		"§4§oew slimy squishy",
 	"subtitles.entity.snow_golem.death":
-		"§c§o§lSnow Golem dies",
+		"§c§o§lCold Watr Hooman diez",
 	"subtitles.entity.snow_golem.hurt":
-		"§4§oSnow Golem hurts",
+		"§4§oSnowy Man hurtz",
 	"subtitles.entity.snowball.throw":
-		"§7§lSnowball flies",
+		"§7§lCold wet fliez",
 	"subtitles.entity.spider.ambient":
-		"§4§oSpider hisses",
+		"§4§oSpidur hizzs",
 	"subtitles.entity.spider.death":
-		"§a§lSpider dies",
+		"§a§lSpidur ded",
 	"subtitles.entity.spider.hurt":
-		"§2§oSpider hurts",
+		"§2§oSpidur hurz",
 	"subtitles.entity.squid.ambient":
-		"§8§oSquid swims",
+		"§8§oSqyd swimz",
 	"subtitles.entity.squid.death":
-		"§a§lSquid dies",
+		"§a§lSqyd ded",
 	"subtitles.entity.squid.hurt":
-		"§8§oSquid hurts",
+		"§8§oSqyd hurz",
 	"subtitles.entity.squid.squirt":
-		"§7§oSquid shoots ink",
+		"§7§oSqyd shooz inc",
 	"subtitles.entity.stray.ambient":
-		"§4§oStray rattles",
+		"§4§oFrozen Skeletun spoooooooky",
 	"subtitles.entity.stray.death":
-		"§a§lStray dies",
+		"§a§lFrozen Skeletun ded",
 	"subtitles.entity.stray.hurt":
-		"§2§oStray hurts",
+		"§2§oFrozen Skeletun hurz",
 	"subtitles.entity.strider.death":
-		"§c§lStrider dies",
+		"§c§llaava walkr ded",
 	"subtitles.entity.strider.eat":
-		"§2§oStrider eats",
+		"§2§olava walkr nomz",
 	"subtitles.entity.strider.happy":
-		"§2§oStrider warbles",
+		"§2§olaava walkr hapi",
 	"subtitles.entity.strider.hurt":
-		"§4§oStrider hurts",
+		"§4§olaava walkr ouchi",
 	"subtitles.entity.strider.idle":
-		"§7§oStrider chirps",
+		"§7§olava walkr chrpz",
 	"subtitles.entity.strider.retreat":
-		"§4§oStrider retreats",
+		"§4§olava walkr fleez",
 	"subtitles.entity.tnt.primed":
-		"§f§o§lTNT fizzes",
+		"§f§o§lThatll maek BOOM",
 	"subtitles.entity.tropical_fish.death":
-		"§8§o§lTropical Fish dies",
+		"§8§o§lTrpicl fysh ded",
 	"subtitles.entity.tropical_fish.flop":
-		"§8§oTropical Fish flops",
+		"§8§oTrpicl fysh flopz",
 	"subtitles.entity.tropical_fish.hurt":
-		"§8§oTropical Fish hurts",
+		"§8§oTrpicl fysh hrtz",
 	"subtitles.entity.turtle.ambient_land":
-		"§7§oTurtle chirps",
+		"§7§oTortL chirpz",
 	"subtitles.entity.turtle.death":
-		"§c§lTurtle dies",
+		"§c§lTortL ded",
 	"subtitles.entity.turtle.death_baby":
-		"§c§lTurtle baby dies",
+		"§c§lSmol tortL ded",
 	"subtitles.entity.turtle.egg_break":
-		"§c§lTurtle Egg breaks",
+		"§c§lTortL sphere BREAK :(",
 	"subtitles.entity.turtle.egg_crack":
-		"§2§oTurtle Egg cracks",
+		"§2§oTortL ball crakz",
 	"subtitles.entity.turtle.egg_hatch":
-		"§a§o§lTurtle Egg hatches",
+		"§a§o§lTortL sphere openz",
 	"subtitles.entity.turtle.hurt":
-		"§4§oTurtle hurts",
+		"§4§oTortL hurtz",
 	"subtitles.entity.turtle.hurt_baby":
-		"§4§oTurtle baby hurts",
+		"§4§oSmol tortL hurtz",
 	"subtitles.entity.turtle.lay_egg":
-		"§a§oTurtle lays egg",
+		"§a§oTortL lies egg",
 	"subtitles.entity.turtle.shamble":
-		"§7§oTurtle shambles",
+		"§7§oTortL do a litter",
 	"subtitles.entity.turtle.shamble_baby":
-		"§7§oTurtle baby shambles",
+		"§7§oSmol tortL do a litter",
 	"subtitles.entity.turtle.swim":
-		"§9§oTurtle swims",
+		"§9§oTortL does yoohoo in watR",
 	"subtitles.entity.vex.ambient":
-		"§4§oVex vexes",
+		"§4§oGhosty thingy iz ghostin",
 	"subtitles.entity.vex.charge":
-		"§c§o§lVex shrieks",
+		"§c§o§lGhosty thingy iz mad at u",
 	"subtitles.entity.vex.death":
-		"§a§lVex dies",
+		"§a§lghosty thingy gets rekt",
 	"subtitles.entity.vex.hurt":
-		"§2§oVex hurts",
+		"§2§oghosty thingy hurz",
 	"subtitles.entity.villager.ambient":
-		"§8§oVillager mumbles",
+		"§8§oVilaagur mumblz",
 	"subtitles.entity.villager.celebrate":
-		"§2§oVillager cheers",
+		"§2§oVilaagur cheerz",
 	"subtitles.entity.villager.death":
-		"§c§lVillager dies",
+		"§c§lVilaagur ded",
 	"subtitles.entity.villager.hurt":
-		"§4§oVillager hurts",
+		"§4§oVilaagur hurz",
 	"subtitles.entity.villager.no":
-		"§7§oVillager disagrees",
+		"§7§oVilaagur nays",
 	"subtitles.entity.villager.trade":
-		"§7§oVillager trades",
+		"§7§oVilaagur tradez",
 	"subtitles.entity.villager.work_armorer":
-		"§2§oArmorer works",
+		"§2§oArmorer workz",
 	"subtitles.entity.villager.work_butcher":
-		"§2§oButcher works",
+		"§2§oButcher workz",
 	"subtitles.entity.villager.work_cartographer":
-		"§2§oCartographer works",
+		"§2§oCartographer workz",
 	"subtitles.entity.villager.work_cleric":
-		"§2§oCleric works",
+		"§2§oCleric workz",
 	"subtitles.entity.villager.work_farmer":
-		"§2§oFarmer works",
+		"§2§oFarmer workz",
 	"subtitles.entity.villager.work_fisherman":
-		"§2§oFisherman works",
+		"§2§oFisherman workz",
 	"subtitles.entity.villager.work_fletcher":
-		"§2§oFletcher works",
+		"§2§oFletcher workz",
 	"subtitles.entity.villager.work_leatherworker":
-		"§2§oLeatherworker works",
+		"§2§oLeatherworker workss",
 	"subtitles.entity.villager.work_librarian":
-		"§2§oLibrarian works",
+		"§2§oLibrarian workss",
 	"subtitles.entity.villager.work_mason":
-		"§2§oMason works",
+		"§2§oMasun workss",
 	"subtitles.entity.villager.work_shepherd":
-		"§2§oShepherd works",
+		"§2§oSheephird workss",
 	"subtitles.entity.villager.work_toolsmith":
-		"§2§oToolsmith works",
+		"§2§oToolsmif workss",
 	"subtitles.entity.villager.work_weaponsmith":
-		"§2§oWeaponsmith works",
+		"§2§oWeeponsmith workss",
 	"subtitles.entity.villager.yes":
-		"§a§oVillager agrees",
+		"§a§oVilaagur nods",
 	"subtitles.entity.vindicator.ambient":
-		"§4§oVindicator mutters",
+		"§4§oBad Guy mumblz",
 	"subtitles.entity.vindicator.celebrate":
-		"§4§oVindicator cheers",
+		"§4§oBad Guy cheerz",
 	"subtitles.entity.vindicator.death":
-		"§a§lVindicator dies",
+		"§a§lBad Guy gets rekt",
 	"subtitles.entity.vindicator.hurt":
-		"§2§oVindicator hurts",
+		"§2§oBad Guy hurz",
 	"subtitles.entity.wandering_trader.ambient":
-		"§7§oWandering Trader mumbles",
+		"§7§oWubterng Truder mumblz",
 	"subtitles.entity.wandering_trader.death":
-		"§c§lWandering Trader dies",
+		"§c§lWubterng Truder ded",
 	"subtitles.entity.wandering_trader.disappeared":
-		"§d§oWandering Trader disappears",
+		"§d§owubterng truder disapers",
 	"subtitles.entity.wandering_trader.drink_milk":
-		"§2§oWandering Trader drinks milk",
+		"§2§oWander tredr drinkin mylk",
 	"subtitles.entity.wandering_trader.drink_potion":
-		"§4§oWandering Trader drinks potion",
+		"§4§owubterng troder sip magik",
 	"subtitles.entity.wandering_trader.hurt":
-		"§4§oWandering Trader hurts",
+		"§4§oWubterng Truder hurz",
 	"subtitles.entity.wandering_trader.no":
-		"§7§oWandering Trader disagrees",
+		"§7§oWubterng Truder nays",
 	"subtitles.entity.wandering_trader.reappeared":
-		"§b§oWandering Trader appears",
+		"§b§oStrnga troder apers",
 	"subtitles.entity.wandering_trader.trade":
-		"§7§oWandering Trader trades",
+		"§7§oWubterng Truder tradez",
 	"subtitles.entity.wandering_trader.yes":
-		"§a§oWandering Trader agrees",
+		"§a§oWubterng Truder nods",
 	"subtitles.entity.witch.ambient":
-		"§4§oWitch giggles",
+		"§4§oCrazy Kitteh Ownr giglz",
 	"subtitles.entity.witch.celebrate":
-		"§4§oWitch cheers",
+		"§4§oCrazy Kitteh Ownr cheerz",
 	"subtitles.entity.witch.death":
-		"§a§lWitch dies",
+		"§a§lCrazy Kitteh Ownr ded",
 	"subtitles.entity.witch.drink":
-		"§c§lWitch drinks",
+		"§c§lCrazy Kitteh Ownr drinkz",
 	"subtitles.entity.witch.hurt":
-		"§2§oWitch hurts",
+		"§2§oCrazy Kitteh Ownr hurz",
 	"subtitles.entity.witch.throw":
-		"§c§lWitch throws",
+		"§c§lCrazy Kitteh Ownr drowz",
 	"subtitles.entity.wither.ambient":
-		"§4§0§lWither angers",
+		"§4§0§lWither angrz",
 	"subtitles.entity.wither.death":
-		"§b§lWither dies",
+		"§b§lWither ded",
 	"subtitles.entity.wither.hurt":
-		"§3§oWither hurts",
+		"§3§oWither hurz",
 	"subtitles.entity.wither.shoot":
-		"§c§lWither attacks",
+		"§c§lWither atakz",
 	"subtitles.entity.wither.spawn":
-		"§c§o§lWither released",
+		"§c§o§lWither relizd",
 	"subtitles.entity.wither_skeleton.ambient":
-		"§4§oWither Skeleton rattles",
+		"§4§oSpooke Wither Skeletun is spooooooky",
 	"subtitles.entity.wither_skeleton.death":
-		"§a§lWither Skeleton dies",
+		"§a§lSpooke Wither Skeletun ded",
 	"subtitles.entity.wither_skeleton.hurt":
-		"§2§oWither Skeleton hurts",
+		"§2§oSpooke Wither Skeletun hurz",
 	"subtitles.entity.wolf.ambient":
-		"§7§oWolf pants",
+		"§7§oWoof Woof panz",
 	"subtitles.entity.wolf.death":
-		"§c§lWolf dies",
+		"§c§lWoof Woof ded",
 	"subtitles.entity.wolf.growl":
-		"§4§oWolf growls",
+		"§4§oWoof Woof gwaulz",
 	"subtitles.entity.wolf.hurt":
-		"§4§oWolf hurts",
+		"§4§oWoof Woof hurz",
 	"subtitles.entity.wolf.shake":
-		"§8§oWolf shakes",
+		"§8§oWoof Woof shakez",
 	"subtitles.entity.zoglin.ambient":
-		"§4§oZoglin growls",
+		"§4§oded hog grrr",
 	"subtitles.entity.zoglin.angry":
-		"§c§oZoglin growls angrily",
+		"§c§oded hog grrrrrr",
 	"subtitles.entity.zoglin.attack":
-		"§c§lZoglin attacks",
+		"§c§lZuglinn scartchs",
 	"subtitles.entity.zoglin.death":
-		"§a§lZoglin dies",
+		"§a§lZoglinn nov ded",
 	"subtitles.entity.zoglin.hurt":
-		"§2§oZoglin hurts",
+		"§2§oZuglinn ouchs",
 	"subtitles.entity.zoglin.step":
-		"§4§oZoglin steps",
+		"§4§oded hog wlkz",
 	"subtitles.entity.zombie.ambient":
-		"§4§oZombie groans",
+		"§4§oBad Hooman groonz",
 	"subtitles.entity.zombie.attack_wooden_door":
-		"§4§o§lDoor shakes",
-	"subtitles.entity.zombie.converted_to_drowned":
-		"§4§oZombie §9§o§lconverts to §4§oDrowned",
+		"§4§o§lKitteh dor iz attac!",
 	"subtitles.entity.zombie.break_wooden_door":
-		"§c§o§lDoor breaks",
+		"§4§oKitteh dor iz breks!",
+	"subtitles.entity.zombie.converted_to_drowned":
+		"§c§o§lDed guy §9§o§levolvez into §4§ode watuur tingy",
 	"subtitles.entity.zombie.death":
-		"§a§lZombie dies",
+		"§a§lBad Hooman ded",
 	"subtitles.entity.zombie.destroy_egg":
-		"§c§lTurtle Egg stomped",
+		"§c§lTortl ec stumpt",
 	"subtitles.entity.zombie.hurt":
-		"§2§oZombie hurts",
+		"§2§oBad Hooman hurz",
 	"subtitles.entity.zombie.infect":
-		"§c§o§lZombie infects",
+		"§c§o§lSlow baddie infectz",
 	"subtitles.entity.zombie_horse.ambient":
-		"§4§oZombie Horse cries",
+		"§4§oZombee hoers criez",
 	"subtitles.entity.zombie_horse.death":
-		"§a§lZombie Horse dies",
+		"§a§lZombee hoers ded",
 	"subtitles.entity.zombie_horse.hurt":
-		"§2§oZombie Horse hurts",
+		"§2§oZombee hoers hurz",
 	"subtitles.entity.zombie_villager.ambient":
-		"§4§o§lZombie Villager groans",
+		"§4§o§lUnded Villaguur groonz",
 	"subtitles.entity.zombie_villager.converted":
-		"§a§lZombie Villager vociferates",
+		"§a§lUnded Villager Cryz",
 	"subtitles.entity.zombie_villager.cure":
-		"§2§oZombie Villager snuffles",
+		"§2§oUndead villager Sniffz",
 	"subtitles.entity.zombie_villager.death":
-		"§c§lZombie Villager dies",
+		"§c§lUnded Villaguur gets rekt",
 	"subtitles.entity.zombie_villager.hurt":
-		"§c§oZombie Villager hurts",
+		"§c§oUnded Villaguur hurz",
 	"subtitles.entity.zombified_piglin.ambient":
-		"§7§oZombified Piglin grunts",
+		"§7§oZombefyed Piglen grontz",
 	"subtitles.entity.zombified_piglin.angry":
-		"§4§oZombified Piglin grunts angrily",
+		"§4§oZombefyed Piglen grontz grrrr",
 	"subtitles.entity.zombified_piglin.death":
-		"§a§lZombified Piglin dies",
+		"§a§lZonbifid Pigln dyez",
 	"subtitles.entity.zombified_piglin.hurt":
-		"§c§oZombified Piglin hurts",
+		"§c§oZumbefid Piglenn hrtz",
 	"subtitles.event.raid.horn":
 		"§c§o§lOminous horn blares",
 	"subtitles.item.armor.equip":
-		"§7§o§lGear equips",
+		"§7§o§lgirrs eqip",
 	"subtitles.item.armor.equip_chain":
-		"§7§o§lChain armor jingles",
+		"§7§o§ljingly katsuit jinglez",
 	"subtitles.item.armor.equip_diamond":
-		"§7§o§lDiamond armor clangs",
+		"§7§o§lshiny katsuit pings",
 	"subtitles.item.armor.equip_elytra":
-		"§7§o§lElytra rustle",
+		"§7§o§lFLYY tiny doin noiz",
 	"subtitles.item.armor.equip_gold":
-		"§7§o§lGold armor clinks",
+		"§7§o§lshiny katsuit chinks",
 	"subtitles.item.armor.equip_iron":
-		"§7§o§lIron armor clanks",
+		"§7§o§lcheap katsuit bangs",
 	"subtitles.item.armor.equip_leather":
-		"§7§o§lLeather armor rustles",
+		"§7§o§lkatsuit ruztlez",
 	"subtitles.item.armor.equip_netherite":
-		"§7§o§lNetherite armor clanks",
+		"§7§o§lOP armur meows",
 	"subtitles.item.armor.equip_turtle":
-		"§7§o§lTurtle Shell thunks",
+		"§7§o§lTortL Shell funks",
 	"subtitles.item.axe.strip":
-		"§7§oAxe scrapes",
+		"§7§oAx scratchez",
 	"subtitles.item.berries.pick":
-		"§2§oBerries pop",
+		"§2§oBeriez pop",
 	"subtitles.item.book.page_turn":
-		"§7§oPage rustles",
+		"§7§oPaeg rustlez",
 	"subtitles.item.book.put":
-		"§7§oBook thumps",
+		"§7§oBook thump",
 	"subtitles.item.bottle.empty":
-		"§7§oBottle empties",
+		"§7§ono moar sippy",
 	"subtitles.item.bottle.fill":
-		"§7§oBottle fills",
+		"§7§oButtl filz",
 	"subtitles.item.bucket.empty":
-		"§7§oBucket empties",
+		"§7§oBuket empteiz",
 	"subtitles.item.bucket.fill":
-		"§7§oBucket fills",
+		"§7§oBuket filz",
 	"subtitles.item.bucket.fill_fish":
-		"§7§oFish captured",
+		"§7§ofishi got",
 	"subtitles.item.chorus_fruit.teleport":
-		"§d§lPlayer teleports",
+		"§d§lCat wrapz",
 	"subtitles.item.crop.plant":
-		"§8§oCrop planted",
+		"§8§oCrop plantd",
 	"subtitles.item.crossbow.charge":
-		"§f§lCrossbow charges up",
+		"§f§lCrosbowz is getting redy",
 	"subtitles.item.crossbow.hit":
-		"§f§lArrow hits",
+		"§f§lErrow hits",
 	"subtitles.item.crossbow.load":
-		"§f§lCrossbow loads",
+		"§f§lCrosbowz be loadin'",
 	"subtitles.item.crossbow.shoot":
-		"§f§lCrossbow fires",
+		"§f§lCrosbowz is firin'",
 	"subtitles.item.firecharge.use":
-		"§f§lFireball whooshes",
+		"§f§lFierbal wushez",
 	"subtitles.item.flintandsteel.use":
-		"§f§lFlint and Steel click",
+		"§f§lFrint und steal clic",
 	"subtitles.item.hoe.till":
-		"§8§oHoe tills",
+		"§8§oHoe tilz",
 	"subtitles.item.honey_bottle.drink":
-		"§2§oGulping",
+		"§2§okitteh stuffd",
 	"subtitles.item.lodestone_compass.lock":
-		"§e§lLodestone Compass locks onto Lodestone",
+		"§e§lloserstone spinny thing lockd onto loserstone",
 	"subtitles.item.nether_wart.plant":
-		"§3§oCrop planted",
+		"§3§oCrop plantd",
 	"subtitles.item.shears.shear":
-		"§8§oShears click",
+		"§8§oshers clic",
 	"subtitles.item.shield.block":
-		"§7§o§lShield blocks",
+		"§7§o§lsheild blocz",
 	"subtitles.item.shovel.flatten":
-		"§8o§Shovel flattens",
+		"§8o§Shuvl flatnz",
 	"subtitles.item.totem.use":
-		"§b§o§lTotem activates",
+		"§b§o§lTotuem iz revivin u",
 	"subtitles.item.trident.hit":
-		"§f§oTrident stabs",
+		"§f§oDinglehopper zticks",
 	"subtitles.item.trident.hit_ground":
-		"§f§oTrident vibrates",
+		"§f§oDinglehopper goez brr brr",
 	"subtitles.item.trident.return":
-		"§e§lTrident returns",
+		"§e§lDinglehopper come back to kitteh",
 	"subtitles.item.trident.riptide":
-		"§e§oTrident zooms",
+		"§e§oDinglehopper zmmz",
 	"subtitles.item.trident.throw":
-		"§f§oTrident clangs",
+		"§f§oDinglehopper clengz",
 	"subtitles.item.trident.thunder":
-		"§e§o§lTrident thunder cracks",
+		"§e§o§lDinglehopper thundr crackz",
 	"subtitles.particle.soul_escape":
-		"§3§oSoul escapes",
+		"§3§ocya sol",
 	"subtitles.ui.cartography_table.take_result":
-		"§e§oMap drawn",
+		"§e§oDirecshun papeh drohn",
 	"subtitles.ui.loom.take_result":
-		"§7§oLoom used",
+		"§7§oLooom iz looomin",
 	"subtitles.ui.stonecutter.take_result":
-		"§7§oStonecutter used",
+		"§7§oStun chopprs uzed",
 	"subtitles.weather.rain":
-		"§1§oRain falls",
-}
+		"§1§oRein fallz
