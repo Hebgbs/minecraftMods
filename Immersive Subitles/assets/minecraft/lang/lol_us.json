@@ -1,3 +1,6 @@
+{
+  "options.showSubtitles":
+    "§4S§ch§6e§ew§2 §as§ba§3u§1n§9d§d §4t§ce§6x§et§2z",
   "subtitles.ambient.cave":
 		"§8§oSpooky sound",
 	"subtitles.block.anvil.destroy":
@@ -1196,3 +1199,4 @@
 		"§7§oStun chopprs uzed",
 	"subtitles.weather.rain":
 		"§1§oRein fallz
+}
