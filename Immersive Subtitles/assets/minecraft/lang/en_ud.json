@@ -1,0 +1,1202 @@
+{
+  "options.showSubtitles":
+    "§cs§4\u01dd§d\u0250§9\u0287§1\u1d09§3\u0287§bd§an§2S §e\u028d§6o§c\u0265§4S",
+	"subtitles.ambient.cave":
+		"§8§o\u01dds\u1d09ou \u01dd\u1d09\u0279\u01dd\u018e",
+	"subtitles.block.anvil.destroy":
+		"§c§op\u01dd\u028eo\u0279\u0287s\u01ddp \ua781\u1d09\u028cu\u2c6f",
+	"subtitles.block.anvil.land":
+		"§7§op\u01ddpu\u0250\ua781 \ua781\u1d09\u028cu\u2c6f",
+	"subtitles.block.anvil.use":
+		"§7§op\u01ddsn \ua781\u1d09\u028cu\u2c6f",
+	"subtitles.block.barrel.close":
+		"§7§os\u01ddso\ua781\u0254 \ua781\u01dd\u0279\u0279\u0250\u15fa",
+	"subtitles.block.barrel.open":
+		"§7§osu\u01dddo \ua781\u01dd\u0279\u0279\u0250\u15fa",
+	"subtitles.block.beacon.activate":
+		"§b§o§ls\u01dd\u0287\u0250\u028c\u1d09\u0287\u0254\u0250 uo\u0254\u0250\u01dd\ud801\udc12",
+	"subtitles.block.beacon.ambient":
+		"§3§os\u026fn\u0265 uo\u0254\u0250\u01dd\ud801\udc12",
+	"subtitles.block.beacon.deactivate":
+		"§c§o§ls\u01dd\u0287\u0250\u028c\u0131\u0287\u0254\u0250\u01ddp uo\u0254\u0250\u01dd\ud801\udc12",
+	"subtitles.block.beacon.power_select":
+		"§3§op\u01dd\u0287\u0254\u01dd\u05df\u01dds \u0279\u01dd\u028dod uo\u0254\u0250\u01dd\ud801\udc12",
+	"subtitles.block.beehive.drip":
+		"§6§osd\u1d09\u0279p \u028e\u01dduoH",
+	"subtitles.block.beehive.enter":
+		"§7§o\u01dd\u028c\u1d09\u0265 s\u0279\u01dd\u0287u\u01dd \u01dd\u01dd\u15fa",
+	"subtitles.block.beehive.exit":
+		"§7§o\u01dd\u028c\u1d09\u0265 s\u01dd\u028c\u0250\u01dd\ua781 \u01dd\u01dd\u15fa",
+	"subtitles.block.beehive.shear":
+		"§7§o\u01ddd\u0250\u0279\u0254s s\u0279\u0250\u01dd\u0265S",
+	"subtitles.block.beehive.work":
+		"§7§o\u029e\u0279o\u028d s\u01dd\u01dd\u15fa",
+	"subtitles.block.bell.resonate":
+		"§e§os\u01dd\u0287\u0250uos\u01dd\u0279 \ua781\ua781\u01dd\u15fa",
+	"subtitles.block.bell.use":
+		"§c§ls\u1d77u\u1d09\u0279 \ua781\ua781\u01dd\u15fa",
+	"subtitles.block.blastfurnace.fire_crackle":
+		"§7§os\u01dd\ua781\u029e\u0254\u0250\u0279\u0254 \u01dd\u0254\u0250u\u0279n\u2132 \u0287s\u0250\ua781\u15fa",
+	"subtitles.block.brewing_stand.brew":
+		"§7§os\u01dd\ua781qqnq pu\u0250\u0287S \u1d77u\u1d09\u028d\u01dd\u0279\u15fa",
+	"subtitles.block.bubble_column.bubble_pop":
+		"§1§odod s\u01dd\ua781qqn\u15fa",
+	"subtitles.block.bubble_column.upwards_ambient":
+		"§1§o\u028do\ua781\u025f s\u01dd\ua781qqn\u15fa",
+	"subtitles.block.bubble_column.upwards_inside":
+		"§9§o\u0265soo\u028d s\u01dd\ua781qqn\u15fa",
+	"subtitles.block.bubble_column.whirlpool_ambient":
+		"§1§o\ua781\u0279\u1d09\u0265\u028d s\u01dd\ua781qqn\u15fa",
+	"subtitles.block.bubble_column.whirlpool_inside":
+		"§9§o\u026fooz s\u01dd\ua781qqn\u15fa",
+	"subtitles.block.button.click":
+		"§7§os\u029e\u0254\u1d09\ua781\u0254 uo\u0287\u0287n\u15fa",
+	"subtitles.block.campfire.crackle":
+		"§7§os\u01dd\ua781\u029e\u0254\u0250\u0279\u0254 \u01dd\u0279\u1d09\u025fd\u026f\u0250\u0186",
+	"subtitles.block.chest.close":
+		"§7§os\u01ddso\ua781\u0254 \u0287s\u01dd\u0265\u0186",
+	"subtitles.block.chest.locked":
+		"§7§lp\u01dd\u029e\u0254o\ua781 \u0287s\u01dd\u0265\u0186",
+	"subtitles.block.chest.open":
+		"§7§osu\u01dddo \u0287s\u01dd\u0265\u0186",
+	"subtitles.block.chorus_flower.death":
+		"§4§os\u0279\u01dd\u0265\u0287\u1d09\u028d §7§o\u0279\u01dd\u028do\ua781\u2132 sn\u0279o\u0265\u0186",
+	"subtitles.block.chorus_flower.grow":
+		"§2§os\u028do\u0279\u1d77 §7§o\u0279\u01dd\u028do\ua781\u2132 sn\u0279o\u0265\u0186",
+	"subtitles.block.comparator.click":
+		"§7§os\u029e\u0254\u1d09\ua781\u0254 \u0279o\u0287\u0250\u0279\u0250d\u026fo\u0186",
+	"subtitles.block.composter.empty":
+		"§2§op\u01dd\u1d09\u0287d\u026f\u01dd \u0279\u01dd\u0287sod\u026fo\u0186",
+	"subtitles.block.composter.fill":
+		"§7§op\u01ddll\u1d09\u025f \u0279\u01dd\u0287sod\u026fo\u0186",
+	"subtitles.block.composter.ready":
+		"§8§os\u0287sod\u026fo\u0254 \u0279\u01dd\u0287sod\u026fo\u0186",
+	"subtitles.block.conduit.activate":
+		"§b§os\u01dd\u0287\u0250\u028c\u1d09\u0287\u0254\u0250 \u0287\u1d09npuo\u0186",
+	"subtitles.block.conduit.ambient":
+		"§3§os\u01ddslnd \u0287\u1d09npuo\u0186",
+	"subtitles.block.conduit.attack.target":
+		"§2§ls\u029e\u0254\u0250\u0287\u0287\u0250 \u0287\u1d09npuo\u0186",
+	"subtitles.block.conduit.deactivate":
+		"§c§os\u01dd\u0287\u0250\u028c\u1d09\u0287\u0254\u0250\u01ddp \u0287\u1d09npuo\u0186",
+	"subtitles.block.dispenser.dispense":
+		"§7§o\u026f\u01dd\u0287\u1d09 p\u01ddsu\u01ddds\u1d09\u15e1",
+	"subtitles.block.dispenser.fail":
+		"§4§op\u01dd\ua781\u1d09\u0250\u025f \u0279\u01ddsu\u01ddds\u1d09\u15e1",
+	"subtitles.block.door.toggle":
+		"§7§os\u029e\u0250\u01dd\u0279\u0254 \u0279oo\u15e1",
+	"subtitles.block.enchantment_table.use":
+		"§e§op\u01ddsn \u01ddlq\u0250\u0287 \u0183u\u1d09\u0287u\u0250\u0265\u0254u\u018e",
+	"subtitles.block.end_portal.spawn":
+		"§d§o§lsu\u01dddo \ua781\u0250\u0287\u0279o\u0500 pu\u018e",
+	"subtitles.block.end_portal_frame.fill":
+		"§5§os\u01dd\u0265\u0254\u0250\u0287\u0287\u0250 \u0279\u01ddpu\u018e \u025fo \u01dd\u028e\u018e",
+	"subtitles.block.fence_gate.toggle":
+		"§7§os\u029e\u0250\u01dd\u0279\u0254 \u01dd\u0287\u0250\u2141 \u01dd\u0254u\u01dd\u2132",
+	"subtitles.block.fire.ambient":
+		"§7§os\u01dd\ua781\u029e\u0254\u0250\u0279\u0254 \u01dd\u0279\u1d09\u2132",
+	"subtitles.block.fire.extinguish":
+		"§7§op\u01dd\u0265s\u1d09n\u1d77u\u1d09\u0287x\u01dd \u01dd\u0279\u1d09\u2132",
+	"subtitles.block.furnace.fire_crackle":
+		"§7§os\u01dd\ua781\u029e\u0254\u0250\u0279\u0254 \u01dd\u0254\u0250u\u0279n\u2132",
+	"subtitles.block.generic.break":
+		"§7§ou\u01dd\u029eo\u0279q \u029e\u0254o\ua781\u15fa",
+	"subtitles.block.generic.footsteps":
+		"§8§osd\u01dd\u0287s\u0287oo\u2132",
+	"subtitles.block.generic.hit":
+		"§7§o\u1d77u\u1d09\u029e\u0250\u01dd\u0279q \u029e\u0254o\ua781\u15fa",
+	"subtitles.block.generic.place":
+		"§8§op\u01dd\u0254\u0250\ua781d \u029e\u0254o\ua781\u15fa",
+	"subtitles.block.grindstone.use":
+		"§7§op\u01ddsn \u01dduo\u0287spu\u1d09\u0279\u2141",
+	"subtitles.block.honey_block.slide":
+		"§7§o\u029e\u0254o\ua781q \u028e\u01dduo\u0265 \u0250 u\u028dop \u1d77u\u1d09p\u1d09\ua781S",
+	"subtitles.block.iron_trapdoor.close":
+		"§7§os\u01ddso\ua781\u0254 \u0279oopd\u0250\u0279\u27d8",
+	"subtitles.block.iron_trapdoor.open":
+		"§7§osu\u01dddo \u0279oopd\u0250\u0279\u27d8",
+	"subtitles.block.lava.ambient":
+		"§4§osdod \u0250\u028c\u0250\ua780",
+	"subtitles.block.lava.extinguish":
+		"§2§os\u01ddss\u1d09\u0265 \u0250\u028c\u0250\ua780",
+	"subtitles.block.lever.click":
+		"§7§os\u029e\u0254\u1d09\ua781\u0254 \u0279\u01dd\u028c\u01dd\ua780",
+	"subtitles.block.note_block.note":
+		"§8§os\u028e\u0250\ua781d \u029e\u0254o\ua781q\u01dd\u0287oN",
+	"subtitles.block.piston.move":
+		"§7§os\u01dd\u028co\u026f uo\u0287s\u1d09\u0500",
+	"subtitles.block.portal.ambient":
+		"§5§os\u01dd\u0265soo\u0265\u028d \ua781\u0250\u0287\u0279o\u0500",
+	"subtitles.block.portal.travel":
+		"§5§os\u01ddp\u0250\u025f \u01dds\u1d09ou \ua781\u0250\u0287\u0279o\u0500",
+	"subtitles.block.portal.trigger":
+		"§d§os\u01dd\u1d09\u025f\u1d09su\u01dd\u0287u\u1d09 \u01dds\u1d09ou \ua781\u0250\u0287\u0279o\u0500",
+	"subtitles.block.pressure_plate.click":
+		"§7§os\u029e\u0254\u1d09\ua781\u0254 \u01dd\u0287\u0250\ua781\u0500 \u01dd\u0279nss\u01dd\u0279\u0500",
+	"subtitles.block.pumpkin.carve":
+		"§8§o\u01dd\u028c\u0279\u0250\u0254 s\u0279\u0250\u01dd\u0265S",
+	"subtitles.block.redstone_torch.burnout":
+		"§4§os\u01ddzz\u1d09\u025f \u0265\u0254\u0279o\u27d8",
+	"subtitles.block.respawn_anchor.ambient":
+		"§5§os\u01dd\u0265soo\u0265\u028d \u0279o\u0265\u0254u\u0250 u\u028d\u0250ds\u01dd\u1d1a",
+	"subtitles.block.respawn_anchor.charge":
+		"§2§op\u01dd\u1d77\u0279\u0250\u0265\u0254 s\u1d09 \u0279o\u0265\u0254u\u0250 u\u028d\u0250ds\u01dd\u1d1a",
+	"subtitles.block.respawn_anchor.deplete":
+		"§4§os\u01dd\u0287\u01dd\ua781d\u01ddp \u0279o\u0265\u0254u\u0250 u\u028d\u0250ds\u01dd\u1d1a",
+	"subtitles.block.respawn_anchor.set_spawn":
+		"§c§lu\u028d\u0250ds s\u0287\u01dds \u0279o\u0265\u0254u\u0250 u\u028d\u0250ds\u01dd\u1d1a",
+	"subtitles.block.shulker_box.close":
+		"§4§os\u01ddso\ua781\u0254 \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.block.shulker_box.open":
+		"§4§osu\u01dddo \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.block.smithing_table.use":
+		"§7§op\u01ddsn \u01ddlq\u0250\u2534 \u0183u\u1d09\u0265\u0287\u1d09\u026fS",
+	"subtitles.block.smoker.smoke":
+		"§7§os\u01dd\u029eo\u026fs \u0279\u01dd\u029eo\u026fS",
+	"subtitles.block.trapdoor.toggle":
+		"§7§os\u029e\u0250\u01dd\u0279\u0254 \u0279oo\u15e1d\u0250\u0279\u27d8",
+	"subtitles.block.tripwire.attach":
+		"§2§os\u01dd\u0265\u0254\u0250\u0287\u0287\u0250 \u01dd\u0279\u1d09\u028dd\u1d09\u0279\u27d8",
+	"subtitles.block.tripwire.click":
+		"§7§os\u029e\u0254\u1d09\ua781\u0254 \u01dd\u0279\u1d09\u028dd\u1d09\u0279\u27d8",
+	"subtitles.block.tripwire.detach":
+		"§4§os\u01dd\u0265\u0254\u0250\u0287\u01ddp \u01dd\u0279\u1d09\u028dd\u1d09\u0279\u27d8",
+	"subtitles.block.water.ambient":
+		"§1§os\u028do\ua781\u025f \u0279\u01dd\u0287\u0250M",
+	"subtitles.enchant.thorns.hit":
+		"§c§o\u029e\u0254\u1d09\u0279d su\u0279o\u0265\u27d8",
+	"subtitles.entity.armor_stand.fall":
+		"§7§o\ua781\ua781\u01dd\u025f \u1d77u\u1d09\u0265\u0287\u01dd\u026foS",
+	"subtitles.entity.arrow.hit":
+		"§f§ls\u0287\u1d09\u0265 \u028do\u0279\u0279\u2c6f",
+	"subtitles.entity.arrow.hit_player":
+		"§4§l\u0287\u1d09\u0265 \u0279\u01dd\u028e\u0250\ua781\u0500",
+	"subtitles.entity.arrow.shoot":
+		"§f§lp\u01dd\u0279\u1d09\u025f \u028do\u0279\u0279\u2c6f",
+	"subtitles.entity.bat.ambient":
+		"§8§os\u01dd\u0265\u0254\u01dd\u01dd\u0279\u0254s \u0287\u0250\u15fa",
+	"subtitles.entity.bat.death":
+		"§8§o§ls\u01dd\u1d09p \u0287\u0250\u15fa",
+	"subtitles.entity.bat.hurt":
+		"§8§os\u0287\u0279n\u0265 \u0287\u0250\u15fa",
+	"subtitles.entity.bat.takeoff":
+		"§8§o\u025f\u025fo s\u01dd\u029e\u0250\u0287 \u0287\u0250\u15fa",
+	"subtitles.entity.bee.ambient":
+		"§8§os\u01ddzznq \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.death":
+		"§c§ls\u01dd\u1d09p \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.hurt":
+		"§4§os\u0287\u0279n\u0265 \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.loop":
+		"§7§os\u01ddzznq \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.loop_aggressive":
+		"§4§o\u028e\ua781\u1d09\u0279\u1d77u\u0250 s\u01ddzznq \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.pollinate":
+		"§2§o\u028e\ua781\u1d09dd\u0250\u0265 s\u01ddzznq \u01dd\u01dd\u15fa",
+	"subtitles.entity.bee.sting":
+		"§4§ls\u1d77u\u1d09\u0287s \u01dd\u01dd\u15fa",
+	"subtitles.entity.blaze.ambient":
+		"§4§os\u01dd\u0265\u0287\u0250\u01dd\u0279q \u01ddz\u0250\ua781\u15fa",
+	"subtitles.entity.blaze.burn":
+		"§4§os\u01dd\ua781\u029e\u0254\u0250\u0279\u0254 \u01ddz\u0250\ua781\u15fa",
+	"subtitles.entity.blaze.death":
+		"§a§ls\u01dd\u1d09p \u01ddz\u0250\ua781\u15fa",
+	"subtitles.entity.blaze.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01ddz\u0250\ua781\u15fa",
+	"subtitles.entity.blaze.shoot":
+		"§4§os\u0287oo\u0265s \u01ddz\u0250\ua781\u15fa",
+	"subtitles.entity.boat.paddle_land":
+		"§8§o\u0183u\u0131\u028do\u1d1a",
+	"subtitles.entity.boat.paddle_water":
+		"§1§o\u0183u\u0131\u028do\u1d1a",
+	"subtitles.entity.cat.ambient":
+		"§7§os\u028do\u01dd\u026f \u0287\u0250\u0186",
+	"subtitles.entity.cat.beg_for_food":
+		"§7§os\u0183\u01ddq \u0287\u0250\u0186",
+	"subtitles.entity.cat.death":
+		"§c§ls\u01dd\u1d09p \u0287\u0250\u0186",
+	"subtitles.entity.cat.eat":
+		"§2§os\u0287\u0250\u01dd \u0287\u0250\u0186",
+	"subtitles.entity.cat.hiss":
+		"§4§os\u01ddss\u1d09\u0265 \u0287\u0250\u0186",
+	"subtitles.entity.cat.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0287\u0250\u0186",
+	"subtitles.entity.cat.purr":
+		"§a§os\u0279\u0279nd \u0287\u0250\u0186",
+	"subtitles.entity.chicken.ambient":
+		"§8§os\u029e\u0254n\ua781\u0254 u\u01dd\u029e\u0254\u1d09\u0265\u0186",
+	"subtitles.entity.chicken.death":
+		"§a§ls\u01dd\u1d09p u\u01dd\u029e\u0254\u1d09\u0265\u0186",
+	"subtitles.entity.chicken.egg":
+		"§7§osdo\ua781d u\u01dd\u029e\u0254\u1d09\u0265\u0186",
+	"subtitles.entity.chicken.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u01dd\u029e\u0254\u1d09\u0265\u0186",
+	"subtitles.entity.cod.death":
+		"§7§ls\u01dd\u1d09p po\u0186",
+	"subtitles.entity.cod.flop":
+		"§8§osdo\ua781\u025f po\u0186",
+	"subtitles.entity.cod.hurt":
+		"§8§os\u0287\u0279n\u0265 po\u0186",
+	"subtitles.entity.cow.ambient":
+		"§8§osoo\u026f \u028do\u0186",
+	"subtitles.entity.cow.death":
+		"§7§ls\u01dd\u1d09p \u028do\u0186",
+	"subtitles.entity.cow.hurt":
+		"§8§os\u0287\u0279n\u0265 \u028do\u0186",
+	"subtitles.entity.cow.milk":
+		"§2§op\u01dd\u029e\ua781\u1d09\u026f s\u0287\u01dd\u1d77 \u028do\u0186",
+	"subtitles.entity.creeper.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01ddd\u01dd\u01dd\u0279\u0186",
+	"subtitles.entity.creeper.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01ddd\u01dd\u01dd\u0279\u0186",
+	"subtitles.entity.creeper.primed":
+		"§c§o§ls\u01ddss\u1d09\u0265 \u0279\u01ddd\u01dd\u01dd\u0279\u0186",
+	"subtitles.entity.dolphin.ambient":
+		"§1§osd\u0279\u1d09\u0265\u0254 u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.ambient_water":
+		"§1§os\u01dd\ua781\u0287s\u1d09\u0265\u028d u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.attack":
+		"§4§os\u029e\u0254\u0250\u0287\u0287\u0250 u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.death":
+		"§c§ls\u01dd\u1d09p u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.eat":
+		"§2§os\u0287\u0250\u01dd u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.hurt":
+		"§4§os\u0287\u0279n\u0265 u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.jump":
+		"§1§osd\u026fn\u027e u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.play":
+		"§2§os\u028e\u0250\ua781d u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.splash":
+		"§1§os\u01dd\u0265s\u0250\ua781ds u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.dolphin.swim":
+		"§1§os\u026f\u1d09\u028ds u\u1d09\u0265d\ua781o\u15e1",
+	"subtitles.entity.donkey.ambient":
+		"§7§os\u028d\u0250\u0265-\u01dd\u01dd\u0265 \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.donkey.angry":
+		"§4§os\u0265\u1d77\u1d09\u01ddu \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.donkey.chest":
+		"§2§lsd\u1d09nb\u01dd \u0287s\u01dd\u0265\u0186 \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.donkey.death":
+		"§c§ls\u01dd\u1d09p \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.donkey.eat":
+		"§2§os\u0287\u0250\u01dd \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.donkey.hurt":
+		"§4§os\u0287\u0279n\u0265 \u028e\u01dd\u029euo\u15e1",
+	"subtitles.entity.drowned.ambient":
+		"§4§os\u01dd\ua781\u1d77\u0279\u0250\u1d77 p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.ambient_water":
+		"§4§os\u01dd\ua781\u1d77\u0279n\u1d77 p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.death":
+		"§2§ls\u01dd\u1d09p p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.hurt":
+		"§2§os\u0287\u0279n\u0265 p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.shoot":
+		"§4§o§l\u0287u\u01ddp\u1d09\u0279\u27d8 s\u028do\u0279\u0265\u0287 p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.step":
+		"§4§osd\u01dd\u0287s p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.drowned.swim":
+		"§4§os\u026f\u1d09\u028ds p\u01ddu\u028do\u0279\u15e1",
+	"subtitles.entity.egg.throw":
+		"§7§ls\u01dd\u1d09\ua781\u025f \u1d77\u1d77\u018e",
+	"subtitles.entity.elder_guardian.ambient":
+		"§4§osu\u0250o\u026f u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.elder_guardian.ambient_land":
+		"§4§osd\u0250\ua781\u025f u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.elder_guardian.curse":
+		"§c§o§ls\u01dds\u0279n\u0254 u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.elder_guardian.death":
+		"§a§ls\u01dd\u1d09p u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.elder_guardian.flop":
+		"§2§osdo\ua781\u025f u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.elder_guardian.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u0250\u1d09p\u0279\u0250n\u2141 \u0279\u01ddp\ua781\u018e",
+	"subtitles.entity.ender_dragon.ambient":
+		"§5§os\u0279\u0250o\u0279 uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_dragon.death":
+		"§b§o§ls\u01dd\u1d09p uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_dragon.flap":
+		"§d§lsd\u0250\ua781\u025f uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_dragon.growl":
+		"§5§os\ua781\u028do\u0279\u1d77 uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_dragon.hurt":
+		"§2§os\u0287\u0279n\u0265 uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_dragon.shoot":
+		"§d§o§ls\u0287oo\u0265s uo\u1d77\u0250\u0279\u15e1",
+	"subtitles.entity.ender_eye.death":
+		"§7§osll\u0250\u025f \u0279\u01ddpu\u018e \u025fo \u01dd\u028e\u018e",
+	"subtitles.entity.ender_eye.launch":
+		"§7§ls\u0287oo\u0265s \u0279\u01ddpu\u018e \u025fo \u01dd\u028e\u018e",
+	"subtitles.entity.ender_pearl.throw":
+		"§7§os\u01dd\u1d09\ua781\u025f \ua781\u0279\u0250\u01dd\u0500 \u0279\u01ddpu\u018e",
+	"subtitles.entity.enderman.ambient":
+		"§5§osdoo\u028d\u028c u\u0250\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.enderman.death":
+		"§a§ls\u01dd\u1d09p u\u0250\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.enderman.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u0250\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.enderman.stare":
+		"§4§o\u0287no s\u01dd\u1d09\u0279\u0254 u\u0250\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.enderman.teleport":
+		"§5§ls\u0287\u0279od\u01dd\ua781\u01dd\u0287 u\u0250\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.endermite.ambient":
+		"§4§os\u01dd\ua781\u0287\u0287n\u0254s \u01dd\u0287\u1d09\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.endermite.death":
+		"§a§ls\u01dd\u1d09p \u01dd\u0287\u1d09\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.endermite.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01dd\u0287\u1d09\u026f\u0279\u01ddpu\u018e",
+	"subtitles.entity.evoker.ambient":
+		"§4§os\u0279n\u026f\u0279n\u026f \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.cast_spell":
+		"§c§o§l\ua781\ua781\u01ddds s\u0287s\u0250\u0254 \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.celebrate":
+		"§4§os\u0279\u01dd\u01dd\u0265\u0254 \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.prepare_attack":
+		"§4§o\u029e\u0254\u0250\u0287\u0287\u0250 s\u01dd\u0279\u0250d\u01dd\u0279d \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.prepare_summon":
+		"§4§o\u1d77u\u1d09uo\u026f\u026fns s\u01dd\u0279\u0250d\u01dd\u0279d \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker.prepare_wololo":
+		"§4§o\u1d77u\u1d09\u026f\u0279\u0250\u0265\u0254 s\u01dd\u0279\u0250d\u01dd\u0279d \u0279\u01dd\u029eo\u028c\u018e",
+	"subtitles.entity.evoker_fangs.attack":
+		"§c§ld\u0250us s\u1d77u\u0250\u2132",
+	"subtitles.entity.experience_orb.pickup":
+		"§2§op\u01ddu\u1d09\u0250\u1d77 \u01dd\u0254u\u01dd\u1d09\u0279\u01dddx\u018e",
+	"subtitles.entity.firework_rocket.blast":
+		"§7§os\u0287s\u0250\ua781q \u029e\u0279o\u028d\u01dd\u0279\u1d09\u2132",
+	"subtitles.entity.firework_rocket.launch":
+		"§8§os\u01dd\u0265\u0254un\u0250\ua781 \u029e\u0279o\u028d\u01dd\u0279\u1d09\u2132",
+	"subtitles.entity.firework_rocket.twinkle":
+		"§e§os\u01dd\ua781\u029eu\u1d09\u028d\u0287 \u029e\u0279o\u028d\u01dd\u0279\u1d09\u2132",
+	"subtitles.entity.fishing_bobber.retrieve":
+		"§8§op\u01dd\u028c\u01dd\u1d09\u0279\u0287\u01dd\u0279 \u0279\u01ddqqo\ud801\udc12",
+	"subtitles.entity.fishing_bobber.splash":
+		"\u1d77u\u1d09\u0265\u0287\u01dd\u026foS \u0287\u0265\u1d77n\u0250\u0186",
+	"subtitles.entity.fishing_bobber.throw":
+		"§8§ou\u028do\u0279\u0265\u0287 \u0279\u01ddqqo\u15fa",
+	"subtitles.entity.fox.aggro":
+		"§4§os\u0279\u01dd\u1d77u\u0250 xo\u2132",
+	"subtitles.entity.fox.ambient":
+		"§8§os\u029e\u0250\u01ddnbs xo\u2132",
+	"subtitles.entity.fox.bite":
+		"§4§ls\u01dd\u0287\u1d09q xo\u2132",
+	"subtitles.entity.fox.death":
+		"§c§o§ls\u01dd\u1d09p xo\u2132",
+	"subtitles.entity.fox.eat":
+		"§2§os\u0287\u0250\u01dd xo\u2132",
+	"subtitles.entity.fox.hurt":
+		"§4§os\u0287\u0279n\u0265 xo\u2132",
+	"subtitles.entity.fox.screech":
+		"§7§os\u01dd\u0265\u0254\u01dd\u01dd\u0279\u0254s xo\u2132",
+	"subtitles.entity.fox.sleep":
+		"§8§os\u01dd\u0279ous xo\u2132",
+	"subtitles.entity.fox.sniff":
+		"§8§os\u025f\u025f\u1d09us xo\u2132",
+	"subtitles.entity.fox.spit":
+		"§2§os\u0287\u1d09ds xo\u2132",
+	"subtitles.entity.fox.teleport":
+		"§5§ls\u0287\u0279od\u01dd\ua781\u01dd\u0287 xo\u2132",
+	"subtitles.entity.generic.big_fall":
+		"§7§o\ua781\ua781\u01dd\u025f \u1d77u\u1d09\u0265\u0287\u01dd\u026foS",
+	"subtitles.entity.generic.burn":
+		"§c§o\u1d77u\u1d09u\u0279n\u15fa",
+	"subtitles.entity.generic.death":
+		"§f§l\u1d77u\u1d09\u028ep",
+	"subtitles.entity.generic.drink":
+		"§2§o\u1d77u\u1d09dd\u1d09S",
+	"subtitles.entity.generic.eat":
+		"§2§o\u1d77u\u1d09\u0287\u0250\u018e",
+	"subtitles.entity.generic.explode":
+		"§f§luo\u1d09so\ua781dx\u018e",
+	"subtitles.entity.generic.extinguish_fire":
+		"§7§os\u01dd\u0265s\u1d09n\u1d77u\u1d09\u0287x\u01dd \u01dd\u0279\u1d09\u2132",
+	"subtitles.entity.generic.hurt":
+		"§f§os\u0287\u0279n\u0265 \u1d77u\u1d09\u0265\u0287\u01dd\u026foS",
+	"subtitles.entity.generic.small_fall":
+		"§f§osd\u1d09\u0279\u0287 \u1d77u\u1d09\u0265\u0287\u01dd\u026foS",
+	"subtitles.entity.generic.splash":
+		"§1§o\u1d77u\u1d09\u0265s\u0250\ua781dS",
+	"subtitles.entity.generic.swim":
+		"§1§o\u1d77u\u1d09\u026f\u026f\u1d09\u028dS",
+	"subtitles.entity.ghast.ambient":
+		"§4§os\u01dd\u1d09\u0279\u0254 \u0287s\u0250\u0265\u2141",
+	"subtitles.entity.ghast.death":
+		"§a§ls\u01dd\u1d09p \u0287s\u0250\u0265\u2141",
+	"subtitles.entity.ghast.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0287s\u0250\u0265\u2141",
+	"subtitles.entity.ghast.shoot":
+		"§4§os\u0287oo\u0265s \u0287s\u0250\u0265\u2141",
+	"subtitles.entity.guardian.ambient":
+		"§4§osu\u0250o\u026f u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.guardian.ambient_land":
+		"§4§osd\u0250\ua781\u025f u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.guardian.attack":
+		"§c§ls\u0287oo\u0265s u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.guardian.death":
+		"§a§ls\u01dd\u1d09p u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.guardian.flop":
+		"§2§osdo\ua781\u025f u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.guardian.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u0250\u1d09p\u0279\u0250n\u2141",
+	"subtitles.entity.hoglin.ambient":
+		"§4§os\ua781\u028do\u0279\u1d77 u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.angry":
+		"§c§o\u028e\ua781\u1d09\u0279\u1d77u\u0250 s\ua781\u028do\u0279\u1d77 u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.attack":
+		"§c§ls\u029e\u0254\u0250\u0287\u0287\u0250 u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.converted_to_zombified":
+		"§4§ou\u1d09l\u0183oZ §c§o§lo\u0287 s\u0287\u0279\u01dd\u028cuo\u0254 §4§ou\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.death":
+		"§a§ls\u01dd\u1d09p u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.retreat":
+		"§2§os\u0287\u0250\u01dd\u0279\u0287\u01dd\u0279 u\u1d09l\u0183oH",
+	"subtitles.entity.hoglin.step":
+		"§4§osd\u01dd\u0287s u\u1d09l\u0183oH",
+	"subtitles.entity.horse.ambient":
+		"§7§os\u0265\u1d77\u1d09\u01ddu \u01dds\u0279oH",
+	"subtitles.entity.horse.angry":
+		"§4§os\u0265\u1d77\u1d09\u01ddu \u01dds\u0279oH",
+	"subtitles.entity.horse.armor":
+		"§2§lsd\u1d09nb\u01dd \u0279no\u026f\u0279\u0250 \u01dds\u0279oH",
+	"subtitles.entity.horse.breathe":
+		"§8§os\u01dd\u0265\u0287\u0250\u01dd\u0279q \u01dds\u0279oH",
+	"subtitles.entity.horse.death":
+		"§c§o§ls\u01dd\u1d09p \u01dds\u0279oH",
+	"subtitles.entity.horse.eat":
+		"§2§os\u0287\u0250\u01dd \u01dds\u0279oH",
+	"subtitles.entity.horse.gallop":
+		"§7§osdo\ua781\ua781\u0250\u1d77 \u01dds\u0279oH",
+	"subtitles.entity.horse.hurt":
+		"§4§os\u0287\u0279n\u0265 \u01dds\u0279oH",
+	"subtitles.entity.horse.jump":
+		"§7§osd\u026fn\u027e \u01dds\u0279oH",
+	"subtitles.entity.horse.saddle":
+		"§2§lsd\u1d09nb\u01dd \u01dd\ua781pp\u0250S",
+	"subtitles.entity.husk.ambient":
+		"§4§osu\u0250o\u0279\u1d77 \u029esnH",
+	"subtitles.entity.husk.converted_to_zombie":
+		"§4§o\u01dd\u1d09q\u026foZ §a§o§lo\u0287 s\u0287\u0279\u01dd\u028cuo\u0254 §4§o\u029esnH",
+	"subtitles.entity.husk.death":
+		"§a§ls\u01dd\u1d09p \u029esnH",
+	"subtitles.entity.husk.hurt":
+		"§2§os\u0287\u0279n\u0265 \u029esnH",
+	"subtitles.entity.illusioner.ambient":
+		"§4§os\u0279n\u026f\u0279n\u026f \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.illusioner.cast_spell":
+		"§c§l\ua781\ua781\u01ddds s\u0287s\u0250\u0254 \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.illusioner.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.illusioner.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.illusioner.mirror_move":
+		"§4§os\u01dd\u0254\u0250\ua781ds\u1d09p \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.illusioner.prepare_blindness":
+		"§4§oI\ua781\ua781us\u1d09on\u01dd\u0279 d\u1d09sp\ua781\u0250\u0254\u01dds",
+	"subtitles.entity.illusioner.prepare_mirror":
+		"§4§o\u01dd\u1d77\u0250\u026f\u1d09 \u0279o\u0279\u0279\u1d09\u026f s\u01dd\u0279\u0250d\u01dd\u0279d \u0279\u01dduo\u1d09sn\ua781\ua781I",
+	"subtitles.entity.iron_golem.attack":
+		"§f§ls\u029e\u0254\u0250\u0287\u0287\u0250 \u026f\u01dd\ua781o\u2141 uo\u0279I",
+	"subtitles.entity.iron_golem.damage":
+		"§4§o§ls\u029e\u0250\u01dd\u0279q \u026f\u01dd\ua781o\u2141 uo\u0279I",
+	"subtitles.entity.iron_golem.death":
+		"§c§ls\u01dd\u1d09p \u026f\u01dd\ua781o\u2141 uo\u0279I",
+	"subtitles.entity.iron_golem.hurt":
+		"§4§os\u0287\u0279n\u0265 \u026f\u01dd\ua781o\u2141 uo\u0279I",
+	"subtitles.entity.iron_golem.repair":
+		"§a§op\u01dd\u0279\u1d09\u0250d\u01dd\u0279 \u026f\u01dd\ua781o\u2141 uo\u0279I",
+	"subtitles.entity.item.break":
+		"§c§ls\u029e\u0250\u01dd\u0279q \u026f\u01dd\u0287I",
+	"subtitles.entity.item.pickup":
+		"§7§osdo\ua781d \u026f\u01dd\u0287I",
+	"subtitles.entity.item_frame.add_item":
+		"§8§os\ua781\ua781\u1d09\u025f \u01dd\u026f\u0250\u0279\u2132 \u026f\u01dd\u0287I",
+	"subtitles.entity.item_frame.break":
+		"§7§os\u029e\u0250\u01dd\u0279q \u01dd\u026f\u0250\u0279\u2132 \u026f\u01dd\u0287I",
+	"subtitles.entity.item_frame.place":
+		"§8§op\u01dd\u0254\u0250\ua781d \u01dd\u026f\u0250\u0279\u2132 \u026f\u01dd\u0287I",
+	"subtitles.entity.item_frame.remove_item":
+		"§7§os\u01dd\u1d09\u0287d\u026f\u01dd \u01dd\u026f\u0250\u0279\u2132 \u026f\u01dd\u0287I",
+	"subtitles.entity.item_frame.rotate_item":
+		"§8§os\u029e\u0254\u1d09\ua781\u0254 \u01dd\u026f\u0250\u0279\u2132 \u026f\u01dd\u0287I",
+	"subtitles.entity.leash_knot.break":
+		"§4§os\u029e\u0250\u01dd\u0279q \u0287ou\u029e \u0265s\u0250\u01dd\ua780",
+	"subtitles.entity.leash_knot.place":
+		"§2§op\u01dd\u1d09\u0287 \u0287ou\u029e \u0265s\u0250\u01dd\ua780",
+	"subtitles.entity.lightning_bolt.impact":
+		"§f§ls\u01dd\u029e\u1d09\u0279\u0287s \u1d77u\u1d09u\u0287\u0265\u1d77\u1d09\ua780",
+	"subtitles.entity.lightning_bolt.thunder":
+		"§7§os\u0279\u0250o\u0279 \u0279\u01ddpun\u0265\u27d8",
+	"subtitles.entity.llama.ambient":
+		"§7§os\u0287\u0250\u01dd\ua781q \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.angry":
+		"§4§o\u028e\ua781\u1d09\u0279\u1d77u\u0250 s\u0287\u0250\u01dd\ua781q \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.chest":
+		"§2§lsd\u1d09nb\u01dd \u0287s\u01dd\u0265\u0186 \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.death":
+		"§c§ls\u01dd\u1d09p \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.eat":
+		"§2§os\u0287\u0250\u01dd \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.spit":
+		"§f§ls\u0287\u1d09ds \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.step":
+		"§8§osd\u01dd\u0287s \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.llama.swag":
+		"§2§lp\u01dd\u0287\u0250\u0279o\u0254\u01ddp s\u1d09 \u0250\u026f\u0250\ua781\ua780",
+	"subtitles.entity.magma_cube.death":
+		"§a§ls\u01dd\u1d09p \u01ddqn\u0186 \u0250\u026f\u1d77\u0250W",
+	"subtitles.entity.magma_cube.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01ddqn\u0186 \u0250\u026f\u1d77\u0250W",
+	"subtitles.entity.magma_cube.squish":
+		"§4§os\u01dd\u0265s\u1d09nbs \u01ddqn\u0186 \u0250\u026f\u1d77\u0250W",
+	"subtitles.entity.minecart.riding":
+		"§7§os\ua781\ua781o\u0279 \u0287\u0279\u0250\u0254\u01ddu\u1d09W",
+	"subtitles.entity.mooshroom.convert":
+		"§7§ls\u026f\u0279o\u025fsu\u0250\u0279\u0287 \u026foo\u0279\u0265sooW",
+	"subtitles.entity.mooshroom.eat":
+		"§2§os\u0287\u0250\u01dd \u026foo\u0279\u0265sooW",
+	"subtitles.entity.mooshroom.milk":
+		"§2§op\u01dd\u029e\ua781\u1d09\u026f s\u0287\u01dd\u1d77 \u026foo\u0279\u0265sooW",
+	"subtitles.entity.mooshroom.suspicious_milk":
+		"§2§o§n§2§o\u028e\ua781sno\u1d09\u0254\u1d09dsns§r §2§op\u01dd\u029e\ua781\u1d09\u026f s\u0287\u01dd\u1d77 \u026foo\u0279\u0265sooW",
+	"subtitles.entity.mule.ambient":
+		"§7§os\u028d\u0250\u0265-\u01dd\u01dd\u0265 \u01dd\ua781nW",
+	"subtitles.entity.mule.angry":
+		"§4§os\u0265\u1d77\u1d09\u01ddu \u01dd\ua781nW",
+	"subtitles.entity.mule.chest":
+		"§2§lsd\u1d09nb\u01dd \u0287s\u01dd\u0265\u0186 \u01dd\ua781nW",
+	"subtitles.entity.mule.death":
+		"§c§ls\u01dd\u1d09p \u01dd\ua781nW",
+	"subtitles.entity.mule.eat":
+		"§2§os\u0287\u0250\u01dd \u01dd\ua781nW",
+	"subtitles.entity.mule.hurt":
+		"§4§os\u0287\u0279n\u0265 \u01dd\ua781nW",
+	"subtitles.entity.painting.break":
+		"§8§os\u029e\u0250\u01dd\u0279q \u1d77u\u1d09\u0287u\u1d09\u0250\u0500",
+	"subtitles.entity.painting.place":
+		"§8§op\u01dd\u0254\u0250\ua781d \u1d77u\u1d09\u0287u\u1d09\u0250\u0500",
+	"subtitles.entity.panda.aggressive_ambient":
+		"§4§os\u025f\u025fn\u0265 \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.ambient":
+		"§7§os\u0287u\u0250d \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.bite":
+		"§4§ls\u01dd\u0287\u1d09q \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.cant_breed":
+		"§4§os\u0287\u0250\u01dd\ua781q \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.death":
+		"§c§o§ls\u01dd\u1d09p \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.eat":
+		"§2§os\u0287\u0250\u01dd \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.pre_sneeze":
+		"§8§os\u01dd\ua781\u029e\u0254\u1d09\u0287 \u01ddsou s\u0250pu\u0250\u0500",
+	"subtitles.entity.panda.sneeze":
+		"§7§os\u01ddz\u01dd\u01ddus \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.step":
+		"§8§osd\u01dd\u0287s \u0250pu\u0250\u0500",
+	"subtitles.entity.panda.worried_ambient":
+		"§8§os\u0279\u01ddd\u026f\u1d09\u0265\u028d \u0250pu\u0250\u0500",
+	"subtitles.entity.parrot.ambient":
+		"§8§os\u029e\ua781\u0250\u0287 \u0287o\u0279\u0279\u0250\u0500",
+	"subtitles.entity.parrot.death":
+		"§c§ls\u01dd\u1d09p \u0287o\u0279\u0279\u0250\u0500",
+	"subtitles.entity.parrot.eats":
+		"§2§os\u0287\u0250\u01dd \u0287o\u0279\u0279\u0250\u0500",
+	"subtitles.entity.parrot.fly":
+		"§7§os\u0279\u01dd\u0287\u0287nl\u025f \u0287o\u0279\u0279\u0250\u0500",
+	"subtitles.entity.parrot.hurts":
+		"§4§os\u0287\u0279n\u0265 \u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.blaze":
+    "§4§os\u01dd\u0265\u0287\u0250\u01dd\u0279q §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.creeper":
+    "§4§os\u01ddss\u1d09\u0265 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.drowned":
+    "§4§os\u01dd\ua781\u1d77\u0279n\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.elder_guardian":
+    "§4§osd\u0250\ua781\u025f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.ender_dragon":
+    "§5§os\u0279\u0250o\u0279 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.endermite":
+    "§4§os\u01dd\ua781\u0287\u0287n\u0254s §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.evoker":
+    "§4§os\u0279n\u026f\u0279n\u026f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.ghast":
+    "§4§os\u01dd\u1d09\u0279\u0254 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.guardian":
+    "§4§osu\u0250o\u026f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.hoglin":
+    "§4§oos\ua781mo\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.husk":
+    "§4§osu\u0250o\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.illusioner":
+    "§4§os\u0279n\u026f\u0279n\u026f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.magma_cube":
+    "§4§os\u01dd\u0265s\u1d09nbs §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.phantom":
+    "§4§os\u01dd\u0265\u0254\u01dd\u01dd\u0279\u0254s §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.piglin":
+    "§4§os\u0287\u0279ous §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.piglin_brute":
+    "§4§o§n\u028el\u1d09\u0287\u0265\u0183\u1d09\u026f§r §4§os\u0287\u0279ous §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.pillager":
+    "§4§os\u0279n\u026f\u0279n\u026f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.ravager":
+    "§4§os\u0287un\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.shulker":
+    "§4§os\u029e\u0279n\ua781 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.silverfish":
+    "§4§os\u01ddss\u1d09\u0265 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.skeleton":
+    "§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.slime":
+    "§4§os\u01dd\u0265s\u1d09nbs §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.spider":
+    "§4§os\u01ddss\u1d09\u0265 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.stray":
+    "§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.vex":
+    "§4§os\u01ddx\u01dd\u028c §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.vindicator":
+    "§4§os\u0279\u01dd\u0287\u0287n\u026f §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.witch":
+    "§4§os\u01dd\ua781\u1d77\u1d77\u1d09\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.wither":
+    "§4§os\u0279\u01dd\u1d77u\u0250 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.wither_skeleton":
+    "§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.zoglin":
+    "§4§os\ua781mo\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.zombie":
+    "§4§osu\u0250o\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+  "subtitles.entity.parrot.imitate.zombie_villager":
+    "§4§osu\u0250o\u0279\u1d77 §7§o\u0287o\u0279\u0279\u0250\u0500",
+	"subtitles.entity.phantom.ambient":
+		"§4§os\u01dd\u0265\u0254\u01dd\u01dd\u0279\u0254s \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.phantom.bite":
+		"§4§ls\u01dd\u0287\u1d09q \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.phantom.death":
+		"§a§ls\u01dd\u1d09p \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.phantom.flap":
+		"§4§osd\u0250\ua781\u025f \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.phantom.hurt":
+		"§2§os\u0287\u0279n\u0265 \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.phantom.swoop":
+		"§4§osdoo\u028ds \u026fo\u0287u\u0250\u0265\u0500",
+	"subtitles.entity.pig.ambient":
+		"§8§os\u029eu\u1d09o \u1d77\u1d09\u0500",
+	"subtitles.entity.pig.death":
+		"§7§ls\u01dd\u1d09p \u1d77\u1d09\u0500",
+	"subtitles.entity.pig.hurt":
+		"§2§os\u0287\u0279n\u0265 \u1d77\u1d09\u0500",
+	"subtitles.entity.pig.saddle":
+		"§2§lsd\u1d09nb\u01dd \u01dd\ua781pp\u0250S",
+	"subtitles.entity.piglin.admiring_item":
+		"§2§o\u026f\u01dd\u0287\u1d09 s\u01dd\u0279\u1d09\u026fp\u0250 u\u1d09l\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.ambient":
+		"§8§os\u0287\u0279ous u\u1d09l\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.angry":
+		"§4§o\u028e\ua781\u1d09\u0279\u1d77u\u0250 s\u0287\u0279ous u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.celebrate":
+		"§2§os\u01dd\u0287\u0250\u0279q\u01dd\ua781\u01dd\u0254 u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.converted_to_zombified":
+		"§4§ou\u1d09l\u0183\u1d09\u0500 §c§o§lp\u01dd\u1d09\u025f\u1d09q\u026foZ o\u0287 §4§os\u0287\u0279\u01dd\u028cuo\u0254 u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin.death":
+		"§a§ls\u01dd\u1d09p u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.jealous":
+		"§7§o\u028e\ua781sno\u1d09\u028cu\u01dd s\u0287\u0279ous u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.retreat":
+		"§2§os\u0287\u0250\u01dd\u0279\u0287\u01dd\u0279 u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin.step":
+		"§8§osd\u01dd\u0287s u\u1d09\ua781\u1d77\u1d09\u0500",
+	"subtitles.entity.piglin_brute.ambient":
+		"§4§os\u0287\u0279ous \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin_brute.angry":
+		"§c§o\u028el\u1d09\u0279\u0183u\u0250 s\u0287\u0279ous \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin_brute.death":
+		"§2§ls\u01dd\u1d09p \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin_brute.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin_brute.step":
+		"§4§osd\u01dd\u0287s \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.piglin_brute.converted_to_zombified":
+		"§4§ou\u1d09l\u0183\u1d09\u0500 §a§o§lp\u01dd\u1d09\u025f\u1d09q\u026foZ o\u0287 §4§os\u0287\u0279\u01dd\u028cuo\u0254 \u01dd\u0287n\u0279q u\u1d09l\u0183\u1d09\u0500",
+	"subtitles.entity.pillager.ambient":
+		"§4§os\u0279n\u026f\u0279n\u026f \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u0500",
+	"subtitles.entity.pillager.celebrate":
+		"§4§os\u0279\u01dd\u01dd\u0265\u0254 \u0279\u01dd\u0183\u0250\u05df\u05df\u0131\u0500",
+	"subtitles.entity.pillager.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u0500",
+	"subtitles.entity.pillager.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01dd\u1d77\u0250ll\u1d09\u0500",
+	"subtitles.entity.player.attack.crit":
+		"§f§o§l\u029e\u0254\u0250\u0287\u0287\u0250 l\u0250\u0254\u1d09\u0287\u1d09\u0279\u0186",
+	"subtitles.entity.player.attack.knockback":
+		"§f§o§l\u029e\u0254\u0250\u0287\u0287\u0250 \u029e\u0254\u0250q\u029e\u0254ou\u029e",
+	"subtitles.entity.player.attack.strong":
+		"§f§o§l\u029e\u0254\u0250\u0287\u0287\u0250 \u0183uo\u0279\u0287S",
+	"subtitles.entity.player.attack.sweep":
+		"§f§o§l\u029e\u0254\u0250\u0287\u0287\u0250 \u0183u\u1d09d\u01dd\u01dd\u028dS",
+	"subtitles.entity.player.attack.weak":
+		"§7§o§l\u029e\u0254\u0250\u0287\u0287\u0250 \u029e\u0250\u01ddM",
+	"subtitles.entity.player.burp":
+		"§8§od\u0279n\u15fa",
+	"subtitles.entity.player.death":
+		"§c§ls\u01dd\u1d09p \u0279\u01dd\u028e\u0250\ua781\u0500",
+	"subtitles.entity.player.hurt":
+		"§4§ls\u0287\u0279n\u0265 \u0279\u01dd\u028e\u0250\ua781\u0500",
+	"subtitles.entity.player.hurt_drown":
+		"§4§l\u0183u\u1d09u\u028do\u0279p \u0279\u01dd\u028e\u0250l\u0500",
+	"subtitles.entity.player.hurt_on_fire":
+		"§4§lsu\u0279nq \u0279\u01dd\u028e\u0250l\u0500",
+	"subtitles.entity.player.levelup":
+		"§a§ls\u1d77u\u1d09p \u0279\u01dd\u028e\u0250\ua781\u0500",
+	"subtitles.entity.polar_bear.ambient":
+		"§7§osu\u0250o\u0279\u1d77 \u0279\u0250\u01dd\u15fa \u0279\u0250\ua781o\u0500",
+	"subtitles.entity.polar_bear.ambient_baby":
+		"§7§os\u026fn\u0265 \u0279\u0250\u01dd\u15fa \u0279\u0250\ua781o\u0500",
+	"subtitles.entity.polar_bear.death":
+		"§c§ls\u01dd\u1d09p \u0279\u0250\u01dd\u15fa \u0279\u0250\ua781o\u0500",
+	"subtitles.entity.polar_bear.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0279\u0250\u01dd\u15fa \u0279\u0250\ua781o\u0500",
+	"subtitles.entity.polar_bear.warning":
+		"§4§os\u0279\u0250o\u0279 \u0279\u0250\u01dd\u15fa \u0279\u0250\ua781o\u0500",
+	"subtitles.entity.potion.splash":
+		"§f§ls\u01dd\u0265s\u0250\u026fs \u01dd\ua781\u0287\u0287o\u15fa",
+	"subtitles.entity.potion.throw":
+		"§f§lu\u028do\u0279\u0265\u0287 \u01dd\ua781\u0287\u0287o\u15fa",
+	"subtitles.entity.puffer_fish.blow_out":
+		"§4§os\u01dd\u0287\u0250\ua781\u025f\u01ddp \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.puffer_fish.blow_up":
+		"§4§os\u01dd\u0287\u0250\ua781\u025fu\u1d09 \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.puffer_fish.death":
+		"§a§ls\u01dd\u1d09p \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.puffer_fish.flop":
+		"§2§osdo\ua781\u025f \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.puffer_fish.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.puffer_fish.sting":
+		"§4§ls\u1d77u\u1d09\u0287s \u0265s\u1d09\u025f\u0279\u01dd\u025f\u025fn\u0500",
+	"subtitles.entity.rabbit.ambient":
+		"§8§os\u029e\u0250\u01ddnbs \u0287\u1d09qq\u0250\u1d1a",
+	"subtitles.entity.rabbit.attack":
+		"§c§ls\u029e\u0254\u0250\u0287\u0287\u0250 \u0287\u1d09qq\u0250\u1d1a",
+	"subtitles.entity.rabbit.death":
+		"§a§ls\u01dd\u1d09p \u0287\u1d09qq\u0250\u1d1a",
+	"subtitles.entity.rabbit.hurt":
+		"§a§os\u0287\u0279n\u0265 \u0287\u1d09qq\u0250\u1d1a",
+	"subtitles.entity.rabbit.jump":
+		"§8§osdo\u0265 \u0287\u1d09qq\u0250\u1d1a",
+	"subtitles.entity.ravager.ambient":
+		"§4§os\u0287un\u0279b \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.attack":
+		"§c§ls\u01dd\u0287\u0131q \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.celebrate":
+		"§4§os\u0279\u01dd\u01dd\u0265\u0254 \u0279\u01dd\u0183\u0250\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.death":
+		"§a§ls\u01dd\u0131p \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.roar":
+		"§4§os\u0279\u0250o\u0279 \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.step":
+		"§4§osd\u01dd\u0287s \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.ravager.stunned":
+		"§2§op\u01dduun\u0287s \u0279\u01ddb\u01dd\u028c\u0250\u1d1a",
+	"subtitles.entity.salmon.death":
+		"§7§ls\u01dd\u1d09p uo\u026f\ua781\u0250S",
+	"subtitles.entity.salmon.flop":
+		"§8§osdo\ua781\u025f uo\u026f\ua781\u0250S",
+	"subtitles.entity.salmon.hurt":
+		"§8§os\u0287\u0279n\u0265 uo\u026f\ua781\u0250S",
+	"subtitles.entity.sheep.ambient":
+		"§8§os\u0265\u0250\u0250q d\u01dd\u01dd\u0265S",
+	"subtitles.entity.sheep.death":
+		"§7§ls\u01dd\u1d09p d\u01dd\u01dd\u0265S",
+	"subtitles.entity.sheep.hurt":
+		"§2§os\u0287\u0279n\u0265 d\u01dd\u01dd\u0265S",
+	"subtitles.entity.shulker.ambient":
+		"§4§os\u029e\u0279n\ua781 \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.close":
+		"§4§os\u01ddso\ua781\u0254 \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.open":
+		"§4§osu\u01dddo \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.shoot":
+		"§4§os\u0287oo\u0265s \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker.teleport":
+		"§5§ls\u0287\u0279od\u01dd\ua781\u01dd\u0287 \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker_bullet.hit":
+		"§2§os\u01ddpo\ua781dx\u01dd \u0287\u01dd\ua781\ua781nq \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.shulker_bullet.hurt":
+		"§4§os\u029e\u0250\u01dd\u0279q \u0287\u01dd\ua781\ua781nq \u0279\u01dd\u029e\ua781n\u0265S",
+	"subtitles.entity.silverfish.ambient":
+		"§4§os\u01ddss\u1d09\u0265 \u0265s\u1d09\u025f\u0279\u01dd\u028c\ua781\u1d09S",
+	"subtitles.entity.silverfish.death":
+		"§a§ls\u01dd\u1d09p \u0265s\u1d09\u025f\u0279\u01dd\u028c\ua781\u1d09S",
+	"subtitles.entity.silverfish.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0265s\u1d09\u025f\u0279\u01dd\u028c\ua781\u1d09S",
+	"subtitles.entity.skeleton.ambient":
+		"§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton.death":
+		"§a§ls\u01dd\u1d09p uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton.hurt":
+		"§2§os\u0287\u0279n\u0265 uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton.shoot":
+		"§4§ls\u0287oo\u0265s uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton_horse.ambient":
+		"§7§os\u01dd\u1d09\u0279\u0254 \u01dds\u0279oH uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton_horse.death":
+		"§c§ls\u01dd\u1d09p \u01dds\u0279oH uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton_horse.hurt":
+		"§4§os\u0287\u0279n\u0265 \u01dds\u0279oH uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.skeleton_horse.swim":
+		"§9§os\u026f\u1d09\u028ds \u01dds\u0279oH uo\u0287\u01dd\ua781\u01dd\u029eS",
+	"subtitles.entity.slime.attack":
+		"§4§ls\u029e\u0254\u0250\u0287\u0287\u0250 \u01dd\u026f\u1d09\ua781S",
+	"subtitles.entity.slime.death":
+		"§a§ls\u01dd\u1d09p \u01dd\u026f\u1d09\ua781S",
+	"subtitles.entity.slime.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01dd\u026f\u1d09\ua781S",
+	"subtitles.entity.slime.squish":
+		"§4§os\u01dd\u0265s\u1d09nbs \u01dd\u026f\u1d09\ua781S",
+	"subtitles.entity.snow_golem.death":
+		"§c§o§ls\u01dd\u1d09p \u026f\u01dd\ua781o\u2141 \u028douS",
+	"subtitles.entity.snow_golem.hurt":
+		"§4§os\u0287\u0279n\u0265 \u026f\u01dd\ua781o\u2141 \u028douS",
+	"subtitles.entity.snowball.throw":
+		"§7§ls\u01dd\u1d09\ua781\u025f \ua781\ua781\u0250q\u028douS",
+	"subtitles.entity.spider.ambient":
+		"§4§os\u01ddss\u1d09\u0265 \u0279\u01ddp\u1d09dS",
+	"subtitles.entity.spider.death":
+		"§a§ls\u01dd\u1d09p \u0279\u01ddp\u1d09dS",
+	"subtitles.entity.spider.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279\u01ddp\u1d09dS",
+	"subtitles.entity.squid.ambient":
+		"§8§os\u026f\u1d09\u028ds p\u1d09nbS",
+	"subtitles.entity.squid.death":
+		"§a§ls\u01dd\u1d09p p\u1d09nbS",
+	"subtitles.entity.squid.hurt":
+		"§8§os\u0287\u0279n\u0265 p\u1d09nbS",
+	"subtitles.entity.squid.squirt":
+		"§7§o\u029eu\u1d09 s\u0287oo\u0265s p\u1d09nbS",
+	"subtitles.entity.stray.ambient":
+		"§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 \u028e\u0250\u0279\u0287S",
+	"subtitles.entity.stray.death":
+		"§a§ls\u01dd\u1d09p \u028e\u0250\u0279\u0287S",
+	"subtitles.entity.stray.hurt":
+		"§2§os\u0287\u0279n\u0265 \u028e\u0250\u0279\u0287S",
+	"subtitles.entity.strider.death":
+		"§c§ls\u01dd\u1d09p \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.strider.eat":
+		"§2§os\u0287\u0250\u01dd \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.strider.happy":
+		"§2§os\u01ddlq\u0279\u0250\u028d \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.strider.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.strider.idle":
+		"§7§osd\u0279\u1d09\u0265\u0254 \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.strider.retreat":
+		"§4§os\u0287\u0250\u01dd\u0279\u0287\u01dd\u0279 \u0279\u01ddp\u1d09\u0279\u0287S",
+	"subtitles.entity.tnt.primed":
+		"§f§o§ls\u01ddzz\u1d09\u025f \u27d8N\u27d8",
+	"subtitles.entity.tropical_fish.death":
+		"§8§o§ls\u01dd\u1d09p \u0265s\u1d09\u2132 \u0250\u0254\u1d09do\u0279\u27d8",
+	"subtitles.entity.tropical_fish.flop":
+		"§8§osdol\u025f \u0265s\u1d09\u2132 \u0250\u0254\u1d09do\u0279\u27d8",
+	"subtitles.entity.tropical_fish.hurt":
+		"§8§os\u0287\u0279n\u0265 \u0265s\u1d09\u2132 l\u0250\u0254\u1d09do\u0279\u2534",
+	"subtitles.entity.turtle.ambient_land":
+		"§7§osd\u0279\u1d09\u0265\u0254 \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.death":
+		"§c§ls\u01dd\u1d09p \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.death_baby":
+		"§c§ls\u01dd\u1d09p \u028eq\u0250q \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.egg_break":
+		"§c§ls\u029e\u0250\u01dd\u0279q \u1d77\u1d77\u018e \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.egg_crack":
+		"§2§os\u029e\u0254\u0250\u0279\u0254 \u1d77\u1d77\u018e \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.egg_hatch":
+		"§a§o§ls\u01dd\u0265\u0254\u0287\u0250\u0265 \u1d77\u1d77\u018e \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.hurt":
+		"§4§os\u0287\u0279n\u0265 \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.hurt_baby":
+		"§4§os\u0287\u0279n\u0265 \u028eq\u0250q \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.lay_egg":
+		"§a§o\u1d77\u1d77\u01dd s\u028e\u0250\ua781 \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.shamble":
+		"§7§os\u01dd\ua781q\u026f\u0250\u0265s \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.shamble_baby":
+		"§7§os\u01dd\ua781q\u026f\u0250\u0265s \u028eq\u0250q \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.turtle.swim":
+		"§9§os\u026f\u1d09\u028ds \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.entity.vex.ambient":
+		"§4§os\u01ddx\u01dd\u028c x\u01dd\u039b",
+	"subtitles.entity.vex.charge":
+		"§c§o§ls\u029e\u01dd\u1d09\u0279\u0265s x\u01dd\u039b",
+	"subtitles.entity.vex.death":
+		"§a§ls\u01dd\u1d09p x\u01dd\u039b",
+	"subtitles.entity.vex.hurt":
+		"§2§os\u0287\u0279n\u0265 x\u01dd\u039b",
+	"subtitles.entity.villager.ambient":
+		"§8§os\u01dd\ua781q\u026fn\u026f \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.villager.celebrate":
+		"§2§os\u0279\u01dd\u01dd\u0265\u0254 \u0279\u01dd\u0183\u0250\u05df\u05df\u0131\u039b",
+	"subtitles.entity.villager.death":
+		"§c§ls\u01dd\u1d09p \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.villager.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.villager.no":
+		"§7§os\u01dd\u01dd\u0279\u1d77\u0250s\u1d09p \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.villager.trade":
+		"§7§os\u01ddp\u0250\u0279\u0287 \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.villager.work_armorer":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u0279no\u026f\u0279\u2c6f",
+	"subtitles.entity.villager.work_butcher":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u0265\u0254\u0287n\u15fa",
+	"subtitles.entity.villager.work_cartographer":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u0265d\u0250\u0279\u1d77o\u0287\u0279\u0250\u0186",
+	"subtitles.entity.villager.work_cleric":
+		"§2§os\u029e\u0279o\u028d \u0254\u1d09\u0279\u01dd\ua781\u0186",
+	"subtitles.entity.villager.work_farmer":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u026f\u0279\u0250\u2132",
+	"subtitles.entity.villager.work_fisherman":
+		"§2§os\u029e\u0279o\u028d u\u0250\u026f\u0279\u01dd\u0265s\u1d09\u2132",
+	"subtitles.entity.villager.work_fletcher":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u0265\u0254\u0287\u01dd\ua781\u2132",
+	"subtitles.entity.villager.work_leatherworker":
+		"§2§os\u029e\u0279o\u028d \u0279\u01dd\u029e\u0279o\u028d\u0279\u01dd\u0265\u0287\u0250\u01dd\ua780",
+	"subtitles.entity.villager.work_librarian":
+		"§2§os\u029e\u0279o\u028d u\u0250\u1d09\u0279\u0250\u0279q\u1d09\ua780",
+	"subtitles.entity.villager.work_mason":
+		"§2§os\u029e\u0279o\u028d uos\u0250W",
+	"subtitles.entity.villager.work_shepherd":
+		"§2§os\u029e\u0279o\u028d p\u0279\u01dd\u0265d\u01dd\u0265S",
+	"subtitles.entity.villager.work_toolsmith":
+		"§2§os\u029e\u0279o\u028d \u0265\u0287\u1d09\u026fs\ua781oo\u27d8",
+	"subtitles.entity.villager.work_weaponsmith":
+		"§2§os\u029e\u0279o\u028d \u0265\u0287\u1d09\u026fsuod\u0250\u01ddM",
+	"subtitles.entity.villager.yes":
+		"§a§os\u01dd\u01dd\u0279\u1d77\u0250 \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b",
+	"subtitles.entity.vindicator.ambient":
+		"§4§os\u0279\u01dd\u0287\u0287n\u026f \u0279o\u0287\u0250\u0254\u1d09pu\u1d09\u039b",
+	"subtitles.entity.vindicator.celebrate":
+		"§4§os\u0279\u01dd\u01dd\u0265\u0254 \u0279o\u0287\u0250\u0254\u0131pu\u0131\u039b",
+	"subtitles.entity.vindicator.death":
+		"§a§ls\u01dd\u1d09p \u0279o\u0287\u0250\u0254\u1d09pu\u1d09\u039b",
+	"subtitles.entity.vindicator.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0279o\u0287\u0250\u0254\u1d09pu\u1d09\u039b",
+	"subtitles.entity.wandering_trader.ambient":
+		"§7§os\u01dd\ua781q\u026fn\u026f \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.death":
+		"§c§ls\u01dd\u1d09p \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.disappeared":
+		"§d§os\u0279\u0250\u01dddd\u0250s\u1d09p \u0279\u01ddp\u0250\u0279\u2534 \u0183u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.drink_milk":
+		"§2§o\u029el\u1d09\u026f s\u029eu\u1d09\u0279p \u0279\u01ddp\u0250\u0279\u2534 \u0183u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.drink_potion":
+		"§4§ouo\u1d09\u0287od s\u029eu\u1d09\u0279p \u0279\u01ddp\u0250\u0279\u2534 \u0183u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.hurt":
+		"§4§os\u0287\u0279n\u0265 \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.no":
+		"§7§os\u01dd\u01dd\u0279\u1d77\u0250s\u1d09p \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.reappeared":
+		"§b§os\u0279\u0250\u01dddd\u0250 \u0279\u01ddp\u0250\u0279\u2534 \u0183u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.trade":
+		"§7§os\u01ddp\u0250\u0279\u0287 \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.wandering_trader.yes":
+		"§a§os\u01dd\u01dd\u0279\u1d77\u0250 \u0279\u01ddp\u0250\u0279\u27d8 \u1d77u\u1d09\u0279\u01ddpu\u0250M",
+	"subtitles.entity.witch.ambient":
+		"§4§os\u01dd\ua781\u1d77\u1d77\u1d09\u1d77 \u0265\u0254\u0287\u1d09M",
+	"subtitles.entity.witch.celebrate":
+		"§4§os\u0279\u01dd\u01dd\u0265\u0254 \u0265\u0254\u0287\u0131M",
+	"subtitles.entity.witch.death":
+		"§a§ls\u01dd\u1d09p \u0265\u0254\u0287\u1d09M",
+	"subtitles.entity.witch.drink":
+		"§c§ls\u029eu\u1d09\u0279p \u0265\u0254\u0287\u1d09M",
+	"subtitles.entity.witch.hurt":
+		"§2§os\u0287\u0279n\u0265 \u0265\u0254\u0287\u1d09M",
+	"subtitles.entity.witch.throw":
+		"§c§ls\u028do\u0279\u0265\u0287 \u0265\u0254\u0287\u1d09M",
+	"subtitles.entity.wither.ambient":
+		"§4§0§ls\u0279\u01dd\u1d77u\u0250 \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither.death":
+		"§b§ls\u01dd\u1d09p \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither.hurt":
+		"§3§os\u0287\u0279n\u0265 \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither.shoot":
+		"§c§ls\u029e\u0254\u0250\u0287\u0287\u0250 \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither.spawn":
+		"§c§o§lp\u01dds\u0250\u01dd\ua781\u01dd\u0279 \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither_skeleton.ambient":
+		"§4§os\u01dd\ua781\u0287\u0287\u0250\u0279 uo\u0287\u01dd\ua781\u01dd\u029eS \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither_skeleton.death":
+		"§a§ls\u01dd\u1d09p uo\u0287\u01dd\ua781\u01dd\u029eS \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wither_skeleton.hurt":
+		"§2§os\u0287\u0279n\u0265 uo\u0287\u01dd\ua781\u01dd\u029eS \u0279\u01dd\u0265\u0287\u1d09M",
+	"subtitles.entity.wolf.ambient":
+		"§7§os\u0287u\u0250d \u025f\ua781oM",
+	"subtitles.entity.wolf.death":
+		"§c§ls\u01dd\u1d09p \u025f\ua781oM",
+	"subtitles.entity.wolf.growl":
+		"§4§os\ua781\u028do\u0279\u1d77 \u025f\ua781oM",
+	"subtitles.entity.wolf.hurt":
+		"§4§os\u0287\u0279n\u0265 \u025f\ua781oM",
+	"subtitles.entity.wolf.shake":
+		"§8§os\u01dd\u029e\u0250\u0265s \u025f\ua781oM",
+	"subtitles.entity.zoglin.ambient":
+		"§4§osl\u028do\u0279\u0183 u\u1d09l\u0183oZ",
+	"subtitles.entity.zoglin.angry":
+		"§c§o\u028el\u1d09\u0279\u0183u\u0250 sl\u028do\u0279\u0183 u\u1d09l\u0183oZ",
+	"subtitles.entity.zoglin.attack":
+		"§c§ls\u029e\u0254\u0250\u0287\u0287\u0250 u\u1d09l\u0183oZ",
+	"subtitles.entity.zoglin.death":
+		"§a§ls\u01dd\u1d09p u\u1d09l\u0183oZ",
+	"subtitles.entity.zoglin.hurt":
+		"§2§os\u0287\u0279n\u0265 u\u1d09l\u0183oZ",
+	"subtitles.entity.zoglin.step":
+		"§4§osd\u01dd\u0287s u\u1d09l\u0183oZ",
+	"subtitles.entity.zombie.ambient":
+		"§4§osu\u0250o\u0279\u1d77 \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie.attack_wooden_door":
+		"§4§o§ls\u01dd\u029e\u0250\u0265s \u0279oo\u15e1",
+	"subtitles.entity.zombie.converted_to_drowned":
+		"§4§op\u01ddumo\u0279\u15e1 §9§o§lo\u0287 s\u0287\u0279\u01dd\u028cuo\u0254 §4§o\u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie.break_wooden_door":
+		"§c§o§ls\u029e\u0250\u01dd\u0279q \u0279oo\u15e1",
+	"subtitles.entity.zombie.death":
+		"§a§ls\u01dd\u1d09p \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie.destroy_egg":
+		"§c§lp\u01ddd\u026fo\u0287s \u0183\u0183\u018e \u01ddl\u0287\u0279n\u2534",
+	"subtitles.entity.zombie.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie.infect":
+		"§c§o§ls\u0287\u0254\u01dd\u025fu\u1d09 \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_horse.ambient":
+		"§4§os\u01dd\u1d09\u0279\u0254 \u01dds\u0279oH \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_horse.death":
+		"§a§ls\u01dd\u1d09p \u01dds\u0279oH \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_horse.hurt":
+		"§2§os\u0287\u0279n\u0265 \u01dds\u0279oH \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_villager.ambient":
+		"§4§o§lsu\u0250o\u0279\u1d77 \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_villager.converted":
+		"§a§ls\u01dd\u0287\u0250\u0279\u01dd\u025f\u1d09\u0254o\u028c \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_villager.cure":
+		"§2§os\u01dd\ua781\u025f\u025fnus \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_villager.death":
+		"§c§ls\u01dd\u1d09p \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombie_villager.hurt":
+		"§c§os\u0287\u0279n\u0265 \u0279\u01dd\u1d77\u0250\ua781\ua781\u1d09\u039b \u01dd\u1d09q\u026foZ",
+	"subtitles.entity.zombified_piglin.ambient":
+		"§7§os\u0287un\u0279\u0183 u\u1d09l\u0183\u1d09\u0500 p\u01dd\u1d09\u025f\u1d09q\u026foZ",
+	"subtitles.entity.zombified_piglin.angry":
+		"§4§o\u028el\u1d09\u0279\u0183u\u0250 s\u0287un\u0279\u0183 u\u1d09l\u0183\u1d09\u0500 p\u01dd\u1d09\u025f\u1d09q\u026foZ",
+	"subtitles.entity.zombified_piglin.death":
+		"§a§ls\u01dd\u1d09p u\u1d09l\u0183\u1d09\u0500 p\u01dd\u1d09\u025f\u1d09q\u026foZ",
+	"subtitles.entity.zombified_piglin.hurt":
+		"§c§os\u0287\u0279n\u0265 u\u1d09l\u0183\u1d09\u0500 p\u01dd\u1d09\u025f\u1d09q\u026foZ",
+	"subtitles.event.raid.horn":
+		"§c§o§ls\u01dd\u0279\u0250\ua781q u\u0279o\u0265 snou\u1d09\u026fO",
+	"subtitles.item.armor.equip":
+		"§7§o§lsd\u1d09nb\u01dd \u0279\u0250\u01dd\u2141",
+	"subtitles.item.armor.equip_chain":
+		"§7§o§ls\u01dd\ua781\u1d77u\u1d09\u027e \u0279no\u026f\u0279\u0250 u\u1d09\u0250\u0265\u0186",
+	"subtitles.item.armor.equip_diamond":
+		"§7§o§ls\u1d77u\u0250\ua781\u0254 \u0279no\u026f\u0279\u0250 puo\u026f\u0250\u1d09\u15e1",
+	"subtitles.item.armor.equip_elytra":
+		"§7§o§l\u01dd\ua781\u0287sn\u0279 \u0250\u0279\u0287\u028e\ua781\u018e",
+	"subtitles.item.armor.equip_gold":
+		"§7§o§ls\u029eu\u1d09\ua781\u0254 \u0279no\u026f\u0279\u0250 p\ua781o\u2141",
+	"subtitles.item.armor.equip_iron":
+		"§7§o§ls\u029eu\u0250\ua781\u0254 \u0279no\u026f\u0279\u0250 uo\u0279I",
+	"subtitles.item.armor.equip_leather":
+		"§7§o§ls\u01dd\ua781\u0287sn\u0279 \u0279no\u026f\u0279\u0250 \u0279\u01dd\u0265\u0287\u0250\u01dd\ua780",
+	"subtitles.item.armor.equip_netherite":
+		"§7§o§ls\u029eu\u0250l\u0254 \u0279o\u026f\u0279\u0250 \u01dd\u0287\u1d09\u0279\u01dd\u0265\u0287\u01ddN",
+	"subtitles.item.armor.equip_turtle":
+		"§7§o§ls\u029eun\u0265\u0287 \ua781\ua781\u01dd\u0265S \u01dd\ua781\u0287\u0279n\u27d8",
+	"subtitles.item.axe.strip":
+		"§7§os\u01ddd\u0250\u0279\u0254s \u01ddx\u2200",
+	"subtitles.item.berries.pick":
+		"§2§odod s\u01dd\u1d09\u0279\u0279\u01dd\u15fa",
+	"subtitles.item.book.page_turn":
+		"§7§os\u01dd\ua781\u0287sn\u0279 \u01dd\u0183\u0250\u0500",
+	"subtitles.item.book.put":
+		"§7§osd\u026fn\u0265\u0287 \u029eoo\u15fa",
+	"subtitles.item.bottle.empty":
+		"§7§os\u01dd\u0131\u0287d\u026f\u01dd \u01dd\u05df\u0287\u0287o\ud801\udc12",
+	"subtitles.item.bottle.fill":
+		"§7§os\ua781\ua781\u1d09\u025f \u01dd\ua781\u0287\u0287o\u15fa",
+	"subtitles.item.bucket.empty":
+		"§7§os\u01dd\u1d09\u0287d\u026f\u01dd \u0287\u01dd\u029e\u0254n\u15fa",
+	"subtitles.item.bucket.fill":
+		"§7§os\ua781\ua781\u1d09\u025f \u0287\u01dd\u029e\u0254n\u15fa",
+	"subtitles.item.bucket.fill_fish":
+		"§7§op\u01dd\u0279n\u0287d\u0250\u0254 \u0265s\u1d09\u2132",
+	"subtitles.item.chorus_fruit.teleport":
+		"§d§ls\u0287\u0279od\u01dd\ua781\u01dd\u0287 \u0279\u01dd\u028e\u0250\ua781\u0500",
+	"subtitles.item.crop.plant":
+		"Creative Commons CC-BY-SA 2.0\nOriiginal work by Mojang.",
+	"subtitles.item.crossbow.charge":
+		"§f§ldn s\u01dd\u1d77\u0279\u0250\u0265\u0254 \u028doqsso\u0279\u0186",
+	"subtitles.item.crossbow.hit":
+		"§f§ls\u0287\u1d09\u0265 \u028do\u0279\u0279\u2c6f",
+	"subtitles.item.crossbow.load":
+		"§f§lsp\u0250o\ua781 \u028doqsso\u0279\u0186",
+	"subtitles.item.crossbow.shoot":
+		"§f§ls\u01dd\u0279\u1d09\u025f \u028doqsso\u0279\u0186",
+	"subtitles.item.firecharge.use":
+		"§f§ls\u01dd\u0265soo\u0265\u028d \ua781\ua781\u0250q\u01dd\u0279\u1d09\u2132",
+	"subtitles.item.flintandsteel.use":
+		"§f§l\u029e\u0254\u1d09\ua781\u0254 \ua781\u01dd\u01dd\u0287S pu\u0250 \u0287u\u1d09\ua781\u2132",
+	"subtitles.item.hoe.till":
+		"§8§os\ua781\ua781\u1d09\u0287 \u01ddoH",
+	"subtitles.item.honey_bottle.drink":
+		"§2§o\u0183u\u1d09dln\u05e4",
+	"subtitles.item.lodestone_compass.lock":
+		"§e§l\u01dduo\u0287s\u01ddpo\u2142 o\u0287uo s\u029e\u0254ol ss\u0250d\u026fo\u0186 \u01dduo\u0287s\u01ddpo\u2142",
+	"subtitles.item.nether_wart.plant":
+		"Immersive Subtitles by Hebgbs 2020\nIf you see this, @ me!",
+	"subtitles.item.shears.shear":
+		"§8§o\u029e\u0254\u1d09\ua781\u0254 s\u0279\u0250\u01dd\u0265S",
+	"subtitles.item.shield.block":
+		"§7§o§ls\u029e\u0254o\ua781q p\ua781\u01dd\u1d09\u0265S",
+	"subtitles.item.shovel.flatten":
+		"§8o§su\u01dd\u0287\u0287\u0250\ua781\u025f \ua781\u01dd\u028co\u0265S",
+	"subtitles.item.totem.use":
+		"§b§o§ls\u01dd\u0287\u0250\u028c\u1d09\u0287\u0254\u0250 \u026f\u01dd\u0287o\u27d8",
+	"subtitles.item.trident.hit":
+		"§f§osq\u0250\u0287s \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.item.trident.hit_ground":
+		"§f§os\u01dd\u0287\u0250\u0279q\u1d09\u028c \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.item.trident.return":
+		"§e§lsu\u0279n\u0287\u01dd\u0279 \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.item.trident.riptide":
+		"§e§os\u026fooz \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.item.trident.throw":
+		"§f§os\u1d77u\u0250\ua781\u0254 \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.item.trident.thunder":
+		"§e§o§ls\u029e\u0254\u0250\u0279\u0254 \u0279\u01ddpun\u0265\u0287 \u0287u\u01ddp\u1d09\u0279\u27d8",
+	"subtitles.particle.soul_escape":
+		"§3§os\u01ddd\u0250\u0254s\u01dd \ua781noS",
+	"subtitles.ui.cartography_table.take_result":
+		"§e§oum\u0250\u0279p d\u0250W",
+	"subtitles.ui.loom.take_result":
+		"§7§op\u01ddsn \u026foo\ua780",
+	"subtitles.ui.stonecutter.take_result":
+		"§7§op\u01ddsn \u0279\u01dd\u0287\u0287n\u0254\u01dduo\u0287S",
+	"subtitles.weather.rain":
+		"§1§os\ua781\ua781\u0250\u025f u\u1d09\u0250\u0279"
+}
