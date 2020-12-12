@@ -4,7 +4,7 @@ The door to **Hell** is **amber!** Inspired from King Gizzard and the Lizard Wiz
 # Compatibility
 The following is available for everyone to download and add to their game profile's `resourcepacks` directory:
 |Pack|Size|Description|
-|---|---|
+|---|---|---|
 |Default|16x|The classic Minecraft texture pack we all know and love|
 |[Quadral](https://www.planetminecraft.com/texture-pack/ignafs-quadral-resourcepack/)|16x|Winner of Planet Minecraft's Simplepack Showdown 2, with textures which are simple, flat and vibrant.|
 |[FamousBros Faithful Venom](https://www.planetminecraft.com/texture-pack/famousbros-faithful-venom/)|32x|Fans of AntVenom's Faithful pack forked by infamousmusicify can use this.|
