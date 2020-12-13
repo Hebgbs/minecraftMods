@@ -14,9 +14,9 @@ Entity scaling API for most mobs — Renders the giant zombie obsolete when you 
 **Universal**  
 > [_Mod Menu_](https://www.curseforge.com/minecraft/mc-mods/modmenu)  
 An interface to view installed mods and libraries. Also allows for accessing settings for mods which have Mod Menu support!  
-[_Bedrockify_](https://www.curseforge.com/minecraft/mc-mods/bedrockify)  
 
-> Bedrock features in Java Minecraft! Be able to see enchants on selected item in hotbar, see your avatar in the upper left, have a saving indicator, use Bedrock recipes in single-player, build in mid-air with reach-around block placement, reposition multiplayer chat, see your FPS and more!  
+> [_Bedrockify_](https://www.curseforge.com/minecraft/mc-mods/bedrockify)  
+Bedrock features in Java Minecraft! Be able to see enchants on selected item in hotbar, see your avatar in the upper left, have a saving indicator, use Bedrock recipes in single-player, build in mid-air with reach-around block placement, reposition multiplayer chat, see your FPS and more!  
 
 > [_RPG-HUD_](https://www.curseforge.com/minecraft/mc-mods/rpg-hud-fabric/)  
 See more stats, and make said information be presented in a way similar to RPG games! Comes with several interface options to choose from, and whatever interface is used can also have placement of screen objects repositioned. Also, be able to stare infinitely in space to any entity and see the stats of whatever's in your crosshair!  
@@ -25,7 +25,8 @@ See more stats, and make said information be presented in a way similar to RPG g
 > [_OptiFabric_](https://www.curseforge.com/minecraft/mc-mods/optifabric)  
 A bridge for OptiFine in Fabric. If you have this, you can use OptiFine!  
 
-> [_Sodium_](https://www.curseforge.com/minecraft/mc-mods/optifabricThe open-source, lighter-weight alternative of OptiFine. It lacks features in comparison to OptiFine, to if you use Sotium instead of OptiFine + OptiFabric, read below!  
+> [_Sodium_](https://www.curseforge.com/minecraft/mc-mods/optifabric)  
+The open-source, lighter-weight alternative of OptiFine. It lacks features in comparison to OptiFine, to if you use Sotium instead of OptiFine + OptiFabric, read below!  
 
 **Extras for Sodium**
 > [_Item model fix_](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  
