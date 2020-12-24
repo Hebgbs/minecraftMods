@@ -11,7 +11,7 @@ The following _emissive addons_ are available for everyone to download and add t
 |Pack|Size|Description|Download|
 |---|---|---|---|
 |Default|16x|The classic Minecraft texture pack we all know and love|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/_e/Default_HellPortals_e)|
-|Default|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/_e/StayTrue_HellPortals_e)|
+|Stay True|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/_e/StayTrue_HellPortals_e)|
 
 # Installation
 [View this guide](https://github.com/Hebgbs/minecraftMods/blob/master/howToSave.md) for more information.
