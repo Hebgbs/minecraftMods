@@ -10,6 +10,7 @@ The following are available for everyone to download and add to their game profi
 |[FamousBros Faithful Venom](https://www.planetminecraft.com/texture-pack/famousbros-faithful-venom/)|32x|Fans of AntVenom's Faithful pack forked by infamousmusicify can use this.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/FB-FV_HellPortals)|
 |[Hafen](https://www.planetminecraft.com/texture-pack/hafen-4052511/)|16x|A simplified cute-looking cartoon-style texture pack. Now with Hell.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Hafen_HellPortals)|
 |[Depixel](https://www.planetminecraft.com/texture-pack/depixel/)|32x|Two times the resolution! A 32x texture pack with the intent of keeping Minecraft's original feel.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Depixel_HellPortals)|
+|[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/StayTrue_HellPortals)|
 
 For emissives addons (whenever they become available), visit [_e](https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/_e). A separate readme with information regarding this will be held there.
 
