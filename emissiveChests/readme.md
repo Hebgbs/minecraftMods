@@ -13,7 +13,7 @@ I venture to create _new_ works concurrently _as emissive resource packs exist f
 # Installation
 [View this guide](https://github.com/Hebgbs/minecraftMods/blob/master/howToSave.md) for more information.  
 
-As for using variants from this repository, use the DownGit links in the table above under **Compatibility** to fetch this repository's respective directories as a compressed texture pack, similar to Default_HellPortals from the Planet Minecraft page.
+As for using variants from this repository, use the DownGit links in the table above under **Compatibility** to fetch this repository's respective directories as a compressed texture pack, similar to Default_eChests from the Planet Minecraft page.
 
 ## Load order
 To use this content, they must be loaded in the order as shown:
