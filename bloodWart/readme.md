@@ -17,7 +17,7 @@ This pack is available for the following texture packs:
 
 As for using variants from this repository, use the DownGit links in the table above under **Compatibility** to fetch this repository's respective directories as a compressed texture pack, similar to Default_bloodWart from the Planet Minecraft page.
 
-Visit _e if you want glowing Nether Wart. A separate readme handles this.
+Visit [_e](https://github.com/Hebgbs/minecraftMods/tree/master/bloodWart/_e) if you want glowing Nether Wart. A separate readme handles this.
 
 ## Load order
 Emissives are handled in their own separate pack. Placement order **must** be as shown:
