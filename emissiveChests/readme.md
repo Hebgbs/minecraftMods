@@ -6,8 +6,8 @@ I venture to create _new_ works concurrently _as emissive resource packs exist f
 
 |Pack|Size|Description|Download|
 |---|---|---|---|
-|Default|16x|The classic Minecraft texture pack we all know and love|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/emissiveChests/Default_eChests/)|
-|[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/emissiveChests/StayTrue_eChests/)|
+|Default|16x|The classic Minecraft texture pack we all know and love|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/emissiveChests/Default_eChests)|
+|[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/emissiveChests/StayTrue_eChests)|
 
 
 # Installation
