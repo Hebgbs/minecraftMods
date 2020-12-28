@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 6,
-		"description": [{"text":"When you need to find your","color":"dark_gray"},{"text":"chest","color":"gray"},{"text":"in the dark.","color":"dark_gray"}]
+		"description": [{"text":"When you need to find your ","color":"dark_gray"},{"text":"chest","color":"gray"},{"text":" in the dark.","color":"dark_gray"}]
 	}
 }
