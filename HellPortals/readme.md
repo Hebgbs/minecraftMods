@@ -3,14 +3,15 @@ The door to **Hell** is **amber!** Inspired from King Gizzard and the Lizard Wiz
 
 # Compatibility
 The following are available for everyone to download and add to their game profile's `resourcepacks` directory:
-|Pack|Size|Description|Download|
-|---|---|---|---|
-|Default|16x|The classic Minecraft texture pack we all know and love|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Default_HellPortals)|
-|[Quadral](https://www.planetminecraft.com/texture-pack/ignafs-quadral-resourcepack/)|16x|Winner of Planet Minecraft's Simplepack Showdown 2, with textures which are simple, flat and vibrant.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Quadral_HellPortals)|
-|[FamousBros Faithful Venom](https://www.planetminecraft.com/texture-pack/famousbros-faithful-venom/)|32x|Fans of AntVenom's Faithful pack forked by infamousmusicify can use this.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/FB-FV_HellPortals)|
-|[Hafen](https://www.planetminecraft.com/texture-pack/hafen-4052511/)|16x|A simplified cute-looking cartoon-style texture pack. Now with Hell.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Hafen_HellPortals)|
-|[Depixel](https://www.planetminecraft.com/texture-pack/depixel/)|32x|Two times the resolution! A 32x texture pack with the intent of keeping Minecraft's original feel.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Depixel_HellPortals)|
-|[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/StayTrue_HellPortals)|
+|Pack|Shorthand|Size|Description|Download|
+|---|---|---|---|---|
+|Default|—|16x|The classic Minecraft texture pack we all know and love|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Default_HellPortals)|
+|[Quadral](https://www.planetminecraft.com/texture-pack/ignafs-quadral-resourcepack/)|—|16x|Winner of Planet Minecraft's Simplepack Showdown 2, with textures which are simple, flat and vibrant.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Quadral_HellPortals)|
+|[FamousBros Faithful Venom](https://www.planetminecraft.com/texture-pack/famousbros-faithful-venom/)|FB-FV|32x|Fans of AntVenom's Faithful pack forked by infamousmusicify can use this.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/FB-FV_HellPortals)|
+|[Hafen](https://www.planetminecraft.com/texture-pack/hafen-4052511/)|—|16x|A simplified cute-looking cartoon-style texture pack. Now with Hell.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Hafen_HellPortals)|
+|[Depixel](https://www.planetminecraft.com/texture-pack/depixel/)|—|32x|Two times the resolution! A 32x texture pack with the intent of keeping Minecraft's original feel.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Depixel_HellPortals)|
+|[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|StayTrue|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/StayTrue_HellPortals)|
+|[Paper Cut-Out Culture](https://www.planetminecraft.com/texture-pack/paper-cut-out-legacy/)|Paper|16x|A classic cartoon-style material with the theme of folded paper and paper cut.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/Paper_HellPortals)|
 
 For emissives addons (whenever they become available), visit [_e](https://github.com/Hebgbs/minecraftMods/tree/master/HellPortals/_e). A separate readme with information regarding this will be held there.
 
