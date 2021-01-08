@@ -12,6 +12,7 @@ This pack is available for the following texture packs:
 |[Depixel](https://www.planetminecraft.com/texture-pack/depixel/)|—|32x|Two times the resolution! A 32x texture pack with the intent of keeping Minecraft's original feel.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/bloodWart/Depixel_bloodWart)|
 |[Stay True](https://www.planetminecraft.com/texture-pack/stay-true-4447380/)|StayTrue|16x|A visual remastering of the default game textures using more vibrant colours and deeper faux-reliefs.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/bloodWart/StayTrue_bloodWart)|
 |[Paper Cut-Out Culture](https://www.planetminecraft.com/texture-pack/paper-cut-out-legacy/)|Paper|16x|A classic cartoon-style material with the theme of folded paper and paper cut.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/bloodWart/Paper_bloodWart)|
+|[Bare Bones](https://www.planetminecraft.com/texture-pack/bare-bones/)|Bones|16x|A simplistic and vibrant pack intending t make Minecraft look more fun and colourful.|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/bloodWart/Bones_bloodWart)|
 
 # Installation
 [View this guide](https://github.com/Hebgbs/minecraftMods/blob/master/howToSave.md) for more information.  
