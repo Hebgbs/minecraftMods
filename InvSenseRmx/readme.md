@@ -1,6 +1,12 @@
 # InventorySense UI remixes
 Original by Moxwel, changes by Hebgbs.
 
+### Downloads
+Provided by DownGit!
+|Name|Resource pack|Download|
+|---|---|---|
+|InventorySense UI Transparent default colours|InvSenseUI_ClrDefault|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/InvSenseUI_ClrDefault)|
+
 ### License
 [Creative Commons Attribution-ShareAlike 4.0 Int'l](https://creativecommons.org/licenses/by-sa/4.0/)  
 (Even though this repository _itself_ has no license, this specific work by its author uses CC BY-SA 4.0.)
