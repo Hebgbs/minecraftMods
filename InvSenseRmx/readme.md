@@ -18,17 +18,21 @@ This repository presents changes as I see fit, for a variety of purposes, as I p
 
 ### Interface principles
 On top of principles defined by Moxwel, the _other_ following concept bible additions are included:  
+**General**
+* All corners are to be the same no matter what.
   
 **Transparent UI**
-* All buttons are to remain opaque as they do not interfere with visibility behind menus enough to warrent the extra effort.
-* All secondary interface elements (simulated speech bubbles, grids, so-on) use 32.9% opacity, which is about half of Transparent UI's widget icons.
-* All player interface icons which are _not_ the Hotbar or inventory slots use 65.9% opacity, same as Transparent UI inactive widget buttons.
+* All _buttons_ are to remain opaque as they do not interfere with visibility behind menus enough to warrent the extra effort.
+* All tab images are to be styled in a way which make them seamlessly blend into the transparent interface.
+* All secondary interface elements (simulated speech bubbles, grids, so-on) use dithering to simulate transparency.
+* All player interface icons which are _not_ the Hotbar or inventory slots use dithering as well.
+* Posion effect background interface elements are dithered as well.
 * All text input boxes remain untouched, no matter what.
 * If I couldn't figure out what to use, take inspiration and barrow from VanllaTweaks' Transparent UI.
-* Invert any elements which are pure black _which isn't a text box or player inventory_ for visibility.
-* Keep shadows consistient, and improve upon Transparent UI concepts.
+* Invert any elements which could be brighter, or are pure black _which isn't a text box or player inventory_ for visibility.
+* Keep shadows consistient, and improve upon both InventorySense and Transparent UI concepts.
 
-These changes ensure that there are not any awkward inconsistiencies between interfaces, while hybridizing Transparent UI concepts provided by VanillaTweaks.
+These changes ensure that there are not any awkward inconsistiencies between interfaces, while hybridizing Transparent UI concepts provided by VanillaTweaks effectively.
 
 ### Supported languages
 **All of them.** Thanks to John Meow for that.
