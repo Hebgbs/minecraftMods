@@ -22,11 +22,11 @@ On top of principles defined by Moxwel, the _other_ following concept bible addi
 * All corners are to be the same no matter what.
   
 **Transparent UI**
-* All _buttons_ are to remain opaque as they do not interfere with visibility behind menus enough to warrent the extra effort.
+* All _buttons_ are to remain opaque as they do not interfere with visibility behind menus enough to warrant the extra effort.
 * All tab images are to be styled in a way which make them seamlessly blend into the transparent interface.
 * All secondary interface elements (simulated speech bubbles, grids, so-on) use dithering to simulate transparency.
 * All player interface icons which are _not_ the Hotbar or inventory slots use dithering as well.
-* Posion effect background interface elements are dithered as well.
+* Potion effect background interface elements are dithered as well.
 * All text input boxes remain untouched, no matter what.
 * If I couldn't figure out what to use, take inspiration and barrow from VanllaTweaks' Transparent UI.
 * Invert any elements which could be brighter, or are pure black _which isn't a text box or player inventory_ for visibility.
