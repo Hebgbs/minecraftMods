@@ -1,38 +1,71 @@
 # InventorySense UI remixes
-Original by Moxwel, changes by Hebgbs.
+Original by Moxwel, changes by Hebgbs. **Read this page in its entirety** before acting: The time I've invested here is meant to save yours.
+
+> This original work is based on 1.4.2. As this is an unaffiliated work, any specific 1.4.3 changes _may_ be reverted, though they are not likely significant enough to be of notice as the author mentioned most of the changes were not noteworthy. Nonetheless, raise an issue if something is inconsistient compared to InventorySense UI 1.4.3.
+
+### I know what's shown below is a lot.
+I'm not going to pretend you'll read all of what I've written. So here's the tl;dr version of this as "Cliff Notes" for the below:
+   * `./TransparentUI` is the original work of my creation based on InventorySense UI _1.4.2_.
+   * **Anything** with `clr-` in its name is **_only_** for my Transparent UI fork.
+   * **Anything** with `mox-` in its name is for Moxwel's original InventorySense UI.
+   * **Anything** with either of these suffixes should **_not_** be used concurrently (at the same time).
+   * `./colourRmx` only contain button colour remixes, which **_require_** the theme they are based on to be used.
+   * `./clr-bookGrid` is **_only_** for my Transparent UI fork, as a tertiary / secondary theme for filling in the recipe book with dithered transparency to be used _with_ colour remixes when applicable — Match your preference!
+
+Colour information had also been added to the filenames so when they are seen in-game there is a clear distinction between my mod and Moxwel's original work. Transparent UI _anything_ uses light yellow (`§e`) while Moxwel's work uses dark green (`§2`). Themes will also use their respective (approximate) colour when applicable, with default being light grey (`§7`). Some works will only use the pack image to visually hint at what it is suppose to be paired with.
+
+Hopefully with this information, it will help you to make sense of this repository. Have fun browsing!
 
 ### Downloads
-Provided by DownGit!
-|Name|Resource pack|Download|
-|---|---|---|
-|InventorySense UI Transparent default colours|InvSenseUI_ClrDefault|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/InvSenseUI_ClrDefault)|
+Moved to other pages. View additional resources by visitiing the following locations:
+|Series|Repository|URL|
+|Transparent UI|`TransparentUI`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI)|
+|colour themes|`colourRmx`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRMX)|
+|InventorySense UI rank shift|`mox-rankShift`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift)|
+|Transparent UI recipe book grid|`clr-bookGrid`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/clr-bookGrid)|
+
+Information brief about each are presented in section [Repository use](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx#repository-use) below.
 
 ### License
 [Creative Commons Attribution-ShareAlike 4.0 Int'l](https://creativecommons.org/licenses/by-sa/4.0/)  
 (Even though this repository _itself_ has no license, this specific work by its author uses CC BY-SA 4.0.)
-
+  
 ### About
-InventorySense UI by Moxwel is a very Bedrock-inspired theme which has added niceties like being able to see a _representation_ of what certain interaction blocks look like, distinction between spaces in player dialogues and OptiFine support to include certain additional elements specifc for each trade level and what kind of trade a villager has using additional iconography.  
+InventorySense UI by Moxwel is a very Bedrock-inspired theme which has added niceties like being able to see a _representation_ of what certain interaction blocks look like, distinction between spaces in player dialogues and OptiFine support to include certain additional GUI elements for specific entity states.  
   
 This repository presents changes as I see fit, for a variety of purposes, as I please. Most of these changes will be based around VanillaTweaks modifications, the first of which will be for transparent UI.
 
-### Interface principles
-On top of principles defined by Moxwel, the _other_ following concept bible additions are included:  
-**General**
-* All corners are to be the same no matter what.
+For changes specific to Moxwel's original work, they are suffixed with `mox-` while my work with InventorySense Transparent UI is suffixed with `clr-`.
+
+### Repository use
+**Transparent UI**  
+This is my fork of Moxwel's work. As it is so extensive in asset replacement, this acts as its own theme and should _not_ be used with Moxwel's work. Other works in this repository can be used with this or Moxwel's original iteration of InventorySense UI.
   
-**Transparent UI**
-* All _buttons_ are to remain opaque as they do not interfere with visibility behind menus enough to warrant the extra effort.
-* All tab images are to be styled in a way which make them seamlessly blend into the transparent interface.
-* All secondary interface elements (simulated speech bubbles, grids, so-on) use dithering to simulate transparency.
-* All player interface icons which are _not_ the Hotbar or inventory slots use dithering as well.
-* Potion effect background interface elements are dithered as well.
-* All text input boxes remain untouched, no matter what.
-* If I couldn't figure out what to use, take inspiration and barrow from VanllaTweaks' Transparent UI.
-* Invert any elements which could be brighter, or are pure black _which isn't a text box or player inventory_ for visibility.
-* Keep shadows consistient, and improve upon both InventorySense and Transparent UI concepts.
+**Additions for Moxwel's InventorySense UI**
+|Directory|Description|
+|---|---|
+|`colourRmx`|Colour remixes for Moxwel's InventorySense UI. Themes specifically for use with Moxwel's work begin their suffix with `mox-`.|
+|`mox-rankShift`|Modifies villager rank medallions / trade stones so the experience bar represents progression to _next_ rank.|
 
-These changes ensure that there are not any awkward inconsistiencies between interfaces, while hybridizing Transparent UI concepts provided by VanillaTweaks effectively.
+**Additions for InventorySense Transparent UI**
+|Directory|Description|
+|---|---|
+|`colourRmx`|Colour remixes for Moxwel's InventorySense UI. Themes specifically for use with my work begin their suffix with `clr-` (clear). TO learn about each theme, view  this page's [Themes](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRMX/readme.md#themes) section.|
+|`clr-bookGrid`|Adds a dithered grid to the recipe book, for people who think the space feels a bit empty without it. Best used with respective theme in `colourRmx` _if applicable_.|
 
-### Supported languages
+### Load order
+> These examples use directory names rather than archives, in an effort to improve high-level understanding of how these works are used concurrently.
+
+The provided resources, used altogether should be used in the order for each respective main thme:  
+**InventorySense UI**  
+`mox-rankShift` (Addition with colour preference)  
+`colourRmx` (Colour preference)  
+`InventorySense UI v1.4.2.zip` (Theme base)  
+  
+**InventorySense Transparent UI**  
+`clr-bookGrid` (Addition with colour preference)  
+`colourRmx` (Colour preference)  
+`InvSenseUI_Transparent.zip` (Theme base)  
+
+### Supported languages (where applicable)
 **All of them.** Thanks to John Meow for that.
