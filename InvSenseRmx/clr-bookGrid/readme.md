@@ -16,7 +16,7 @@ Provided by DownGit!
 |Name|Resource pack|Download|
 |---|---|---|
 |InventorySense UI default|InvSenseUI_clr-Default_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_clr-Default_bookGrid)|
-|InventorySense UI "Minecraft" Blue|InvSenseUI_clr-MCblue_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_clr-MCblue_bookGrid)|
+|InventorySense UI "Minecraft blue"|InvSenseUI_clr-MCblue_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_clr-MCblue_bookGrid)|
   
 This repository presents changes as I see fit, for a variety of purposes, as I please. Most of these changes will be based around VanillaTweaks modifications, the first of which will be for transparent UI.
 

@@ -22,8 +22,8 @@ Moved to other pages. View additional resources by visitiing the following locat
 |Series|Repository|URL|
 |---|---|---|
 |Transparent UI|`TransparentUI`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI)|
-|colour themes|`colourRmx`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRMX)|
-|InventorySense UI rank shift|`mox-rankShift`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift)|
+|colour themes|`colourRmx`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx)|
+|InventorySense UI rank shift|`mox-rankShift`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/mox-rankShift)|
 |Transparent UI recipe book grid|`clr-bookGrid`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/clr-bookGrid)|
 
 Information brief about each are presented in section [Repository use](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx#repository-use) below.
