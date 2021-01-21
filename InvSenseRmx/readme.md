@@ -7,7 +7,7 @@ Original by Moxwel, changes by Hebgbs. **Read this page in its entirety** before
 I'm not going to pretend you'll read all of what I've written. So here's the tl;dr version of this as "Cliff Notes" for the below:
    * `./TransparentUI` is the original work of my creation based on InventorySense UI _1.4.2_.
    * **Anything** with `clr-` in its name is **_only_** for my Transparent UI fork.
-   * **Anything** with `mox-` in its name is for Moxwel's original InventorySense UI.
+   * **Anything** with `mox-` in its name is **_only_** for Moxwel's original InventorySense UI.
    * **Anything** with either of these suffixes should **_not_** be used concurrently (at the same time).
    * `./colourRmx` only contain button colour remixes, which **_require_** the theme they are based on to be used.
    * `./clr-bookGrid` is **_only_** for my Transparent UI fork, as a tertiary / secondary theme for filling in the recipe book with dithered transparency to be used _with_ colour remixes when applicable — Match your preference!

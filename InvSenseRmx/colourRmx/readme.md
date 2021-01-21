@@ -4,10 +4,10 @@ These change the colours of buttons for InventorySense UI themes. _Use the corre
 > This original work is based on 1.4.2. As this is an unaffiliated work, any specific 1.4.3 changes _may_ be reverted, though they are not likely significant enough to be of notice as the author mentioned most of the changes were not noteworthy. Nonetheless, raise an issue if something is inconsistient compared to InventorySense UI 1.4.3.
 
 ### Load order
-These themes are additive. They must be used _along with_ an existing theme. The example provided is for default InventorySense UI:
-> `InvSenseUI_mox-MCblue.zip`
-> `InventorySense UI v1.4.2.zip`
-
+These themes are additive. They must be used _along with_ an existing theme. The example provided is for "Minecraft blue" InventorySense UI:
+> `InvSenseUI_mox-MCblue.zip`  
+> `InventorySense UI v1.4.2.zip`  
+  
 ### Transparent variety
 For the transparent UI version I had made, that theme can be found one level up, in [TransparentUI](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI). **Do not use with Moxwel's InventorySense UI.** You cannot possibly screw this up — Themes for original InventorySense UI are suffixed with `mox-` while themes for InventorySense Transparent UI are suffixed with `clr-`.
 
