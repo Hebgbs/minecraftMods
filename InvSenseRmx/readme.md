@@ -12,7 +12,7 @@ I'm not going to pretend you'll read all of what I've written. So here's the tl;
    * `./colourRmx` only contain button colour remixes, which **_require_** the theme they are based on to be used.
    * `./clr-bookGrid` is **_only_** for my Transparent UI fork, as a tertiary / secondary theme for filling in the recipe book with dithered transparency to be used _with_ colour remixes when applicable — Match your preference!
 
-Colour information had also been added to the filenames so when they are seen in-game there is a clear distinction between my mod and Moxwel's original work. Transparent UI _anything_ uses light yellow (`§e`) while Moxwel's work uses dark green (`§2`). Themes will also use their respective (approximate) colour when applicable, with default being light grey (`§7`). Some works will only use the pack image to visually hint at what it is suppose to be paired with.
+WHile I would had loved to use colour information for the filenames, DownGit currently doesn't support special characters. (As in, the section sign [§] renders with its HTML notation rather than the actual symbol itself.)
 
 Hopefully with this information, it will help you to make sense of this repository. Have fun browsing!
 
