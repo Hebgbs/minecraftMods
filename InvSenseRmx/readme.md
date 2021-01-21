@@ -20,6 +20,7 @@ Hopefully with this information, it will help you to make sense of this reposito
 Moved to other pages. View additional resources by visitiing the following locations:
 
 |Series|Repository|URL|
+|---|---|---|
 |Transparent UI|`TransparentUI`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI)|
 |colour themes|`colourRmx`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRMX)|
 |InventorySense UI rank shift|`mox-rankShift`|[Click](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift)|
