@@ -15,13 +15,13 @@ For the transparent UI version I had made, that theme can be found one level up,
 Provided by DownGit!
 |Name|Resource pack|Download|
 |---|---|---|
-|InventorySense UI "Minecraft" Blue|InvSenseUI_mox-MCblue|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx/InvSenseUI_mox-MCblue)|
-|InventorySense Transparent UI "Minecraft Blue"|InvSenseUI_clr-MCblue|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx/InvSenseUI_clr-MCblue)|
+|InventorySense UI "Minecraft" Blue|InvSenseUI_mox-MCblue|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx/InvSenseUI_§2mox§r-§1MCblue§r)|
+|InventorySense Transparent UI "Minecraft blue"|InvSenseUI_clr-MCblue|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx/InvSenseUI_§eclr§r-§1MCblue§r)|
 
 ### Interface principles
-Absoolutely nothing aside from changing the colours of buttons.
+Absolutely nothing aside from changing the colours of buttons.
 
 ### Themes
-**"Minecraft" Blue**
+**"Minecraft blue"**
 An average of the colour for Minecraft's default widget hover colour (as provided by VanillaTweaks' Blue Widget Highlight selection) was used to produce the shade of blue presented in this theme.  
 _Color:_ `#7e88bf`

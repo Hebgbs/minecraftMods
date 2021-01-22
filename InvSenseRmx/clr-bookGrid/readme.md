@@ -7,7 +7,7 @@ Recipe book transparency dithering for people who want to make recipies consisti
 These themes are additive. They must be used _along with_ an existing theme. The example provided is for "Minecraft blue" InventorySense Transparent UI:  
 > `InvSenseUI_clr-MCblue_bookGrid.zip`  
 > `InvSenseUI_clr-MCblue.zip`  
-> `InventorySense UI v1.4.2.zip`  
+> `InvSenseUI_Transparent.zip`  
   
 For other colours, companion themes _to be used with this one_ can be found in [colourRmx](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx). Make sure you download a choice of companion suffixed with `clr` (clear) in the beginning — this shorthand was used instead of any variety for transparent which could lead to potential ebd-user misunderstanding.
 
@@ -15,8 +15,8 @@ For other colours, companion themes _to be used with this one_ can be found in [
 Provided by DownGit!
 |Name|Resource pack|Download|
 |---|---|---|
-|InventorySense UI default|InvSenseUI_clr-Default_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_clr-Default_bookGrid)|
-|InventorySense UI "Minecraft blue"|InvSenseUI_clr-MCblue_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_clr-MCblue_bookGrid)|
+|InventorySense UI default|InvSenseUI_clr-Default_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_§eclr§r-§7Default§r_bookGrid)|
+|InventorySense UI "Minecraft blue"|InvSenseUI_clr-MCblue_bookGrid|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/rankShift/InvSenseUI_§eclr§r-§1MCblue§r_bookGrid)|
   
 This repository presents changes as I see fit, for a variety of purposes, as I please. Most of these changes will be based around VanillaTweaks modifications, the first of which will be for transparent UI.
 
