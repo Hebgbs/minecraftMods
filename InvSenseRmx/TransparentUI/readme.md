@@ -4,7 +4,7 @@ Heightened situational awareness via a remix of InventorySense UI you can see th
 > This work is based on 1.4.2. As this is an unaffiliated work, any specific 1.4.3 changes _may_ be reverted, though they are not likely significant enough to be of notice as the author mentioned most of the changes were not noteworthy. Nonetheless, raise an issue if something is inconsistient compared to InventorySense UI 1.4.3.
 
 ### Downloads
-Should you not want to download the entire Git repo for retrieving this theme, that is entrirely understandable. [Click on this link](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI/§eInvSenseUI_Transparent) to download the theme, courtesy of DownGit should you be unable or unwilling to do so from PlanetMinecraft.  
+Should you not want to download the entire Git repo for retrieving this theme, that is entrirely understandable. [Click on this link](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/TransparentUI/InvSenseUI_Transparent) to download the theme, courtesy of DownGit should you be unable or unwilling to do so from PlanetMinecraft.  
   
 For other colours, companion themes _to be used with this one_ can be found in [colourRmx](https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/colourRmx). Make sure you download a choice of companion suffixed with `clr-` (clear) in the beginning — this shorthand was used instead of any variety for transparent which could lead to potential end-user misunderstanding.
   

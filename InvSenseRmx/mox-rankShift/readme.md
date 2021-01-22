@@ -15,8 +15,8 @@ For other colours, companion themes _to be used with this one_ can be found in [
 Provided by DownGit!
 |Name|Resource pack|Download|
 |---|---|---|
-|InventorySense UI default|InvSenseUI_mox-Default_rankShift|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/mox-rankShift/InvSenseUI_§2mox§r-§7Default§r_rankShift)|
-|InventorySense UI "Minecraft blue"|InvSenseUI_mox-MCblue_rankShift|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/mox-rankShift/InvSenseUI_§2mox§r-§1MCblue§r_rankShift)|
+|InventorySense UI default|InvSenseUI_mox-Default_rankShift|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/mox-rankShift/InvSenseUI_mox-Default_rankShift)|
+|InventorySense UI "Minecraft blue"|InvSenseUI_mox-MCblue_rankShift|[Click](https://downgit.github.io/#/home?url=https://github.com/Hebgbs/minecraftMods/tree/master/InvSenseRmx/mox-rankShift/InvSenseUI_mox-MCblue_rankShift)|
 
 ### Interface principles
 By default, InventorySense Transparent UI has a big ol' empty hole in the recipe book. Some may prefer this, others may prefer to fill the hole without necessarily compromising their vision.
