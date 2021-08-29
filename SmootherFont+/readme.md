@@ -4,7 +4,7 @@ The contents provided here are  works originally published by Compliance team an
 ## Rationale
 The reason this font pack exists is because Compliance messed with Minecraft's font a _bit_ too much for my liking. There are a set of extended-like characters provided in Minecraft which are held separate and distinct from Latin alphabetical characters, that they decided wasn't right unless they replaced with their Latin equivalents. _I took that personally._
 
-You see, I am passionate about writing. I want to ensure everybody's intent within Minecraft with their writ comes off as they expected, and those changes removed a form of expression with writs people took the time to create in editors like LingoJam's Fancy Text Generator. Not only that, they couldn't finish the job! Compliance's modifications forgot the letter I. Install Smoother Font from Vanilla Tweaks and test this:
+You see, I am passionate about writing. I want to ensure everybody's writs within Minecraft are interpreted as intended by viewing parties, and those changes removed a form of expression from writs people took the time to create in editors like LingoJam's Fancy Text Generator. Not only that, they couldn't finish the job! Compliance's modifications forgot the glyph ɪ. Install Smoother Font from Vanilla Tweaks and test this:
 > ᴛʜᴇʏ ꜰᴏʀɢᴏᴛ ᴛʜᴇ ʟᴇᴛᴛᴇʀ "ɪ". ᴛʜɪꜱ ᴀʟꜱᴏ, ɪ ᴛᴏᴏᴋ ᴘᴇʀꜱᴏɴᴀʟʟʏ.
 
 Resolution of these frustrations alone do not make up this pack, however:
