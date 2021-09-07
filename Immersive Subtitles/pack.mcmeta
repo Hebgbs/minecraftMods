@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 6,
+		"pack_format": 7,
 		"description": [{"text":"Immersive subtitles 1.16.3"},{"text":"\nwith "},{"text":"c","color":"dark_purple"},{"text":"o","color":"dark_red"},{"text":"l","color":"gold"},{"text":"o","color":"yellow"},{"text":"u","color":"aqua"},{"text":"r","color":"blue"},{"text":"s","color":"dark_blue"},{"text":" and","color":"white"},{"text":" \u00A7o\u00A7lformatting","color":"gray"},{"text":"!","color":"white"}]
 	}
 }
