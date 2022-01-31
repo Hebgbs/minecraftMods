@@ -21,6 +21,8 @@ Resolution of these frustrations alone do not make up this pack, however:
 #### Pack modification
 If using the archive from PMC, decompress the archive into a separate directory within `resourcepacks`, discarding it in favour for using this work unpacked prior to tampering with it.
 #### Dice
-`nonlatin-european` also has dice glyphs, for 1-6. If you want them to be see-through ("Black") or to use actual numbers rather than dots, `nonlatin-european` variations provide these options. Just rename them to `nonlatin-european.png` prior to use.
+`nonlatin-european` also has dice glyphs, for _1_-_6_. If you want them to be see-through ("Black") or to use actual numbers rather than dots, `nonlatin-european` variations provide these options. Just rename them to `nonlatin-european.png` prior to use.
+#### Ballot boxes
+`accented` also has ballot glyphs for _blank_, _yes_ and _no_. If you want them to be opaque ("White") then `accented` variations provide these options. Just rename them to `nonlatin-european.png` after use.
 #### Hashtag symbol
 There is an alternate slanted hash variation of `ascii.txt`. If you would prefer that, grab it from there.
