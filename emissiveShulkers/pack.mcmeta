@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 8,
-		"description": [{"text":"Ther like to hide, the ","color":"purple"},{"text":"Shulkers","color":"magenta"},{"text":" who lurk in darkness….","color":"purple"}]
+		"description": [{"text":"They like to hide, the ","color":"dark_purple"},{"text":"Shulkers","color":"light_purple"},{"text":" who lurk in darkness….","color":"dark_purple"}]
 	}
 }
