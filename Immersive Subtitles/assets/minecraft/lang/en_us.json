@@ -652,5 +652,6 @@
   "subtitles.item.spyglass.stop_using": "§8§oSpyglass retracts",
   "subtitles.item.ink_sac.use": "§8§oInk Sac splotches",
   "subtitles.item.glow_ink_sac.use": "§8§oGlow Ink Sac splotches",
-  "subtitles.item.dye.use": "§8§oDye stains"
+  "subtitles.item.dye.use": "§8§oDye stains",
+  "_PF.comment": "In ./assets/presencefootsteps/lang"
 }
