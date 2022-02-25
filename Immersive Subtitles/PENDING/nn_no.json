@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lTrollkjerring drikk",
   "subtitles.entity.witch.hurt": "§2§oTrollkjerring verkjer",
   "subtitles.entity.witch.throw": "§c§lTrollkjerring kastar",
-  "subtitles.entity.wither.ambient": "§4§0§lWither argast",
+  "subtitles.entity.wither.ambient": "§4§o§lWither argast",
   "subtitles.entity.wither.death": "§b§lWither døyr",
   "subtitles.entity.wither.hurt": "§3§oWither verkjer",
   "subtitles.entity.wither.shoot": "§c§lWither åtek",

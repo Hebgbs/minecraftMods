@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lNoita juo",
   "subtitles.entity.witch.hurt": "§2§oNoita vahingoittuu",
   "subtitles.entity.witch.throw": "§c§lNoita heittää",
-  "subtitles.entity.wither.ambient": "§4§0§lWither suuttuu",
+  "subtitles.entity.wither.ambient": "§4§o§lWither suuttuu",
   "subtitles.entity.wither.death": "§b§lWither kuolee",
   "subtitles.entity.wither.hurt": "§3§oWither vahingoittuu",
   "subtitles.entity.wither.shoot": "§c§lWither hyökkää",

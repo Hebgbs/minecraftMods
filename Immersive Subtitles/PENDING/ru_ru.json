@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lВедьма пьёт зелье",
   "subtitles.entity.witch.hurt": "§2§oВедьма ранена",
   "subtitles.entity.witch.throw": "§c§lВедьма бросает зелье",
-  "subtitles.entity.wither.ambient": "§4§0§lВизер злится",
+  "subtitles.entity.wither.ambient": "§4§o§lВизер злится",
   "subtitles.entity.wither.death": "§b§lВизер погибает",
   "subtitles.entity.wither.hurt": "§3§oВизер ранен",
   "subtitles.entity.wither.shoot": "§c§lВизер атакует",

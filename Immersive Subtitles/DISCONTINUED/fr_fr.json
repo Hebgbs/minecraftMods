@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lSorcière qui boit",
   "subtitles.entity.witch.hurt": "§2§oSorcière blessée",
   "subtitles.entity.witch.throw": "§c§lPotion de sorcière lancée",
-  "subtitles.entity.wither.ambient": "§4§0§lWither en colère",
+  "subtitles.entity.wither.ambient": "§4§o§lWither en colère",
   "subtitles.entity.wither.death": "§b§lWither qui meurt",
   "subtitles.entity.wither.hurt": "§3§oWither blessé",
   "subtitles.entity.wither.shoot": "§c§lWither qui attaque",

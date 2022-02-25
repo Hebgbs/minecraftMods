@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lVještica pije",
   "subtitles.entity.witch.hurt": "§2§oVještica je ozlijeđena",
   "subtitles.entity.witch.throw": "§c§lVještica baca",
-  "subtitles.entity.wither.ambient": "§4§0§lWither se ljuti",
+  "subtitles.entity.wither.ambient": "§4§o§lWither se ljuti",
   "subtitles.entity.wither.death": "§b§lWither umire",
   "subtitles.entity.wither.hurt": "§3§oWither je ozlijeđen",
   "subtitles.entity.wither.shoot": "§c§lWither napada",

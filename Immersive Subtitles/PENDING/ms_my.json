@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lAhli Sihir meminum",
   "subtitles.entity.witch.hurt": "§2§oAhli sihir tercedera",
   "subtitles.entity.witch.throw": "§c§lAhli Sihir membaling",
-  "subtitles.entity.wither.ambient": "§4§0§lWither kemarahan",
+  "subtitles.entity.wither.ambient": "§4§o§lWither kemarahan",
   "subtitles.entity.wither.death": "§b§lWither mati",
   "subtitles.entity.wither.hurt": "§3§oWither tercedera",
   "subtitles.entity.wither.shoot": "§c§lWither menyerang",

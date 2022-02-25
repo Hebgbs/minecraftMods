@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lUna bruixa està bebent",
   "subtitles.entity.witch.hurt": "§2§oHan ferit una bruixa",
   "subtitles.entity.witch.throw": "§c§lUna bruixa està llançant pocions",
-  "subtitles.entity.wither.ambient": "§4§0§lUn wither s'ha enfadat",
+  "subtitles.entity.wither.ambient": "§4§o§lUn wither s'ha enfadat",
   "subtitles.entity.wither.death": "§b§lHa mort un wither",
   "subtitles.entity.wither.hurt": "§3§oHan ferit un wither",
   "subtitles.entity.wither.shoot": "§c§lUn wither està atacant",

@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lУбырлы эчә",
   "subtitles.entity.witch.hurt": "§2§oУбырлы яраланды",
   "subtitles.entity.witch.throw": "§c§lУбырлы эчемлек ташлады",
-  "subtitles.entity.wither.ambient": "§4§0§lВизер усаллана",
+  "subtitles.entity.wither.ambient": "§4§o§lВизер усаллана",
   "subtitles.entity.wither.death": "§b§lВизер үлә",
   "subtitles.entity.wither.hurt": "§3§oВизер яраланды",
   "subtitles.entity.wither.shoot": "§c§lВизер һөҗүм итә",

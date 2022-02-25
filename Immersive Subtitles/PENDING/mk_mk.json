@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lВештерка пие",
   "subtitles.entity.witch.hurt": "§2§oВештерка е повредена",
   "subtitles.entity.witch.throw": "§c§lВештерка фрла",
-  "subtitles.entity.wither.ambient": "§4§0§lВидер се нервира",
+  "subtitles.entity.wither.ambient": "§4§o§lВидер се нервира",
   "subtitles.entity.wither.death": "§b§lВидер умира",
   "subtitles.entity.wither.hurt": "§3§oВидер е повреден",
   "subtitles.entity.wither.shoot": "§c§lВидер напаѓа",

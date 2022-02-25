@@ -515,7 +515,7 @@
   "subtitles.entity.witch.drink": "§c§lWizard drinks",
   "subtitles.entity.witch.hurt": "§2§oWizard hurts",
   "subtitles.entity.witch.throw": "§c§lWizard throws",
-  "subtitles.entity.wither.ambient": "§4§0§lWither angers",
+  "subtitles.entity.wither.ambient": "§4§o§lWither angers",
   "subtitles.entity.wither.death": "§b§lWither dies",
   "subtitles.entity.wither.hurt": "§3§oWither hurts",
   "subtitles.entity.wither.shoot": "§c§lWither attacks",

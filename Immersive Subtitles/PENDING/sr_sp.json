@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lВештица пије",
   "subtitles.entity.witch.hurt": "§2§oРањавање вештице",
   "subtitles.entity.witch.throw": "§c§lВештица баца",
-  "subtitles.entity.wither.ambient": "§4§0§lВидер бесни",
+  "subtitles.entity.wither.ambient": "§4§o§lВидер бесни",
   "subtitles.entity.wither.death": "§b§lВидер умире",
   "subtitles.entity.wither.hurt": "§3§oВидер рањен",
   "subtitles.entity.wither.shoot": "§c§lВидер напада",

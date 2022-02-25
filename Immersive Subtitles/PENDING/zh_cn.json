@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§l女巫：喝药水",
   "subtitles.entity.witch.hurt": "§2§o女巫：受伤",
   "subtitles.entity.witch.throw": "§c§l女巫：投掷",
-  "subtitles.entity.wither.ambient": "§4§0§l凋灵：愤怒",
+  "subtitles.entity.wither.ambient": "§4§o§l凋灵：愤怒",
   "subtitles.entity.wither.death": "§b§l凋灵：死亡",
   "subtitles.entity.wither.hurt": "§3§o凋灵：受伤",
   "subtitles.entity.wither.shoot": "§c§l凋灵：攻击",

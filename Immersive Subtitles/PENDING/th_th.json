@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lแม่มดดื่มยา",
   "subtitles.entity.witch.hurt": "§2§oแม่มดได้รับบาดเจ็บ",
   "subtitles.entity.witch.throw": "§c§lแม่มดโยนขวดยา",
-  "subtitles.entity.wither.ambient": "§4§0§lวิทเธอร์โกรธ",
+  "subtitles.entity.wither.ambient": "§4§o§lวิทเธอร์โกรธ",
   "subtitles.entity.wither.death": "§b§lวิทเทอร์ตาย",
   "subtitles.entity.wither.hurt": "§3§oวิทเธอร์ได้รับบาดเจ็บ",
   "subtitles.entity.wither.shoot": "§c§lวิทเทอร์โจมตี",

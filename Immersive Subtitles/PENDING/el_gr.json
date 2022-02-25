@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lΜάγισσα πίνει",
   "subtitles.entity.witch.hurt": "§2§oΜάγισσα τραυματίζεται",
   "subtitles.entity.witch.throw": "§c§lΜάγισσα ρίχνει",
-  "subtitles.entity.wither.ambient": "§4§0§lWither θυμώνει",
+  "subtitles.entity.wither.ambient": "§4§o§lWither θυμώνει",
   "subtitles.entity.wither.death": "§b§lWither πεθαίνει",
   "subtitles.entity.wither.hurt": "§3§oWither τραυματίζεται",
   "subtitles.entity.wither.shoot": "§c§lWither επιτίθεται",

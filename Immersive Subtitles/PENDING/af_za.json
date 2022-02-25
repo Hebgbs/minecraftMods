@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lHeks drink",
   "subtitles.entity.witch.hurt": "§2§oHeks beseer",
   "subtitles.entity.witch.throw": "§c§lHeks gooi",
-  "subtitles.entity.wither.ambient": "§4§0§lWither raak kwaad",
+  "subtitles.entity.wither.ambient": "§4§o§lWither raak kwaad",
   "subtitles.entity.wither.death": "§b§lWither sterf",
   "subtitles.entity.wither.hurt": "§3§oWither beseer",
   "subtitles.entity.wither.shoot": "§c§lWither val aan",

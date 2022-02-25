@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lCailleach ag ól",
   "subtitles.entity.witch.hurt": "§2§oGortaítear cailleach",
   "subtitles.entity.witch.throw": "§c§lCailleach ag teilgean",
-  "subtitles.entity.wither.ambient": "§4§0§lSeargthóir corraithe",
+  "subtitles.entity.wither.ambient": "§4§o§lSeargthóir corraithe",
   "subtitles.entity.wither.death": "§b§lSeargthóir ag fáil bháis",
   "subtitles.entity.wither.hurt": "§3§oGortaíodh an Wither",
   "subtitles.entity.wither.shoot": "§c§lTá an Seargthóir ag ionsaí",

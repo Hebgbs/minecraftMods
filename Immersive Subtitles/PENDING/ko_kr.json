@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§l마녀가 물약을 마심",
   "subtitles.entity.witch.hurt": "§2§o마녀가 상처를 입음",
   "subtitles.entity.witch.throw": "§c§l마녀가 물약을 던짐",
-  "subtitles.entity.wither.ambient": "§4§0§l위더가 화나 소리 지름",
+  "subtitles.entity.wither.ambient": "§4§o§l위더가 화나 소리 지름",
   "subtitles.entity.wither.death": "§b§l위더가 죽음",
   "subtitles.entity.wither.hurt": "§3§o위더가 상처를 입음",
   "subtitles.entity.wither.shoot": "§c§l위더가 공격함",

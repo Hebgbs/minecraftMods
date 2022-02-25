@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lHäxa dricker",
   "subtitles.entity.witch.hurt": "§2§oHäxa skadas",
   "subtitles.entity.witch.throw": "§c§lHäxa kastar",
-  "subtitles.entity.wither.ambient": "§4§0§lWither blir arg",
+  "subtitles.entity.wither.ambient": "§4§o§lWither blir arg",
   "subtitles.entity.wither.death": "§b§lWither dör",
   "subtitles.entity.wither.hurt": "§3§oWither skadas",
   "subtitles.entity.wither.shoot": "§c§lWither attackerar",

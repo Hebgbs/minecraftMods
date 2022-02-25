@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lHeggse dringd",
   "subtitles.entity.witch.hurt": "§2§oHeggse nimmd Schadn",
   "subtitles.entity.witch.throw": "§c§lHeggse würfd",
-  "subtitles.entity.wither.ambient": "§4§0§lWither erzürnd",
+  "subtitles.entity.wither.ambient": "§4§o§lWither erzürnd",
   "subtitles.entity.wither.death": "§b§lWither schdürbd",
   "subtitles.entity.wither.hurt": "§3§oWither nimmd Schadn",
   "subtitles.entity.wither.shoot": "§c§lWither greifd an",

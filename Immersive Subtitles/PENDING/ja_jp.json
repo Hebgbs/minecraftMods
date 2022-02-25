@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lウィッチが飲む",
   "subtitles.entity.witch.hurt": "§2§oウィッチがダメージを受ける",
   "subtitles.entity.witch.throw": "§c§lウィッチが投げる",
-  "subtitles.entity.wither.ambient": "§4§0§lウィザーが怒る",
+  "subtitles.entity.wither.ambient": "§4§o§lウィザーが怒る",
   "subtitles.entity.wither.death": "§b§lウィザーが死ぬ",
   "subtitles.entity.wither.hurt": "§3§oウィザーがダメージを受ける",
   "subtitles.entity.wither.shoot": "§c§lウィザーが攻撃をする",

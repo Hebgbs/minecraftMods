@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lVenefica bibit",
   "subtitles.entity.witch.hurt": "§2§oVenefica dolet",
   "subtitles.entity.witch.throw": "§c§lVenefica iacit",
-  "subtitles.entity.wither.ambient": "§4§0§lDeustor circumfremit",
+  "subtitles.entity.wither.ambient": "§4§o§lDeustor circumfremit",
   "subtitles.entity.wither.death": "§b§lDeustor moritur",
   "subtitles.entity.wither.hurt": "§3§oDeustor dolet",
   "subtitles.entity.wither.shoot": "§c§lDeustor oppugnat",

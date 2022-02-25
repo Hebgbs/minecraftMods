@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lВедзьма п'е зелле",
   "subtitles.entity.witch.hurt": "§2§oВедзьма параненая",
   "subtitles.entity.witch.throw": "§c§lВедзьма кідае зелле",
-  "subtitles.entity.wither.ambient": "§4§0§lВідар раз'юшаны",
+  "subtitles.entity.wither.ambient": "§4§o§lВідар раз'юшаны",
   "subtitles.entity.wither.death": "§b§lВідар гіне",
   "subtitles.entity.wither.hurt": "§3§oВідар паранены",
   "subtitles.entity.wither.shoot": "§c§lВідар атакуе",

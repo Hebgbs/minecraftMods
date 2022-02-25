@@ -514,7 +514,7 @@
   "subtitles.entity.witch.drink": "§c§lSorcino drinkas",
   "subtitles.entity.witch.hurt": "§2§oSorcino doloras",
   "subtitles.entity.witch.throw": "§c§lSorcino jetas",
-  "subtitles.entity.wither.ambient": "§4§0§lWithero iracigas",
+  "subtitles.entity.wither.ambient": "§4§o§lWithero iracigas",
   "subtitles.entity.wither.death": "§b§lWithero mortas",
   "subtitles.entity.wither.hurt": "§3§oWithero doloras",
   "subtitles.entity.wither.shoot": "§c§lWithero atakas",
