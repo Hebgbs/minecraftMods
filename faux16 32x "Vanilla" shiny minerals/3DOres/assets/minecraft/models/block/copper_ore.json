@@ -1,0 +1,11 @@
+{
+  "parent": "block/cu3D_shimmer",
+  "textures": {
+    "0": "block/cuO_0",
+	"0d4": "block/cuO_0d4",
+	"90": "block/cuO_90",
+	"90d4": "block/cuO_90d4",
+	"180d4": "block/cuO_180d4",
+	"particle": "block/cuO_0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/lap3D_shimmer",
+  "textures": {
+    "0": "block/lapO_0",
+	"0d4": "block/lapO_0d4",
+	"90": "block/lapO_90",
+	"90d4": "block/lapO_90d4",
+	"180d4": "block/lapO_180d4",
+	"particle": "block/lapO_0"
+  }
+}

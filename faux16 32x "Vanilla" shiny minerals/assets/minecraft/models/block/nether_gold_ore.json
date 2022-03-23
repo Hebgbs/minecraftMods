@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube_shimmer",
+	"textures": {
+		"0": "block/auN_0",
+		"0d4": "block/auN_0d4",
+		"90": "block/auN_90",
+		"90d4": "block/auN_90d4",
+		"180d4": "block/auN_180d4",
+		"particle": "block/auN_0.png"
+	}
+}

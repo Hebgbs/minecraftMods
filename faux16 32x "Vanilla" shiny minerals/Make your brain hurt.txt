@@ -1,0 +1,47 @@
+Rosetta stone for persons interested in completely understanding the filenames provided:
+
+MATERIALS(M)
+Gems
+Amethyst...amy
+Lapis......lap
+Emerald....eme
+Quartz.....qtz
+Diamond....dia
+Metals
+Iron........fe
+Gold........au
+Copper......cu
+
+PREFIXES(P)
+Amethyst
+Budding...b_
+Copper
+Waxed.....w_
+
+TYPES(T)
+Stone ore.........O
+Deepslate ore.....D
+Netherrack ore....N
+Raw block.........R
+Block.............B
+Copper
+Cut...............X
+Quartz
+Smooth............S
+Chisled...........C
+Animation orientation(o)
+Facing top........0
+Facing right-.---90
+Facing bottom---180
+Animation speed(d)
+-4ms.............d4
+
+SUFFIXES(S)
+Copper state
+Fresh.......-s0
+Exposed.....-s1
+Weathered...-s2
+Oxidized....-s3
+
+ORDER
+All shorthand will be presented as P_MT-S_od. This shorthand exists for my convenience only — as I append onto this in future I will create more shorthand as necessary for completing my objectives more quickly.

@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube_shimmer",
+	"textures": {
+		"0": "block/emeO_0",
+		"0d4": "block/emeO_0d4",
+		"90": "block/emeO_90",
+		"90d4": "block/emeO_90d4",
+		"180d4": "block/emeO_180d4",
+		"particle": "block/emeO_0"
+	}
+}
