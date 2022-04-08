@@ -1,0 +1,7 @@
+{
+  "parent": "block/redstone_ore_3D",
+  "textures": {
+    "particle": "minecraft:block/redstone_ore_off",
+    "ore": "minecraft:block/redstone_ore_off"
+  }
+}

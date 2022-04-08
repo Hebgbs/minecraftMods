@@ -1,0 +1,7 @@
+{
+  "parent": "block/coal_ore_3D",
+  "textures": {
+    "particle": "minecraft:block/coal_ore",
+    "ore": "minecraft:block/coal_ore"
+  }
+}

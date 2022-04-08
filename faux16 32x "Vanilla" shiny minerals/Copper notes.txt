@@ -1,3 +1,0 @@
-./cuMods includes assets for Copper Block and Cut Copper ONLY. Copy the contents of that directory into the game only if you are intending to have the copper blocks in the game use a shimmeer effect similarly to the other storage blocks which have such an effect.
-
-This directory is not included in the Planet Minecraft submission. Please revisit and download the content from GitHub if you want these blocks. Or _even better_ clone it into your game profile's resource pack directory and use it directly, rather than downloading from Planet Minecraft.
