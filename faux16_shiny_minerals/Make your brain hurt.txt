@@ -2,11 +2,11 @@ Rosetta stone for persons interested in completely understanding the filenames p
 
 MATERIALS(M)
 Gems
-Amethyst...amy
-Lapis......lap
-Emerald....eme
-Quartz.....qtz
-Diamond....dia
+Amethyst...am
+Lapis......la
+Emerald....em
+Quartz.....qz
+Diamond....di
 Metals
 Iron........fe
 Gold........au
@@ -14,21 +14,21 @@ Copper......cu
 
 PREFIXES(P)
 Amethyst
-Budding...b_
+Budding...b
 Copper
-Waxed.....w_
+Waxed.....w
 
 TYPES(T)
-Stone ore.........O
-Deepslate ore.....D
-Netherrack ore....N
-Raw block.........R
-Block.............B
+Stone ore.........o
+Deepslate ore.....d
+Netherrack ore....n
+Raw block.........r
+Block.............b
 Copper
-Cut...............X
+Cut...............x
 Quartz
-Smooth............S
-Chisled...........C
+Smooth............s
+Chisled...........c
 Animation orientation(o)
 Facing top........0
 Facing right-.---90
@@ -44,4 +44,4 @@ Weathered...-s2
 Oxidized....-s3
 
 ORDER
-All shorthand will be presented as P_MT-S_od. This shorthand exists for my convenience only — as I append onto this in future I will create more shorthand as necessary for completing my objectives more quickly.
+Under construction thanks to the need for a case change on most items to make them work in Minecraft... for some reason. I hate it.
