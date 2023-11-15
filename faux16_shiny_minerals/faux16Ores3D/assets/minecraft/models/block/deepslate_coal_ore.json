@@ -1,5 +1,5 @@
 {
-  "parent": "block/coal_ore_3D",
+  "parent": "block/coal_ore_3d",
   "textures": {
     "particle": "minecraft:block/deepslate_coal_ore",
     "ore": "minecraft:block/deepslate_coal_ore"
