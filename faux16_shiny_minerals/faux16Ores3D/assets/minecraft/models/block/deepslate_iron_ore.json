@@ -1,11 +1,11 @@
 {
-  "parent": "block/fe3D_shimmer",
+  "parent": "block/fe_3d",
   "textures": {
-    "0": "block/feD_0",
-	"0d4": "block/feD_0d4",
-	"90": "block/feD_90",
-	"90d4": "block/feD_90d4",
-	"180d4": "block/feD_180d4",
-	"particle": "block/feD_0"
+    "0": "block/dfe_0",
+	"0d4": "block/dfe_0d4",
+	"90": "block/dfe_90",
+	"90d4": "block/dfe_90d4",
+	"180d4": "block/dfe_180d4",
+	"particle": "block/dfe_0"
   }
 }

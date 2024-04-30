@@ -1,5 +1,5 @@
 {
-  "parent": "block/deepslate_redstone_ore_3D",
+  "parent": "block/deepslate_redstone_ore_3d",
   "textures": {
     "particle": "minecraft:block/deepslate_redstone_ore",
     "ore": "minecraft:block/deepslate_redstone_ore"

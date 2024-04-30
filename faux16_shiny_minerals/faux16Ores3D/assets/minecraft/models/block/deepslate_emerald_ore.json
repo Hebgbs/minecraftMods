@@ -1,11 +1,11 @@
 {
-  "parent": "block/eme3D_shimmer",
+  "parent": "block/eme_3d",
   "textures": {
-    "0": "block/emeD_0",
-	"0d4": "block/emeD_0d4",
-	"90": "block/emeD_90",
-	"90d4": "block/emeD_90d4",
-	"180d4": "block/emeD_180d4",
-	"particle": "block/emeD_0"
+    "0": "block/dem_0",
+	"0d4": "block/dem_0d4",
+	"90": "block/dem_90",
+	"90d4": "block/dem_90d4",
+	"180d4": "block/dem_180d4",
+	"particle": "block/dem_0"
   }
 }

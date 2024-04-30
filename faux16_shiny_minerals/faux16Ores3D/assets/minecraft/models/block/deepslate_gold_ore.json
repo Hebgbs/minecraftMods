@@ -1,11 +1,11 @@
 {
-  "parent": "block/au3D_shimmer",
+  "parent": "block/au_3d",
   "textures": {
-    "0": "block/auD_0",
-	"0d4": "block/auD_0d4",
-	"90": "block/auD_90",
-	"90d4": "block/auD_90d4",
-	"180d4": "block/auD_180d4",
-	"particle": "block/auD_0"
+    "0": "block/dau_0",
+	"0d4": "block/dau_0d4",
+	"90": "block/dau_90",
+	"90d4": "block/dau_90d4",
+	"180d4": "block/dau_180d4",
+	"particle": "block/dau_0"
   }
 }

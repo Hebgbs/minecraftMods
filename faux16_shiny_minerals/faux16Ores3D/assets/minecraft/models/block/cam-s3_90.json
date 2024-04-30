@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "block/amyO-s3_90"
+    "cross": "block/cam-s3_90"
   }
 }

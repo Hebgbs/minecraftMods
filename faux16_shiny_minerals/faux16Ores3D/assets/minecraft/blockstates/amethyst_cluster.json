@@ -1,28 +1,28 @@
 {
   "variants": {
     "facing=down": {
-      "model": "minecraft:block/amyO-s3_0R",
+      "model": "minecraft:block/cam-s3_0inv",
       "x": 180
     },
     "facing=east": {
-      "model": "minecraft:block/amyO-s3_90",
+      "model": "minecraft:block/cam-s3_90",
       "x": 90,
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:block/amyO-s3_0R",
+      "model": "minecraft:block/cam-s3_0inv",
       "x": 90
     },
     "facing=south": {
-      "model": "minecraft:block/amyO-s3_0",
+      "model": "minecraft:block/cam-s3_0",
       "x": 90,
       "y": 180
     },
     "facing=up": {
-      "model": "minecraft:block/amyO-s3_0"
+      "model": "minecraft:block/cam-s3_0"
     },
     "facing=west": {
-      "model": "minecraft:block/amyO-s3_90R",
+      "model": "minecraft:block/cam-s3_90inv",
       "x": 90,
       "y": 270
     }

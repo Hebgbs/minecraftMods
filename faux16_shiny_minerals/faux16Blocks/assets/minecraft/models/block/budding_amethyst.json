@@ -1,11 +1,11 @@
 {
 	"parent": "block/cube_shimmer",
 	"textures": {
-		"0": "block/b_amy_0",
-		"0d4": "block/b_amy_0d4",
-		"90": "block/b_amy_90",
-		"90d4": "block/b_amy_90d4",
-		"180d4": "block/b_amy_180d4",
+		"0": "block/gam_0",
+		"0d4": "block/gam_0d4",
+		"90": "block/gam_90",
+		"90d4": "block/gam_90d4",
+		"180d4": "block/gam_180d4",
 		"particle": "minecraft:block/amethyst_cluster"
 	}
 }

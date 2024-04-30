@@ -1,11 +1,11 @@
 {
 	"parent": "block/cube_shimmer",
 	"textures": {
-		"0": "block/emeB_0",
-		"0d4": "block/emeB_0d4",
-		"90": "block/emeB_90",
-		"90d4": "block/emeB_90d4",
-		"180d4": "block/emeB_180d4",
-		"particle": "block/emeB_0"
+		"0": "block/bem_0",
+		"0d4": "block/bem_0d4",
+		"90": "block/bem_90",
+		"90d4": "block/bem_90d4",
+		"180d4": "block/bem_180d4",
+		"particle": "block/bem_0"
 	}
 }

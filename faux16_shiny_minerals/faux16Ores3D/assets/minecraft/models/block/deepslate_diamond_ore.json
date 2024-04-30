@@ -1,11 +1,11 @@
 {
-  "parent": "block/dia3D_shimmer",
+  "parent": "block/dia_3d",
   "textures": {
-    "0": "block/diaD_0",
-	"0d4": "block/diaD_0d4",
-	"90": "block/diaD_90",
-	"90d4": "block/diaD_90d4",
-	"180d4": "block/diaD_180d4",
-	"particle": "block/diaD_0"
+    "0": "block/ddi_0",
+	"0d4": "block/ddi_0d4",
+	"90": "block/ddi_90",
+	"90d4": "block/ddi_90d4",
+	"180d4": "block/ddi_180d4",
+	"particle": "block/ddi_0"
   }
 }
