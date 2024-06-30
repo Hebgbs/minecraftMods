@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/slime_block" },
+      { "model": "block/variated/slime_block/slime_block_01" },
+      { "model": "block/variated/slime_block/slime_block_02" },
+      { "model": "block/variated/slime_block/slime_block_03" },
+      { "model": "block/variated/slime_block/slime_block_04" },
+      { "model": "block/variated/slime_block/slime_block_05" },
+      { "model": "block/variated/slime_block/slime_block_06" },
+      { "model": "block/variated/slime_block/slime_block_07" },
+      { "model": "block/variated/slime_block/slime_block_08" },
+      { "model": "block/variated/slime_block/slime_block_09" },
+      { "model": "block/variated/slime_block/slime_block_10" },
+      { "model": "block/variated/slime_block/slime_block_11" },
+      { "model": "block/variated/slime_block/slime_block_12" },
+      { "model": "block/variated/slime_block/slime_block_13" },
+      { "model": "block/variated/slime_block/slime_block_14" },
+      { "model": "block/variated/slime_block/slime_block_15" }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/variated/slime_block/slime_block_06"
+  }
+}
