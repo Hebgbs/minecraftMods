@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "Randomized slimes from VanillaTweaks"
+    "pack_format": 15, "supported_formats": [15, 32],
+    "description": "§6Vanilla Tweaks§r' §4w§co§6r§el§2d§a §bo§3f§1 §9c§do§4l§co§6r§r §7slimes§r & §7blocks§r, now variated§o!",
+    "comment": "Yeah, I get that I am repackaging existing work because VT falls short providing features, but they probably weren't going to go this anyway. I'm taking this down the moment I catch wind of them doing it."
   }
 }
