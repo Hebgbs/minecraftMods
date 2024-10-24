@@ -1,0 +1,15 @@
+{
+    "Preference": "Appearance can be modified by changing the parent block as-described in the below.",
+    "NOTE": "All lines except 5 bear no fufnction beyond informing the end-user.",
+
+    "parent": "block/cmp_stubby",
+
+    "Adjustment": {
+        "First": "Extract the contents of this pack, or create a new pack as directory in /resourcepacks/.",
+        "Second": "Select from either of the following below for the block parent above:"
+    },
+    "Options": {
+        "cmp_vt": "Vanilla Tweaks' original idea for visual composters. The window therein is taller than cauldron.",
+        "cmp_stubby": "My modification of the idea which uses the same window height as Cauldron for consistency ."
+    }
+}
