@@ -2,7 +2,7 @@
     "Preference": "Appearance can be modified by changing the parent block as-described in the below.",
     "NOTE": "All lines except 5 bear no fufnction beyond informing the end-user.",
 
-    "parent": "block/cmp_stubby",
+    "parent": "block/cmp_vt",
 
     "Adjustment": {
         "First": "Extract the contents of this pack, or create a new pack as directory in /resourcepacks/.",
