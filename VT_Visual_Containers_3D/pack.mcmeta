@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 34,
+	"pack_format": 34,
+	"supported_formats": {"min_inclusive": 16, "max_inclusive": 34},
         "description": "§6Vanilla Tweaks§r, §e§obut better§r.\nSupports §fBedrockify§r§o!"
     }
 }
